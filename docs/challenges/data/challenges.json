@@ -364,5 +364,11 @@
     "title": "Count Increasing Quadruplets",
     "url": "https://leetcode.com/problems/count-increasing-quadruplets/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "22-12-2024 17:07 UTC",
+    "title": "Ugly Number III",
+    "url": "https://leetcode.com/problems/ugly-number-iii/description",
+    "difficulty": "MEDIUM"
   }
 ]
