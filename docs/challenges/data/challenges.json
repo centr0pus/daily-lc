@@ -358,5 +358,11 @@
     "title": "Graph Connectivity With Threshold",
     "url": "https://leetcode.com/problems/graph-connectivity-with-threshold/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "22-12-2024 03:12 UTC",
+    "title": "Count Increasing Quadruplets",
+    "url": "https://leetcode.com/problems/count-increasing-quadruplets/description",
+    "difficulty": "HARD"
   }
 ]
