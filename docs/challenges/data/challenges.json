@@ -370,5 +370,11 @@
     "title": "Ugly Number III",
     "url": "https://leetcode.com/problems/ugly-number-iii/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "23-12-2024 17:07 UTC",
+    "title": "Find the Original Typed String II",
+    "url": "https://leetcode.com/problems/find-the-original-typed-string-ii/description",
+    "difficulty": "HARD"
   }
 ]
