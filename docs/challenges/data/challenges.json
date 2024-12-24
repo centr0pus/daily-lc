@@ -376,5 +376,11 @@
     "title": "Find the Original Typed String II",
     "url": "https://leetcode.com/problems/find-the-original-typed-string-ii/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "24-12-2024 17:07 UTC",
+    "title": "Number of Ways to Divide a Long Corridor",
+    "url": "https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/description",
+    "difficulty": "HARD"
   }
 ]
