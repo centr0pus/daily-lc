@@ -382,5 +382,11 @@
     "title": "Number of Ways to Divide a Long Corridor",
     "url": "https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "25-12-2024 17:09 UTC",
+    "title": "Reverse String",
+    "url": "https://leetcode.com/problems/reverse-string/description",
+    "difficulty": "EASY"
   }
 ]
