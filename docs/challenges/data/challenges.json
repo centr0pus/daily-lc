@@ -388,5 +388,11 @@
     "title": "Reverse String",
     "url": "https://leetcode.com/problems/reverse-string/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "26-12-2024 17:07 UTC",
+    "title": "Closest Leaf in a Binary Tree",
+    "url": "https://leetcode.com/problems/closest-leaf-in-a-binary-tree/description",
+    "difficulty": "MEDIUM"
   }
 ]
