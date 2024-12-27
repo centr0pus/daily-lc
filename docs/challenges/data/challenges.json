@@ -388,5 +388,11 @@
     "title": "Reverse String",
     "url": "https://leetcode.com/problems/reverse-string/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "27-12-2024 02:29 UTC",
+    "title": "Largest Triangle Area",
+    "url": "https://leetcode.com/problems/largest-triangle-area/description",
+    "difficulty": "EASY"
   }
 ]
