@@ -400,5 +400,11 @@
     "title": "Top Travellers",
     "url": "https://leetcode.com/problems/top-travellers/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "28-12-2024 17:06 UTC",
+    "title": "Rotate Image",
+    "url": "https://leetcode.com/problems/rotate-image/description",
+    "difficulty": "MEDIUM"
   }
 ]
