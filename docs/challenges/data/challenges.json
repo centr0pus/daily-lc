@@ -412,5 +412,11 @@
     "title": "Final Array State After K Multiplication Operations I",
     "url": "https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "30-12-2024 17:07 UTC",
+    "title": "Third Maximum Number",
+    "url": "https://leetcode.com/problems/third-maximum-number/description",
+    "difficulty": "EASY"
   }
 ]
