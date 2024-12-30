@@ -406,5 +406,11 @@
     "title": "Rotate Image",
     "url": "https://leetcode.com/problems/rotate-image/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "29-12-2024 17:07 UTC",
+    "title": "Final Array State After K Multiplication Operations I",
+    "url": "https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/description",
+    "difficulty": "EASY"
   }
 ]
