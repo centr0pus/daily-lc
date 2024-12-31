@@ -418,5 +418,11 @@
     "title": "Third Maximum Number",
     "url": "https://leetcode.com/problems/third-maximum-number/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "31-12-2024 17:07 UTC",
+    "title": "Can I Win",
+    "url": "https://leetcode.com/problems/can-i-win/description",
+    "difficulty": "MEDIUM"
   }
 ]
