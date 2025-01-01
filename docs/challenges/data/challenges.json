@@ -424,5 +424,11 @@
     "title": "Can I Win",
     "url": "https://leetcode.com/problems/can-i-win/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "01-01-2025 17:07 UTC",
+    "title": "Minimum String Length After Removing Substrings",
+    "url": "https://leetcode.com/problems/minimum-string-length-after-removing-substrings/description",
+    "difficulty": "EASY"
   }
 ]
