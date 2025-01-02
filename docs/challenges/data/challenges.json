@@ -430,5 +430,11 @@
     "title": "Minimum String Length After Removing Substrings",
     "url": "https://leetcode.com/problems/minimum-string-length-after-removing-substrings/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "02-01-2025 17:07 UTC",
+    "title": "Number of Valid Words in a Sentence",
+    "url": "https://leetcode.com/problems/number-of-valid-words-in-a-sentence/description",
+    "difficulty": "EASY"
   }
 ]
