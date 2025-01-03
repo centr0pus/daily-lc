@@ -436,5 +436,11 @@
     "title": "Number of Valid Words in a Sentence",
     "url": "https://leetcode.com/problems/number-of-valid-words-in-a-sentence/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "03-01-2025 17:07 UTC",
+    "title": "User Activities within Time Bounds",
+    "url": "https://leetcode.com/problems/user-activities-within-time-bounds/description",
+    "difficulty": "HARD"
   }
 ]
