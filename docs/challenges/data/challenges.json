@@ -442,5 +442,11 @@
     "title": "User Activities within Time Bounds",
     "url": "https://leetcode.com/problems/user-activities-within-time-bounds/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "04-01-2025 17:07 UTC",
+    "title": "Find a Corresponding Node of a Binary Tree in a Clone of That Tree",
+    "url": "https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/description",
+    "difficulty": "EASY"
   }
 ]
