@@ -448,5 +448,11 @@
     "title": "Find a Corresponding Node of a Binary Tree in a Clone of That Tree",
     "url": "https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "05-01-2025 17:06 UTC",
+    "title": "Serialize and Deserialize N-ary Tree",
+    "url": "https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/description",
+    "difficulty": "HARD"
   }
 ]
