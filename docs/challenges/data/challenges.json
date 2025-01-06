@@ -454,5 +454,11 @@
     "title": "Serialize and Deserialize N-ary Tree",
     "url": "https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "06-01-2025 17:08 UTC",
+    "title": "Check if Object Instance of Class",
+    "url": "https://leetcode.com/problems/check-if-object-instance-of-class/description",
+    "difficulty": "MEDIUM"
   }
 ]
