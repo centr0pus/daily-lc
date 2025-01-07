@@ -460,5 +460,11 @@
     "title": "Check if Object Instance of Class",
     "url": "https://leetcode.com/problems/check-if-object-instance-of-class/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "07-01-2025 17:08 UTC",
+    "title": "Longest Even Odd Subarray With Threshold",
+    "url": "https://leetcode.com/problems/longest-even-odd-subarray-with-threshold/description",
+    "difficulty": "EASY"
   }
 ]
