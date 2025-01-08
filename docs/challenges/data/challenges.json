@@ -466,5 +466,11 @@
     "title": "Longest Even Odd Subarray With Threshold",
     "url": "https://leetcode.com/problems/longest-even-odd-subarray-with-threshold/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "08-01-2025 17:08 UTC",
+    "title": "Find Building Where Alice and Bob Can Meet",
+    "url": "https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/description",
+    "difficulty": "HARD"
   }
 ]
