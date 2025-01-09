@@ -472,5 +472,11 @@
     "title": "Find Building Where Alice and Bob Can Meet",
     "url": "https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "09-01-2025 17:08 UTC",
+    "title": "Maximum Number of Books You Can Take",
+    "url": "https://leetcode.com/problems/maximum-number-of-books-you-can-take/description",
+    "difficulty": "HARD"
   }
 ]
