@@ -484,5 +484,11 @@
     "title": "Minimize String Length",
     "url": "https://leetcode.com/problems/minimize-string-length/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "11-01-2025 17:07 UTC",
+    "title": "Count of Integers",
+    "url": "https://leetcode.com/problems/count-of-integers/description",
+    "difficulty": "HARD"
   }
 ]
