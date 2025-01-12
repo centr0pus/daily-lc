@@ -490,5 +490,11 @@
     "title": "Count of Integers",
     "url": "https://leetcode.com/problems/count-of-integers/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "12-01-2025 17:06 UTC",
+    "title": "Separate Black and White Balls",
+    "url": "https://leetcode.com/problems/separate-black-and-white-balls/description",
+    "difficulty": "MEDIUM"
   }
 ]
