@@ -496,5 +496,11 @@
     "title": "Separate Black and White Balls",
     "url": "https://leetcode.com/problems/separate-black-and-white-balls/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "13-01-2025 17:08 UTC",
+    "title": "Number of Ways to Rearrange Sticks With K Sticks Visible",
+    "url": "https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/description",
+    "difficulty": "HARD"
   }
 ]
