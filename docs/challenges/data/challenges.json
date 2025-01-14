@@ -502,5 +502,11 @@
     "title": "Number of Ways to Rearrange Sticks With K Sticks Visible",
     "url": "https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "14-01-2025 17:07 UTC",
+    "title": "Status of Flight Tickets",
+    "url": "https://leetcode.com/problems/status-of-flight-tickets/description",
+    "difficulty": "HARD"
   }
 ]
