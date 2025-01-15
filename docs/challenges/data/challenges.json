@@ -508,5 +508,11 @@
     "title": "Status of Flight Tickets",
     "url": "https://leetcode.com/problems/status-of-flight-tickets/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "15-01-2025 17:08 UTC",
+    "title": "Double Modular Exponentiation",
+    "url": "https://leetcode.com/problems/double-modular-exponentiation/description",
+    "difficulty": "MEDIUM"
   }
 ]
