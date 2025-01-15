@@ -5,7 +5,7 @@ class Solution {
         count[1] = 1;
         for (int i = 1; i < n; i++) {
             for (int j = Math.min(k, i + 1); j > 0; j--) {
-                count[j] = (i * count[j] + count[k - 1]) % mod;
+                count[j] = (i * count[j] + count[j - 1]) % mod;
             }
         }
         return (int) count[k];
