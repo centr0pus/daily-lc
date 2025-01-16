@@ -514,5 +514,11 @@
     "title": "Double Modular Exponentiation",
     "url": "https://leetcode.com/problems/double-modular-exponentiation/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "16-01-2025 17:08 UTC",
+    "title": "To Be Or Not To Be",
+    "url": "https://leetcode.com/problems/to-be-or-not-to-be/description",
+    "difficulty": "EASY"
   }
 ]
