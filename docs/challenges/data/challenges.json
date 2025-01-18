@@ -526,5 +526,11 @@
     "title": "Valid Sudoku",
     "url": "https://leetcode.com/problems/valid-sudoku/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "18-01-2025 17:06 UTC",
+    "title": "Apples & Oranges",
+    "url": "https://leetcode.com/problems/apples-oranges/description",
+    "difficulty": "MEDIUM"
   }
 ]
