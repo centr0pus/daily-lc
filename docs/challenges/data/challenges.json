@@ -532,5 +532,11 @@
     "title": "Apples & Oranges",
     "url": "https://leetcode.com/problems/apples-oranges/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "19-01-2025 17:07 UTC",
+    "title": "Lucky Numbers in a Matrix",
+    "url": "https://leetcode.com/problems/lucky-numbers-in-a-matrix/description",
+    "difficulty": "EASY"
   }
 ]
