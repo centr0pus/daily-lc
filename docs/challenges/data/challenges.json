@@ -544,5 +544,11 @@
     "title": "Maximum Score of Non-overlapping Intervals",
     "url": "https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "21-01-2025 17:08 UTC",
+    "title": "Primary Department for Each Employee",
+    "url": "https://leetcode.com/problems/primary-department-for-each-employee/description",
+    "difficulty": "EASY"
   }
 ]
