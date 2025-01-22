@@ -550,5 +550,11 @@
     "title": "Primary Department for Each Employee",
     "url": "https://leetcode.com/problems/primary-department-for-each-employee/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "22-01-2025 17:08 UTC",
+    "title": "Design a Text Editor",
+    "url": "https://leetcode.com/problems/design-a-text-editor/description",
+    "difficulty": "HARD"
   }
 ]
