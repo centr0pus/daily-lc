@@ -556,5 +556,11 @@
     "title": "Design a Text Editor",
     "url": "https://leetcode.com/problems/design-a-text-editor/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "23-01-2025 17:08 UTC",
+    "title": "Count the Number of Powerful Integers",
+    "url": "https://leetcode.com/problems/count-the-number-of-powerful-integers/description",
+    "difficulty": "HARD"
   }
 ]
