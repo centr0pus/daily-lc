@@ -562,5 +562,11 @@
     "title": "Count the Number of Powerful Integers",
     "url": "https://leetcode.com/problems/count-the-number-of-powerful-integers/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "24-01-2025 17:07 UTC",
+    "title": "Minimum Numbers of Function Calls to Make Target Array",
+    "url": "https://leetcode.com/problems/minimum-numbers-of-function-calls-to-make-target-array/description",
+    "difficulty": "MEDIUM"
   }
 ]
