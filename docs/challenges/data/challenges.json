@@ -574,5 +574,11 @@
     "title": "Flipping an Image",
     "url": "https://leetcode.com/problems/flipping-an-image/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "26-01-2025 17:07 UTC",
+    "title": "Power of Three",
+    "url": "https://leetcode.com/problems/power-of-three/description",
+    "difficulty": "EASY"
   }
 ]
