@@ -580,5 +580,11 @@
     "title": "Power of Three",
     "url": "https://leetcode.com/problems/power-of-three/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "27-01-2025 17:08 UTC",
+    "title": "Adding Spaces to a String",
+    "url": "https://leetcode.com/problems/adding-spaces-to-a-string/description",
+    "difficulty": "MEDIUM"
   }
 ]
