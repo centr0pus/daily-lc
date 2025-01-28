@@ -586,5 +586,11 @@
     "title": "Adding Spaces to a String",
     "url": "https://leetcode.com/problems/adding-spaces-to-a-string/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "28-01-2025 17:07 UTC",
+    "title": "Find Subsequence of Length K With the Largest Sum",
+    "url": "https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/description",
+    "difficulty": "EASY"
   }
 ]
