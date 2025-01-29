@@ -592,5 +592,11 @@
     "title": "Find Subsequence of Length K With the Largest Sum",
     "url": "https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "29-01-2025 17:08 UTC",
+    "title": "Sum of Subsequence Widths",
+    "url": "https://leetcode.com/problems/sum-of-subsequence-widths/description",
+    "difficulty": "HARD"
   }
 ]
