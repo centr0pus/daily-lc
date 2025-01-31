@@ -604,5 +604,11 @@
     "title": "Contains Duplicate III",
     "url": "https://leetcode.com/problems/contains-duplicate-iii/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "31-01-2025 17:07 UTC",
+    "title": "Smallest Good Base",
+    "url": "https://leetcode.com/problems/smallest-good-base/description",
+    "difficulty": "HARD"
   }
 ]
