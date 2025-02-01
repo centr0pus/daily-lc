@@ -610,5 +610,11 @@
     "title": "Smallest Good Base",
     "url": "https://leetcode.com/problems/smallest-good-base/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "01-02-2025 17:06 UTC",
+    "title": "Plates Between Candles",
+    "url": "https://leetcode.com/problems/plates-between-candles/description",
+    "difficulty": "MEDIUM"
   }
 ]
