@@ -616,5 +616,11 @@
     "title": "Plates Between Candles",
     "url": "https://leetcode.com/problems/plates-between-candles/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "02-02-2025 17:08 UTC",
+    "title": "Longest Repeating Character Replacement",
+    "url": "https://leetcode.com/problems/longest-repeating-character-replacement/description",
+    "difficulty": "MEDIUM"
   }
 ]
