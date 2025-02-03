@@ -622,5 +622,11 @@
     "title": "Longest Repeating Character Replacement",
     "url": "https://leetcode.com/problems/longest-repeating-character-replacement/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "03-02-2025 17:08 UTC",
+    "title": "Count Ways to Make Array With Product",
+    "url": "https://leetcode.com/problems/count-ways-to-make-array-with-product/description",
+    "difficulty": "HARD"
   }
 ]
