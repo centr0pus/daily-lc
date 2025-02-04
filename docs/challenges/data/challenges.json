@@ -628,5 +628,11 @@
     "title": "Count Ways to Make Array With Product",
     "url": "https://leetcode.com/problems/count-ways-to-make-array-with-product/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "04-02-2025 17:08 UTC",
+    "title": "Equal Tree Partition",
+    "url": "https://leetcode.com/problems/equal-tree-partition/description",
+    "difficulty": "MEDIUM"
   }
 ]
