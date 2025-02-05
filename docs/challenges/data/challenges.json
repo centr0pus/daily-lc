@@ -634,5 +634,11 @@
     "title": "Equal Tree Partition",
     "url": "https://leetcode.com/problems/equal-tree-partition/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "05-02-2025 17:07 UTC",
+    "title": "Checking Existence of Edge Length Limited Paths",
+    "url": "https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/description",
+    "difficulty": "HARD"
   }
 ]
