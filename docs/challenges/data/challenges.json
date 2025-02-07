@@ -646,5 +646,11 @@
     "title": "Minimum Time to Complete All Tasks",
     "url": "https://leetcode.com/problems/minimum-time-to-complete-all-tasks/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "07-02-2025 17:07 UTC",
+    "title": "Delay the Resolution of Each Promise",
+    "url": "https://leetcode.com/problems/delay-the-resolution-of-each-promise/description",
+    "difficulty": "MEDIUM"
   }
 ]
