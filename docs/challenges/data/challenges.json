@@ -652,5 +652,11 @@
     "title": "Delay the Resolution of Each Promise",
     "url": "https://leetcode.com/problems/delay-the-resolution-of-each-promise/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "08-02-2025 17:07 UTC",
+    "title": "Differences Between Two Objects",
+    "url": "https://leetcode.com/problems/differences-between-two-objects/description",
+    "difficulty": "MEDIUM"
   }
 ]
