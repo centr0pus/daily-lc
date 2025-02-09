@@ -658,5 +658,11 @@
     "title": "Differences Between Two Objects",
     "url": "https://leetcode.com/problems/differences-between-two-objects/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "09-02-2025 17:06 UTC",
+    "title": "Maximum Strictly Increasing Cells in a Matrix",
+    "url": "https://leetcode.com/problems/maximum-strictly-increasing-cells-in-a-matrix/description",
+    "difficulty": "HARD"
   }
 ]
