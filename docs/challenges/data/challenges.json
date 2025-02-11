@@ -670,5 +670,11 @@
     "title": "Count Common Words With One Occurrence",
     "url": "https://leetcode.com/problems/count-common-words-with-one-occurrence/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "11-02-2025 17:08 UTC",
+    "title": "Minimum Score Triangulation of Polygon",
+    "url": "https://leetcode.com/problems/minimum-score-triangulation-of-polygon/description",
+    "difficulty": "MEDIUM"
   }
 ]
