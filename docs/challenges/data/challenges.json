@@ -676,5 +676,11 @@
     "title": "Minimum Score Triangulation of Polygon",
     "url": "https://leetcode.com/problems/minimum-score-triangulation-of-polygon/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "12-02-2025 17:08 UTC",
+    "title": "Last Stone Weight II",
+    "url": "https://leetcode.com/problems/last-stone-weight-ii/description",
+    "difficulty": "MEDIUM"
   }
 ]
