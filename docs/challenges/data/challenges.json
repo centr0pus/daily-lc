@@ -682,5 +682,11 @@
     "title": "Last Stone Weight II",
     "url": "https://leetcode.com/problems/last-stone-weight-ii/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "13-02-2025 17:06 UTC",
+    "title": "K-th Smallest in Lexicographical Order",
+    "url": "https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/description",
+    "difficulty": "HARD"
   }
 ]
