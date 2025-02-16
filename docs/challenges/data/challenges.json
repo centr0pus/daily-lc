@@ -700,5 +700,11 @@
     "title": "Minimum Number of Operations to Make Array Continuous",
     "url": "https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "16-02-2025 17:06 UTC",
+    "title": "Count Triplets with Even XOR Set Bits I",
+    "url": "https://leetcode.com/problems/count-triplets-with-even-xor-set-bits-i/description",
+    "difficulty": "EASY"
   }
 ]
