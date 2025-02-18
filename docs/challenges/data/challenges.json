@@ -712,5 +712,11 @@
     "title": "Range Sum Query - Immutable",
     "url": "https://leetcode.com/problems/range-sum-query-immutable/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "18-02-2025 17:08 UTC",
+    "title": "Consecutive Available Seats II",
+    "url": "https://leetcode.com/problems/consecutive-available-seats-ii/description",
+    "difficulty": "MEDIUM"
   }
 ]
