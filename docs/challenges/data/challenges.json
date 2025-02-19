@@ -718,5 +718,11 @@
     "title": "Consecutive Available Seats II",
     "url": "https://leetcode.com/problems/consecutive-available-seats-ii/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "19-02-2025 17:08 UTC",
+    "title": "Immutability Helper",
+    "url": "https://leetcode.com/problems/immutability-helper/description",
+    "difficulty": "HARD"
   }
 ]
