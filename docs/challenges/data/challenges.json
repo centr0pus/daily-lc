@@ -724,5 +724,11 @@
     "title": "Immutability Helper",
     "url": "https://leetcode.com/problems/immutability-helper/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "20-02-2025 17:08 UTC",
+    "title": "Smallest Rotation with Highest Score",
+    "url": "https://leetcode.com/problems/smallest-rotation-with-highest-score/description",
+    "difficulty": "HARD"
   }
 ]
