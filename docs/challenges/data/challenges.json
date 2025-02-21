@@ -730,5 +730,11 @@
     "title": "Smallest Rotation with Highest Score",
     "url": "https://leetcode.com/problems/smallest-rotation-with-highest-score/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "21-02-2025 17:08 UTC",
+    "title": "Smallest Divisible Digit Product II",
+    "url": "https://leetcode.com/problems/smallest-divisible-digit-product-ii/description",
+    "difficulty": "HARD"
   }
 ]
