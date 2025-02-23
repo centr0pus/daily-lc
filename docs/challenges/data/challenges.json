@@ -736,5 +736,11 @@
     "title": "Smallest Divisible Digit Product II",
     "url": "https://leetcode.com/problems/smallest-divisible-digit-product-ii/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "22-02-2025 17:06 UTC",
+    "title": "Average Salary Excluding the Minimum and Maximum Salary",
+    "url": "https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/description",
+    "difficulty": "EASY"
   }
 ]
