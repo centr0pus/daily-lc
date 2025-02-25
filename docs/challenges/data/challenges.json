@@ -754,5 +754,11 @@
     "title": "Friendly Movies Streamed Last Month",
     "url": "https://leetcode.com/problems/friendly-movies-streamed-last-month/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "25-02-2025 17:10 UTC",
+    "title": "Construct Target Array With Multiple Sums",
+    "url": "https://leetcode.com/problems/construct-target-array-with-multiple-sums/description",
+    "difficulty": "HARD"
   }
 ]
