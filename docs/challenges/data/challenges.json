@@ -760,5 +760,11 @@
     "title": "Construct Target Array With Multiple Sums",
     "url": "https://leetcode.com/problems/construct-target-array-with-multiple-sums/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "26-02-2025 17:08 UTC",
+    "title": "Sum of Digits in the Minimum Number",
+    "url": "https://leetcode.com/problems/sum-of-digits-in-the-minimum-number/description",
+    "difficulty": "EASY"
   }
 ]
