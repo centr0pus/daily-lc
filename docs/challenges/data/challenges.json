@@ -772,5 +772,11 @@
     "title": "Make Two Arrays Equal by Reversing Subarrays",
     "url": "https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "28-02-2025 17:08 UTC",
+    "title": "Most Visited Sector in  a Circular Track",
+    "url": "https://leetcode.com/problems/most-visited-sector-in-a-circular-track/description",
+    "difficulty": "EASY"
   }
 ]
