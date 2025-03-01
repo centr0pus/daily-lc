@@ -778,5 +778,11 @@
     "title": "Most Visited Sector in  a Circular Track",
     "url": "https://leetcode.com/problems/most-visited-sector-in-a-circular-track/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "01-03-2025 17:07 UTC",
+    "title": "Find Median from Data Stream",
+    "url": "https://leetcode.com/problems/find-median-from-data-stream/description",
+    "difficulty": "HARD"
   }
 ]
