@@ -784,5 +784,11 @@
     "title": "Find Median from Data Stream",
     "url": "https://leetcode.com/problems/find-median-from-data-stream/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "02-03-2025 17:07 UTC",
+    "title": "Rotate List",
+    "url": "https://leetcode.com/problems/rotate-list/description",
+    "difficulty": "MEDIUM"
   }
 ]
