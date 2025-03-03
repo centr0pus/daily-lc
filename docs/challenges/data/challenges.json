@@ -790,5 +790,11 @@
     "title": "Rotate List",
     "url": "https://leetcode.com/problems/rotate-list/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "03-03-2025 17:08 UTC",
+    "title": "Make Array Elements Equal to Zero",
+    "url": "https://leetcode.com/problems/make-array-elements-equal-to-zero/description",
+    "difficulty": "EASY"
   }
 ]
