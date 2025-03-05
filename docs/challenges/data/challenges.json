@@ -802,5 +802,11 @@
     "title": "Count Binary Substrings",
     "url": "https://leetcode.com/problems/count-binary-substrings/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "05-03-2025 17:08 UTC",
+    "title": "Online Stock Span",
+    "url": "https://leetcode.com/problems/online-stock-span/description",
+    "difficulty": "MEDIUM"
   }
 ]
