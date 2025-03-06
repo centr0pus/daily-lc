@@ -808,5 +808,11 @@
     "title": "Online Stock Span",
     "url": "https://leetcode.com/problems/online-stock-span/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "06-03-2025 17:08 UTC",
+    "title": "Minimum Time For K Virus Variants to Spread",
+    "url": "https://leetcode.com/problems/minimum-time-for-k-virus-variants-to-spread/description",
+    "difficulty": "HARD"
   }
 ]
