@@ -814,5 +814,11 @@
     "title": "Minimum Time For K Virus Variants to Spread",
     "url": "https://leetcode.com/problems/minimum-time-for-k-virus-variants-to-spread/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "07-03-2025 17:08 UTC",
+    "title": "Four Divisors",
+    "url": "https://leetcode.com/problems/four-divisors/description",
+    "difficulty": "MEDIUM"
   }
 ]
