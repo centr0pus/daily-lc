@@ -820,5 +820,11 @@
     "title": "Four Divisors",
     "url": "https://leetcode.com/problems/four-divisors/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "08-03-2025 17:05 UTC",
+    "title": "Valid Parentheses",
+    "url": "https://leetcode.com/problems/valid-parentheses/description",
+    "difficulty": "EASY"
   }
 ]
