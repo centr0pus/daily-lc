@@ -826,5 +826,11 @@
     "title": "Valid Parentheses",
     "url": "https://leetcode.com/problems/valid-parentheses/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "09-03-2025 17:06 UTC",
+    "title": "Find the Child Who Has the Ball After K Seconds",
+    "url": "https://leetcode.com/problems/find-the-child-who-has-the-ball-after-k-seconds/description",
+    "difficulty": "EASY"
   }
 ]
