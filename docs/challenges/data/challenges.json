@@ -832,5 +832,11 @@
     "title": "Find the Child Who Has the Ball After K Seconds",
     "url": "https://leetcode.com/problems/find-the-child-who-has-the-ball-after-k-seconds/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "10-03-2025 17:08 UTC",
+    "title": "Maximize Amount After Two Days of Conversions",
+    "url": "https://leetcode.com/problems/maximize-amount-after-two-days-of-conversions/description",
+    "difficulty": "MEDIUM"
   }
 ]
