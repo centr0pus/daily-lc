@@ -844,5 +844,11 @@
     "title": "Minimum Bit Flips to Convert Number",
     "url": "https://leetcode.com/problems/minimum-bit-flips-to-convert-number/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "12-03-2025 17:08 UTC",
+    "title": "Suspicious Bank Accounts",
+    "url": "https://leetcode.com/problems/suspicious-bank-accounts/description",
+    "difficulty": "MEDIUM"
   }
 ]
