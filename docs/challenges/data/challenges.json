@@ -850,5 +850,11 @@
     "title": "Suspicious Bank Accounts",
     "url": "https://leetcode.com/problems/suspicious-bank-accounts/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "13-03-2025 17:07 UTC",
+    "title": "Maximum Number of Tasks You Can Assign",
+    "url": "https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/description",
+    "difficulty": "HARD"
   }
 ]
