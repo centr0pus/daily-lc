@@ -856,5 +856,11 @@
     "title": "Maximum Number of Tasks You Can Assign",
     "url": "https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "14-03-2025 17:08 UTC",
+    "title": "Break a Palindrome",
+    "url": "https://leetcode.com/problems/break-a-palindrome/description",
+    "difficulty": "MEDIUM"
   }
 ]
