@@ -862,5 +862,11 @@
     "title": "Break a Palindrome",
     "url": "https://leetcode.com/problems/break-a-palindrome/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "15-03-2025 17:07 UTC",
+    "title": "Closest Subsequence Sum",
+    "url": "https://leetcode.com/problems/closest-subsequence-sum/description",
+    "difficulty": "HARD"
   }
 ]
