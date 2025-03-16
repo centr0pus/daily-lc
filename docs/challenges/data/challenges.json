@@ -868,5 +868,11 @@
     "title": "Closest Subsequence Sum",
     "url": "https://leetcode.com/problems/closest-subsequence-sum/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "16-03-2025 17:07 UTC",
+    "title": "The Maze",
+    "url": "https://leetcode.com/problems/the-maze/description",
+    "difficulty": "MEDIUM"
   }
 ]
