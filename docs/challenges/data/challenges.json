@@ -874,5 +874,11 @@
     "title": "The Maze",
     "url": "https://leetcode.com/problems/the-maze/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "17-03-2025 17:08 UTC",
+    "title": "Find Expensive Cities",
+    "url": "https://leetcode.com/problems/find-expensive-cities/description",
+    "difficulty": "EASY"
   }
 ]
