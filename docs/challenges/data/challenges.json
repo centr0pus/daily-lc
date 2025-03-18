@@ -880,5 +880,11 @@
     "title": "Find Expensive Cities",
     "url": "https://leetcode.com/problems/find-expensive-cities/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "18-03-2025 17:08 UTC",
+    "title": "Closest Subsequence Sum",
+    "url": "https://leetcode.com/problems/closest-subsequence-sum/description",
+    "difficulty": "HARD"
   }
 ]
