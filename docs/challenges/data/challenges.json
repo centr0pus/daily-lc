@@ -886,5 +886,11 @@
     "title": "Closest Subsequence Sum",
     "url": "https://leetcode.com/problems/closest-subsequence-sum/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "19-03-2025 17:09 UTC",
+    "title": "Similar String Groups",
+    "url": "https://leetcode.com/problems/similar-string-groups/description",
+    "difficulty": "HARD"
   }
 ]
