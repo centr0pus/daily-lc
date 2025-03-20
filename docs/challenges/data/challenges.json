@@ -892,5 +892,11 @@
     "title": "Similar String Groups",
     "url": "https://leetcode.com/problems/similar-string-groups/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "20-03-2025 17:08 UTC",
+    "title": "Minimum Time to Revert Word to Initial State II",
+    "url": "https://leetcode.com/problems/minimum-time-to-revert-word-to-initial-state-ii/description",
+    "difficulty": "HARD"
   }
 ]
