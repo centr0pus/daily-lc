@@ -898,5 +898,11 @@
     "title": "Minimum Time to Revert Word to Initial State II",
     "url": "https://leetcode.com/problems/minimum-time-to-revert-word-to-initial-state-ii/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "21-03-2025 17:08 UTC",
+    "title": "Design an Expression Tree With Evaluate Function",
+    "url": "https://leetcode.com/problems/design-an-expression-tree-with-evaluate-function/description",
+    "difficulty": "MEDIUM"
   }
 ]
