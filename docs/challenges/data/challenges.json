@@ -904,5 +904,11 @@
     "title": "Design an Expression Tree With Evaluate Function",
     "url": "https://leetcode.com/problems/design-an-expression-tree-with-evaluate-function/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "22-03-2025 17:07 UTC",
+    "title": "Count of Integers",
+    "url": "https://leetcode.com/problems/count-of-integers/description",
+    "difficulty": "HARD"
   }
 ]
