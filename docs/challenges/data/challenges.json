@@ -910,5 +910,11 @@
     "title": "Count of Integers",
     "url": "https://leetcode.com/problems/count-of-integers/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "23-03-2025 17:07 UTC",
+    "title": "Highest Salaries Difference",
+    "url": "https://leetcode.com/problems/highest-salaries-difference/description",
+    "difficulty": "EASY"
   }
 ]
