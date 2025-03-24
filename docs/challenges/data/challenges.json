@@ -916,5 +916,11 @@
     "title": "Highest Salaries Difference",
     "url": "https://leetcode.com/problems/highest-salaries-difference/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "24-03-2025 17:09 UTC",
+    "title": "Fraction Addition and Subtraction",
+    "url": "https://leetcode.com/problems/fraction-addition-and-subtraction/description",
+    "difficulty": "MEDIUM"
   }
 ]
