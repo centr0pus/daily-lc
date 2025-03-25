@@ -922,5 +922,11 @@
     "title": "Fraction Addition and Subtraction",
     "url": "https://leetcode.com/problems/fraction-addition-and-subtraction/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "25-03-2025 17:08 UTC",
+    "title": "Escape The Ghosts",
+    "url": "https://leetcode.com/problems/escape-the-ghosts/description",
+    "difficulty": "MEDIUM"
   }
 ]
