@@ -928,5 +928,11 @@
     "title": "Escape The Ghosts",
     "url": "https://leetcode.com/problems/escape-the-ghosts/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "26-03-2025 17:08 UTC",
+    "title": "Find Largest Value in Each Tree Row",
+    "url": "https://leetcode.com/problems/find-largest-value-in-each-tree-row/description",
+    "difficulty": "MEDIUM"
   }
 ]
