@@ -934,5 +934,11 @@
     "title": "Find Largest Value in Each Tree Row",
     "url": "https://leetcode.com/problems/find-largest-value-in-each-tree-row/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "27-03-2025 17:08 UTC",
+    "title": "Minimum Time Visiting All Points",
+    "url": "https://leetcode.com/problems/minimum-time-visiting-all-points/description",
+    "difficulty": "EASY"
   }
 ]
