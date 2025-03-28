@@ -940,5 +940,11 @@
     "title": "Minimum Time Visiting All Points",
     "url": "https://leetcode.com/problems/minimum-time-visiting-all-points/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "28-03-2025 17:08 UTC",
+    "title": "Sort Vowels in a String",
+    "url": "https://leetcode.com/problems/sort-vowels-in-a-string/description",
+    "difficulty": "MEDIUM"
   }
 ]
