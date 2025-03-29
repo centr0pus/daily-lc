@@ -946,5 +946,11 @@
     "title": "Sort Vowels in a String",
     "url": "https://leetcode.com/problems/sort-vowels-in-a-string/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "29-03-2025 17:07 UTC",
+    "title": "Check if Matrix Is X-Matrix",
+    "url": "https://leetcode.com/problems/check-if-matrix-is-x-matrix/description",
+    "difficulty": "EASY"
   }
 ]
