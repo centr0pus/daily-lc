@@ -952,5 +952,11 @@
     "title": "Check if Matrix Is X-Matrix",
     "url": "https://leetcode.com/problems/check-if-matrix-is-x-matrix/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "30-03-2025 17:07 UTC",
+    "title": "All Paths from Source Lead to Destination",
+    "url": "https://leetcode.com/problems/all-paths-from-source-lead-to-destination/description",
+    "difficulty": "MEDIUM"
   }
 ]
