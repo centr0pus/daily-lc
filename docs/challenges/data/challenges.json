@@ -958,5 +958,11 @@
     "title": "All Paths from Source Lead to Destination",
     "url": "https://leetcode.com/problems/all-paths-from-source-lead-to-destination/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "31-03-2025 17:08 UTC",
+    "title": "Zero Array Transformation III",
+    "url": "https://leetcode.com/problems/zero-array-transformation-iii/description",
+    "difficulty": "MEDIUM"
   }
 ]
