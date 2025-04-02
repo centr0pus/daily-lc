@@ -970,5 +970,11 @@
     "title": "Find the Original Typed String I",
     "url": "https://leetcode.com/problems/find-the-original-typed-string-i/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "02-04-2025 17:08 UTC",
+    "title": "Undefined to Null",
+    "url": "https://leetcode.com/problems/undefined-to-null/description",
+    "difficulty": "MEDIUM"
   }
 ]
