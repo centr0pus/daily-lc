@@ -976,5 +976,11 @@
     "title": "Undefined to Null",
     "url": "https://leetcode.com/problems/undefined-to-null/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "03-04-2025 17:08 UTC",
+    "title": "Apply Operations to Maximize Frequency Score",
+    "url": "https://leetcode.com/problems/apply-operations-to-maximize-frequency-score/description",
+    "difficulty": "HARD"
   }
 ]
