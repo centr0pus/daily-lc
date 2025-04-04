@@ -982,5 +982,11 @@
     "title": "Apply Operations to Maximize Frequency Score",
     "url": "https://leetcode.com/problems/apply-operations-to-maximize-frequency-score/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "04-04-2025 17:08 UTC",
+    "title": "Valid Square",
+    "url": "https://leetcode.com/problems/valid-square/description",
+    "difficulty": "MEDIUM"
   }
 ]
