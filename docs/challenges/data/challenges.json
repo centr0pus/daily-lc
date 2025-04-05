@@ -988,5 +988,11 @@
     "title": "Valid Square",
     "url": "https://leetcode.com/problems/valid-square/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "05-04-2025 17:07 UTC",
+    "title": "Find Cutoff Score for Each School",
+    "url": "https://leetcode.com/problems/find-cutoff-score-for-each-school/description",
+    "difficulty": "MEDIUM"
   }
 ]
