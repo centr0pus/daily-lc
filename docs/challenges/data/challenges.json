@@ -994,5 +994,11 @@
     "title": "Find Cutoff Score for Each School",
     "url": "https://leetcode.com/problems/find-cutoff-score-for-each-school/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "06-04-2025 17:07 UTC",
+    "title": "Delete N Nodes After M Nodes of a Linked List",
+    "url": "https://leetcode.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/description",
+    "difficulty": "EASY"
   }
 ]
