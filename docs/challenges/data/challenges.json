@@ -1000,5 +1000,11 @@
     "title": "Delete N Nodes After M Nodes of a Linked List",
     "url": "https://leetcode.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "07-04-2025 17:08 UTC",
+    "title": "Valid Palindrome",
+    "url": "https://leetcode.com/problems/valid-palindrome/description",
+    "difficulty": "EASY"
   }
 ]
