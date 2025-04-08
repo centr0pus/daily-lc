@@ -1006,5 +1006,11 @@
     "title": "Valid Palindrome",
     "url": "https://leetcode.com/problems/valid-palindrome/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "08-04-2025 17:08 UTC",
+    "title": "The Number of Employees Which Report to Each Employee",
+    "url": "https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/description",
+    "difficulty": "EASY"
   }
 ]
