@@ -1012,5 +1012,11 @@
     "title": "The Number of Employees Which Report to Each Employee",
     "url": "https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "09-04-2025 17:08 UTC",
+    "title": "Minimum Skips to Arrive at Meeting On Time",
+    "url": "https://leetcode.com/problems/minimum-skips-to-arrive-at-meeting-on-time/description",
+    "difficulty": "HARD"
   }
 ]
