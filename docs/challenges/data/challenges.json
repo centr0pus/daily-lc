@@ -1018,5 +1018,11 @@
     "title": "Minimum Skips to Arrive at Meeting On Time",
     "url": "https://leetcode.com/problems/minimum-skips-to-arrive-at-meeting-on-time/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "10-04-2025 17:09 UTC",
+    "title": "Strictly Palindromic Number",
+    "url": "https://leetcode.com/problems/strictly-palindromic-number/description",
+    "difficulty": "MEDIUM"
   }
 ]
