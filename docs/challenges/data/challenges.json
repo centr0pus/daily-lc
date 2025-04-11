@@ -1024,5 +1024,11 @@
     "title": "Strictly Palindromic Number",
     "url": "https://leetcode.com/problems/strictly-palindromic-number/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "11-04-2025 17:08 UTC",
+    "title": "Day of the Year",
+    "url": "https://leetcode.com/problems/day-of-the-year/description",
+    "difficulty": "EASY"
   }
 ]
