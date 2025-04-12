@@ -1030,5 +1030,11 @@
     "title": "Day of the Year",
     "url": "https://leetcode.com/problems/day-of-the-year/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "12-04-2025 17:07 UTC",
+    "title": "Populating Next Right Pointers in Each Node",
+    "url": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description",
+    "difficulty": "MEDIUM"
   }
 ]
