@@ -1036,5 +1036,11 @@
     "title": "Populating Next Right Pointers in Each Node",
     "url": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "13-04-2025 17:07 UTC",
+    "title": "Dice Roll Simulation",
+    "url": "https://leetcode.com/problems/dice-roll-simulation/description",
+    "difficulty": "HARD"
   }
 ]
