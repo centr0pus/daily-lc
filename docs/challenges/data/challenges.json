@@ -1042,5 +1042,11 @@
     "title": "Dice Roll Simulation",
     "url": "https://leetcode.com/problems/dice-roll-simulation/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "14-04-2025 17:08 UTC",
+    "title": "Product Sales Analysis IV",
+    "url": "https://leetcode.com/problems/product-sales-analysis-iv/description",
+    "difficulty": "MEDIUM"
   }
 ]
