@@ -1048,5 +1048,11 @@
     "title": "Product Sales Analysis IV",
     "url": "https://leetcode.com/problems/product-sales-analysis-iv/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "15-04-2025 17:08 UTC",
+    "title": "Set Intersection Size At Least Two",
+    "url": "https://leetcode.com/problems/set-intersection-size-at-least-two/description",
+    "difficulty": "HARD"
   }
 ]
