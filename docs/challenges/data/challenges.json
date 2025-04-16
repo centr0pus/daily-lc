@@ -1054,5 +1054,11 @@
     "title": "Set Intersection Size At Least Two",
     "url": "https://leetcode.com/problems/set-intersection-size-at-least-two/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "16-04-2025 17:08 UTC",
+    "title": "Number of Good Binary Strings",
+    "url": "https://leetcode.com/problems/number-of-good-binary-strings/description",
+    "difficulty": "MEDIUM"
   }
 ]
