@@ -1060,5 +1060,11 @@
     "title": "Number of Good Binary Strings",
     "url": "https://leetcode.com/problems/number-of-good-binary-strings/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "17-04-2025 17:08 UTC",
+    "title": "Kth Smallest Number in Multiplication Table",
+    "url": "https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/description",
+    "difficulty": "HARD"
   }
 ]
