@@ -1066,5 +1066,11 @@
     "title": "Kth Smallest Number in Multiplication Table",
     "url": "https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "18-04-2025 17:08 UTC",
+    "title": "Merge BSTs to Create Single BST",
+    "url": "https://leetcode.com/problems/merge-bsts-to-create-single-bst/description",
+    "difficulty": "HARD"
   }
 ]
