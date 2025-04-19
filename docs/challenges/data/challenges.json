@@ -1072,5 +1072,11 @@
     "title": "Merge BSTs to Create Single BST",
     "url": "https://leetcode.com/problems/merge-bsts-to-create-single-bst/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "19-04-2025 17:08 UTC",
+    "title": "Classifying Triangles by Lengths",
+    "url": "https://leetcode.com/problems/classifying-triangles-by-lengths/description",
+    "difficulty": "EASY"
   }
 ]
