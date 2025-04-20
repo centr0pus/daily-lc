@@ -1078,5 +1078,11 @@
     "title": "Classifying Triangles by Lengths",
     "url": "https://leetcode.com/problems/classifying-triangles-by-lengths/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "20-04-2025 17:09 UTC",
+    "title": "Maximum Ice Cream Bars",
+    "url": "https://leetcode.com/problems/maximum-ice-cream-bars/description",
+    "difficulty": "MEDIUM"
   }
 ]
