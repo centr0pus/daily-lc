@@ -1084,5 +1084,11 @@
     "title": "Maximum Ice Cream Bars",
     "url": "https://leetcode.com/problems/maximum-ice-cream-bars/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "21-04-2025 17:08 UTC",
+    "title": "Check if All A's Appears Before All B's",
+    "url": "https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/description",
+    "difficulty": "EASY"
   }
 ]
