@@ -1090,5 +1090,11 @@
     "title": "Check if All A's Appears Before All B's",
     "url": "https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "22-04-2025 17:09 UTC",
+    "title": "Number of Submatrices That Sum to Target",
+    "url": "https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/description",
+    "difficulty": "HARD"
   }
 ]
