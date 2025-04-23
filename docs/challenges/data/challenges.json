@@ -1096,5 +1096,11 @@
     "title": "Number of Submatrices That Sum to Target",
     "url": "https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "23-04-2025 17:09 UTC",
+    "title": "Linked List Frequency",
+    "url": "https://leetcode.com/problems/linked-list-frequency/description",
+    "difficulty": "EASY"
   }
 ]
