@@ -1108,5 +1108,11 @@
     "title": "Filter Elements from Array",
     "url": "https://leetcode.com/problems/filter-elements-from-array/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "25-04-2025 17:08 UTC",
+    "title": "Count Vowels Permutation",
+    "url": "https://leetcode.com/problems/count-vowels-permutation/description",
+    "difficulty": "HARD"
   }
 ]
