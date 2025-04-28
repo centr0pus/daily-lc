@@ -1126,5 +1126,11 @@
     "title": "Count Beautiful Numbers",
     "url": "https://leetcode.com/problems/count-beautiful-numbers/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "28-04-2025 17:08 UTC",
+    "title": "Minimum Swaps to Group All 1's Together",
+    "url": "https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/description",
+    "difficulty": "MEDIUM"
   }
 ]
