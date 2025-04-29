@@ -1132,5 +1132,11 @@
     "title": "Minimum Swaps to Group All 1's Together",
     "url": "https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "29-04-2025 17:09 UTC",
+    "title": "Detonate the Maximum Bombs",
+    "url": "https://leetcode.com/problems/detonate-the-maximum-bombs/description",
+    "difficulty": "MEDIUM"
   }
 ]
