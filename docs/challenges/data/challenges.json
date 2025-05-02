@@ -1150,5 +1150,11 @@
     "title": "Meeting Rooms III",
     "url": "https://leetcode.com/problems/meeting-rooms-iii/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "02-05-2025 17:08 UTC",
+    "title": "Maximum Number of Visible Points",
+    "url": "https://leetcode.com/problems/maximum-number-of-visible-points/description",
+    "difficulty": "HARD"
   }
 ]
