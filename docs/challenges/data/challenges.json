@@ -1156,5 +1156,11 @@
     "title": "Maximum Number of Visible Points",
     "url": "https://leetcode.com/problems/maximum-number-of-visible-points/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "03-05-2025 17:07 UTC",
+    "title": "Second Minimum Node In a Binary Tree",
+    "url": "https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/description",
+    "difficulty": "EASY"
   }
 ]
