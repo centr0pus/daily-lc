@@ -1168,5 +1168,11 @@
     "title": "Find the Longest Equal Subarray",
     "url": "https://leetcode.com/problems/find-the-longest-equal-subarray/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "05-05-2025 17:08 UTC",
+    "title": "Number of Distinct Binary Strings After Applying Operations",
+    "url": "https://leetcode.com/problems/number-of-distinct-binary-strings-after-applying-operations/description",
+    "difficulty": "MEDIUM"
   }
 ]
