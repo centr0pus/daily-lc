@@ -1174,5 +1174,11 @@
     "title": "Number of Distinct Binary Strings After Applying Operations",
     "url": "https://leetcode.com/problems/number-of-distinct-binary-strings-after-applying-operations/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "06-05-2025 17:09 UTC",
+    "title": "Customer Placing the Largest Number of Orders",
+    "url": "https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/description",
+    "difficulty": "EASY"
   }
 ]
