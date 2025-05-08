@@ -1186,5 +1186,11 @@
     "title": "Fibonacci Number",
     "url": "https://leetcode.com/problems/fibonacci-number/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "08-05-2025 17:08 UTC",
+    "title": "Roman to Integer",
+    "url": "https://leetcode.com/problems/roman-to-integer/description",
+    "difficulty": "EASY"
   }
 ]
