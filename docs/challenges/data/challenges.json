@@ -1192,5 +1192,11 @@
     "title": "Roman to Integer",
     "url": "https://leetcode.com/problems/roman-to-integer/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "09-05-2025 17:08 UTC",
+    "title": "Rank Transform of an Array",
+    "url": "https://leetcode.com/problems/rank-transform-of-an-array/description",
+    "difficulty": "EASY"
   }
 ]
