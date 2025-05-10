@@ -1198,5 +1198,11 @@
     "title": "Rank Transform of an Array",
     "url": "https://leetcode.com/problems/rank-transform-of-an-array/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "10-05-2025 17:07 UTC",
+    "title": "Positions of Large Groups",
+    "url": "https://leetcode.com/problems/positions-of-large-groups/description",
+    "difficulty": "EASY"
   }
 ]
