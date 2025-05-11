@@ -1204,5 +1204,11 @@
     "title": "Positions of Large Groups",
     "url": "https://leetcode.com/problems/positions-of-large-groups/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "11-05-2025 17:07 UTC",
+    "title": "Minimum Number of Swaps to Make the Binary String Alternating",
+    "url": "https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-binary-string-alternating/description",
+    "difficulty": "MEDIUM"
   }
 ]
