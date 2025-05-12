@@ -1210,5 +1210,11 @@
     "title": "Minimum Number of Swaps to Make the Binary String Alternating",
     "url": "https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-binary-string-alternating/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "12-05-2025 17:08 UTC",
+    "title": "Delete Greatest Value in Each Row",
+    "url": "https://leetcode.com/problems/delete-greatest-value-in-each-row/description",
+    "difficulty": "EASY"
   }
 ]
