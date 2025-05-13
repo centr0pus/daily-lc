@@ -1216,5 +1216,11 @@
     "title": "Delete Greatest Value in Each Row",
     "url": "https://leetcode.com/problems/delete-greatest-value-in-each-row/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "13-05-2025 17:09 UTC",
+    "title": "Count the Number of Good Partitions",
+    "url": "https://leetcode.com/problems/count-the-number-of-good-partitions/description",
+    "difficulty": "HARD"
   }
 ]
