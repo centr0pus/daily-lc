@@ -1222,5 +1222,11 @@
     "title": "Count the Number of Good Partitions",
     "url": "https://leetcode.com/problems/count-the-number-of-good-partitions/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "15-05-2025 17:09 UTC",
+    "title": "Popularity Percentage",
+    "url": "https://leetcode.com/problems/popularity-percentage/description",
+    "difficulty": "HARD"
   }
 ]
