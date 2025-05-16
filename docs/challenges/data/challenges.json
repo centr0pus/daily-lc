@@ -1228,5 +1228,11 @@
     "title": "Popularity Percentage",
     "url": "https://leetcode.com/problems/popularity-percentage/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "16-05-2025 17:07 UTC",
+    "title": "Rearrange Words in a Sentence",
+    "url": "https://leetcode.com/problems/rearrange-words-in-a-sentence/description",
+    "difficulty": "MEDIUM"
   }
 ]
