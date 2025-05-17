@@ -1234,5 +1234,11 @@
     "title": "Rearrange Words in a Sentence",
     "url": "https://leetcode.com/problems/rearrange-words-in-a-sentence/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "17-05-2025 17:07 UTC",
+    "title": "Fruits Into Baskets III",
+    "url": "https://leetcode.com/problems/fruits-into-baskets-iii/description",
+    "difficulty": "MEDIUM"
   }
 ]
