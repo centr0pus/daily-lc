@@ -1240,5 +1240,11 @@
     "title": "Fruits Into Baskets III",
     "url": "https://leetcode.com/problems/fruits-into-baskets-iii/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "18-05-2025 17:07 UTC",
+    "title": "Sum of Prefix Scores of Strings",
+    "url": "https://leetcode.com/problems/sum-of-prefix-scores-of-strings/description",
+    "difficulty": "HARD"
   }
 ]
