@@ -1246,5 +1246,11 @@
     "title": "Sum of Prefix Scores of Strings",
     "url": "https://leetcode.com/problems/sum-of-prefix-scores-of-strings/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "19-05-2025 17:09 UTC",
+    "title": "Count of Range Sum",
+    "url": "https://leetcode.com/problems/count-of-range-sum/description",
+    "difficulty": "HARD"
   }
 ]
