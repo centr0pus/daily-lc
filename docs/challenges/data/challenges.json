@@ -1252,5 +1252,11 @@
     "title": "Count of Range Sum",
     "url": "https://leetcode.com/problems/count-of-range-sum/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "20-05-2025 17:09 UTC",
+    "title": "Number of Steps to Reduce a Number to Zero",
+    "url": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/description",
+    "difficulty": "EASY"
   }
 ]
