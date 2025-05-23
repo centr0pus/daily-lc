@@ -1270,5 +1270,11 @@
     "title": "Largest Rectangle in Histogram",
     "url": "https://leetcode.com/problems/largest-rectangle-in-histogram/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "23-05-2025 17:09 UTC",
+    "title": "Constructing Two Increasing Arrays",
+    "url": "https://leetcode.com/problems/constructing-two-increasing-arrays/description",
+    "difficulty": "HARD"
   }
 ]
