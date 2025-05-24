@@ -1276,5 +1276,11 @@
     "title": "Constructing Two Increasing Arrays",
     "url": "https://leetcode.com/problems/constructing-two-increasing-arrays/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "24-05-2025 17:07 UTC",
+    "title": "Apply Transform Over Each Element in Array",
+    "url": "https://leetcode.com/problems/apply-transform-over-each-element-in-array/description",
+    "difficulty": "EASY"
   }
 ]
