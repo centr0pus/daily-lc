@@ -1282,5 +1282,11 @@
     "title": "Apply Transform Over Each Element in Array",
     "url": "https://leetcode.com/problems/apply-transform-over-each-element-in-array/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "25-05-2025 17:07 UTC",
+    "title": "Populating Next Right Pointers in Each Node",
+    "url": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description",
+    "difficulty": "MEDIUM"
   }
 ]
