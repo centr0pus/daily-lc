@@ -1288,5 +1288,11 @@
     "title": "Populating Next Right Pointers in Each Node",
     "url": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "26-05-2025 17:08 UTC",
+    "title": "Count Vowel Substrings of a String",
+    "url": "https://leetcode.com/problems/count-vowel-substrings-of-a-string/description",
+    "difficulty": "EASY"
   }
 ]
