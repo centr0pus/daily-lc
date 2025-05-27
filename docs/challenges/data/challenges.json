@@ -1294,5 +1294,11 @@
     "title": "Count Vowel Substrings of a String",
     "url": "https://leetcode.com/problems/count-vowel-substrings-of-a-string/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "27-05-2025 17:09 UTC",
+    "title": "Number of Subarrays That Match a Pattern II",
+    "url": "https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii/description",
+    "difficulty": "HARD"
   }
 ]
