@@ -1300,5 +1300,11 @@
     "title": "Number of Subarrays That Match a Pattern II",
     "url": "https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "28-05-2025 17:09 UTC",
+    "title": "The Number of Weak Characters in the Game",
+    "url": "https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/description",
+    "difficulty": "MEDIUM"
   }
 ]
