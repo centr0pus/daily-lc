@@ -1306,5 +1306,11 @@
     "title": "The Number of Weak Characters in the Game",
     "url": "https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "29-05-2025 17:09 UTC",
+    "title": "Number of Distinct Binary Strings After Applying Operations",
+    "url": "https://leetcode.com/problems/number-of-distinct-binary-strings-after-applying-operations/description",
+    "difficulty": "MEDIUM"
   }
 ]
