@@ -1312,5 +1312,11 @@
     "title": "Number of Distinct Binary Strings After Applying Operations",
     "url": "https://leetcode.com/problems/number-of-distinct-binary-strings-after-applying-operations/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "30-05-2025 17:09 UTC",
+    "title": "Maximum Bags With Full Capacity of Rocks",
+    "url": "https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/description",
+    "difficulty": "MEDIUM"
   }
 ]
