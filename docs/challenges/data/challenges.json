@@ -1318,5 +1318,11 @@
     "title": "Maximum Bags With Full Capacity of Rocks",
     "url": "https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "31-05-2025 17:07 UTC",
+    "title": "Maximum Number of Groups Getting Fresh Donuts",
+    "url": "https://leetcode.com/problems/maximum-number-of-groups-getting-fresh-donuts/description",
+    "difficulty": "HARD"
   }
 ]
