@@ -1324,5 +1324,11 @@
     "title": "Maximum Number of Groups Getting Fresh Donuts",
     "url": "https://leetcode.com/problems/maximum-number-of-groups-getting-fresh-donuts/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "01-06-2025 17:08 UTC",
+    "title": "Number of Bit Changes to Make Two Integers Equal",
+    "url": "https://leetcode.com/problems/number-of-bit-changes-to-make-two-integers-equal/description",
+    "difficulty": "EASY"
   }
 ]
