@@ -1330,5 +1330,11 @@
     "title": "Number of Bit Changes to Make Two Integers Equal",
     "url": "https://leetcode.com/problems/number-of-bit-changes-to-make-two-integers-equal/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "02-06-2025 17:10 UTC",
+    "title": "Find Center of Star Graph",
+    "url": "https://leetcode.com/problems/find-center-of-star-graph/description",
+    "difficulty": "EASY"
   }
 ]
