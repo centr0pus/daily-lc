@@ -1336,5 +1336,11 @@
     "title": "Find Center of Star Graph",
     "url": "https://leetcode.com/problems/find-center-of-star-graph/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "03-06-2025 17:10 UTC",
+    "title": "Substring Matching Pattern",
+    "url": "https://leetcode.com/problems/substring-matching-pattern/description",
+    "difficulty": "EASY"
   }
 ]
