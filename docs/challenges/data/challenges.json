@@ -1342,5 +1342,11 @@
     "title": "Substring Matching Pattern",
     "url": "https://leetcode.com/problems/substring-matching-pattern/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "04-06-2025 17:09 UTC",
+    "title": "Stone Game III",
+    "url": "https://leetcode.com/problems/stone-game-iii/description",
+    "difficulty": "HARD"
   }
 ]
