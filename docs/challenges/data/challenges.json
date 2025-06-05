@@ -1348,5 +1348,11 @@
     "title": "Stone Game III",
     "url": "https://leetcode.com/problems/stone-game-iii/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "05-06-2025 17:07 UTC",
+    "title": "Top K Frequent Words",
+    "url": "https://leetcode.com/problems/top-k-frequent-words/description",
+    "difficulty": "MEDIUM"
   }
 ]
