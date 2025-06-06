@@ -1354,5 +1354,11 @@
     "title": "Top K Frequent Words",
     "url": "https://leetcode.com/problems/top-k-frequent-words/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "06-06-2025 17:09 UTC",
+    "title": "Find the Encrypted String",
+    "url": "https://leetcode.com/problems/find-the-encrypted-string/description",
+    "difficulty": "EASY"
   }
 ]
