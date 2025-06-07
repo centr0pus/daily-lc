@@ -1360,5 +1360,11 @@
     "title": "Find the Encrypted String",
     "url": "https://leetcode.com/problems/find-the-encrypted-string/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "07-06-2025 17:08 UTC",
+    "title": "Manhattan Distances of All Arrangements of Pieces",
+    "url": "https://leetcode.com/problems/manhattan-distances-of-all-arrangements-of-pieces/description",
+    "difficulty": "HARD"
   }
 ]
