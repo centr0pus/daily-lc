@@ -1366,5 +1366,11 @@
     "title": "Manhattan Distances of All Arrangements of Pieces",
     "url": "https://leetcode.com/problems/manhattan-distances-of-all-arrangements-of-pieces/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "08-06-2025 17:08 UTC",
+    "title": "Shortest Path with Alternating Colors",
+    "url": "https://leetcode.com/problems/shortest-path-with-alternating-colors/description",
+    "difficulty": "MEDIUM"
   }
 ]
