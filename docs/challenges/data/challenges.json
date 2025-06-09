@@ -1372,5 +1372,11 @@
     "title": "Shortest Path with Alternating Colors",
     "url": "https://leetcode.com/problems/shortest-path-with-alternating-colors/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "09-06-2025 17:09 UTC",
+    "title": "Team Scores in Football Tournament",
+    "url": "https://leetcode.com/problems/team-scores-in-football-tournament/description",
+    "difficulty": "MEDIUM"
   }
 ]
