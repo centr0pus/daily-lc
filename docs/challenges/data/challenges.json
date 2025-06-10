@@ -1378,5 +1378,11 @@
     "title": "Team Scores in Football Tournament",
     "url": "https://leetcode.com/problems/team-scores-in-football-tournament/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "10-06-2025 17:09 UTC",
+    "title": "Split Strings by Separator",
+    "url": "https://leetcode.com/problems/split-strings-by-separator/description",
+    "difficulty": "EASY"
   }
 ]
