@@ -1384,5 +1384,11 @@
     "title": "Split Strings by Separator",
     "url": "https://leetcode.com/problems/split-strings-by-separator/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "11-06-2025 17:09 UTC",
+    "title": "Snake in Matrix",
+    "url": "https://leetcode.com/problems/snake-in-matrix/description",
+    "difficulty": "EASY"
   }
 ]
