@@ -1396,5 +1396,11 @@
     "title": "Count the Number of Vowel Strings in Range",
     "url": "https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "13-06-2025 17:09 UTC",
+    "title": "Redundant Connection",
+    "url": "https://leetcode.com/problems/redundant-connection/description",
+    "difficulty": "MEDIUM"
   }
 ]
