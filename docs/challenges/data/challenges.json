@@ -1402,5 +1402,11 @@
     "title": "Redundant Connection",
     "url": "https://leetcode.com/problems/redundant-connection/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "14-06-2025 17:07 UTC",
+    "title": "Similar RGB Color",
+    "url": "https://leetcode.com/problems/similar-rgb-color/description",
+    "difficulty": "EASY"
   }
 ]
