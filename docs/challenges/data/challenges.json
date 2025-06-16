@@ -1414,5 +1414,11 @@
     "title": "Falling Squares",
     "url": "https://leetcode.com/problems/falling-squares/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "16-06-2025 17:09 UTC",
+    "title": "Single-Row Keyboard",
+    "url": "https://leetcode.com/problems/single-row-keyboard/description",
+    "difficulty": "EASY"
   }
 ]
