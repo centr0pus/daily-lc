@@ -1420,5 +1420,11 @@
     "title": "Single-Row Keyboard",
     "url": "https://leetcode.com/problems/single-row-keyboard/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "17-06-2025 17:10 UTC",
+    "title": "Construct String with Minimum Cost",
+    "url": "https://leetcode.com/problems/construct-string-with-minimum-cost/description",
+    "difficulty": "HARD"
   }
 ]
