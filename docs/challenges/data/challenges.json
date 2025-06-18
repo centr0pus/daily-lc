@@ -1426,5 +1426,11 @@
     "title": "Construct String with Minimum Cost",
     "url": "https://leetcode.com/problems/construct-string-with-minimum-cost/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "18-06-2025 17:11 UTC",
+    "title": "Count Subarrays With Score Less Than K",
+    "url": "https://leetcode.com/problems/count-subarrays-with-score-less-than-k/description",
+    "difficulty": "HARD"
   }
 ]
