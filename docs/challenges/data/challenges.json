@@ -1432,5 +1432,11 @@
     "title": "Count Subarrays With Score Less Than K",
     "url": "https://leetcode.com/problems/count-subarrays-with-score-less-than-k/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "19-06-2025 17:08 UTC",
+    "title": "Minimum Moves to Get a Peaceful Board",
+    "url": "https://leetcode.com/problems/minimum-moves-to-get-a-peaceful-board/description",
+    "difficulty": "MEDIUM"
   }
 ]
