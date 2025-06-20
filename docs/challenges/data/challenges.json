@@ -1438,5 +1438,11 @@
     "title": "Minimum Moves to Get a Peaceful Board",
     "url": "https://leetcode.com/problems/minimum-moves-to-get-a-peaceful-board/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "20-06-2025 17:08 UTC",
+    "title": "Decode Ways",
+    "url": "https://leetcode.com/problems/decode-ways/description",
+    "difficulty": "MEDIUM"
   }
 ]
