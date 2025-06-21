@@ -1444,5 +1444,11 @@
     "title": "Decode Ways",
     "url": "https://leetcode.com/problems/decode-ways/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "21-06-2025 17:07 UTC",
+    "title": "Shortest Bridge",
+    "url": "https://leetcode.com/problems/shortest-bridge/description",
+    "difficulty": "MEDIUM"
   }
 ]
