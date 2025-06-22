@@ -1450,5 +1450,11 @@
     "title": "Shortest Bridge",
     "url": "https://leetcode.com/problems/shortest-bridge/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "22-06-2025 17:08 UTC",
+    "title": "Split the Array to Make Coprime Products",
+    "url": "https://leetcode.com/problems/split-the-array-to-make-coprime-products/description",
+    "difficulty": "HARD"
   }
 ]
