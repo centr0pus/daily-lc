@@ -1456,5 +1456,11 @@
     "title": "Split the Array to Make Coprime Products",
     "url": "https://leetcode.com/problems/split-the-array-to-make-coprime-products/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "23-06-2025 17:10 UTC",
+    "title": "Number of Ways to Assign Edge Weights II",
+    "url": "https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-ii/description",
+    "difficulty": "HARD"
   }
 ]
