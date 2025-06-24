@@ -1462,5 +1462,11 @@
     "title": "Number of Ways to Assign Edge Weights II",
     "url": "https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-ii/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "24-06-2025 17:11 UTC",
+    "title": "Plus One",
+    "url": "https://leetcode.com/problems/plus-one/description",
+    "difficulty": "EASY"
   }
 ]
