@@ -1468,5 +1468,11 @@
     "title": "Plus One",
     "url": "https://leetcode.com/problems/plus-one/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "25-06-2025 17:10 UTC",
+    "title": "Patients With a Condition",
+    "url": "https://leetcode.com/problems/patients-with-a-condition/description",
+    "difficulty": "EASY"
   }
 ]
