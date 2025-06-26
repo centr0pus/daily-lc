@@ -1474,5 +1474,11 @@
     "title": "Patients With a Condition",
     "url": "https://leetcode.com/problems/patients-with-a-condition/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "26-06-2025 17:10 UTC",
+    "title": "Minimum Length of String After Deleting Similar Ends",
+    "url": "https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/description",
+    "difficulty": "MEDIUM"
   }
 ]
