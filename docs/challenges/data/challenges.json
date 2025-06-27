@@ -1480,5 +1480,11 @@
     "title": "Minimum Length of String After Deleting Similar Ends",
     "url": "https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "27-06-2025 17:09 UTC",
+    "title": "Minimum Insertion Steps to Make a String Palindrome",
+    "url": "https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/description",
+    "difficulty": "HARD"
   }
 ]
