@@ -1486,5 +1486,11 @@
     "title": "Minimum Insertion Steps to Make a String Palindrome",
     "url": "https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "28-06-2025 17:08 UTC",
+    "title": "Orders With Maximum Quantity Above Average",
+    "url": "https://leetcode.com/problems/orders-with-maximum-quantity-above-average/description",
+    "difficulty": "MEDIUM"
   }
 ]
