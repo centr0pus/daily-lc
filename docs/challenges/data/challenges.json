@@ -1492,5 +1492,11 @@
     "title": "Orders With Maximum Quantity Above Average",
     "url": "https://leetcode.com/problems/orders-with-maximum-quantity-above-average/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "29-06-2025 17:08 UTC",
+    "title": "Maximum Unique Subarray Sum After Deletion",
+    "url": "https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/description",
+    "difficulty": "EASY"
   }
 ]
