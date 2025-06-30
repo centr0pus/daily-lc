@@ -1498,5 +1498,11 @@
     "title": "Maximum Unique Subarray Sum After Deletion",
     "url": "https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "30-06-2025 17:09 UTC",
+    "title": "Smallest Divisible Digit Product I",
+    "url": "https://leetcode.com/problems/smallest-divisible-digit-product-i/description",
+    "difficulty": "EASY"
   }
 ]
