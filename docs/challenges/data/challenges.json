@@ -1504,5 +1504,11 @@
     "title": "Smallest Divisible Digit Product I",
     "url": "https://leetcode.com/problems/smallest-divisible-digit-product-i/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "01-07-2025 17:10 UTC",
+    "title": "Count Beautiful Numbers",
+    "url": "https://leetcode.com/problems/count-beautiful-numbers/description",
+    "difficulty": "HARD"
   }
 ]
