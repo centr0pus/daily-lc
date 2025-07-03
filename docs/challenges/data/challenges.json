@@ -1516,5 +1516,11 @@
     "title": "Valid Mountain Array",
     "url": "https://leetcode.com/problems/valid-mountain-array/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "03-07-2025 17:10 UTC",
+    "title": "Primary Department for Each Employee",
+    "url": "https://leetcode.com/problems/primary-department-for-each-employee/description",
+    "difficulty": "EASY"
   }
 ]
