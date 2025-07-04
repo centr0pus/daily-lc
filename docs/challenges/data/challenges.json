@@ -1522,5 +1522,11 @@
     "title": "Primary Department for Each Employee",
     "url": "https://leetcode.com/problems/primary-department-for-each-employee/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "04-07-2025 17:08 UTC",
+    "title": "Find Indices With Index and Value Difference I",
+    "url": "https://leetcode.com/problems/find-indices-with-index-and-value-difference-i/description",
+    "difficulty": "EASY"
   }
 ]
