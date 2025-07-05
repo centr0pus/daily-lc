@@ -1528,5 +1528,11 @@
     "title": "Find Indices With Index and Value Difference I",
     "url": "https://leetcode.com/problems/find-indices-with-index-and-value-difference-i/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "05-07-2025 17:08 UTC",
+    "title": "Minimum Deletions to Make Array Divisible",
+    "url": "https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/description",
+    "difficulty": "HARD"
   }
 ]
