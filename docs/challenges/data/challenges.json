@@ -1534,5 +1534,11 @@
     "title": "Minimum Deletions to Make Array Divisible",
     "url": "https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "06-07-2025 17:08 UTC",
+    "title": "Random Pick Index",
+    "url": "https://leetcode.com/problems/random-pick-index/description",
+    "difficulty": "MEDIUM"
   }
 ]
