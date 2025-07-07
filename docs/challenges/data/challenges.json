@@ -1540,5 +1540,11 @@
     "title": "Random Pick Index",
     "url": "https://leetcode.com/problems/random-pick-index/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "07-07-2025 17:10 UTC",
+    "title": "Remove Duplicates from Sorted List",
+    "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-list/description",
+    "difficulty": "EASY"
   }
 ]
