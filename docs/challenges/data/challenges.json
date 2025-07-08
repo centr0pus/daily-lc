@@ -1546,5 +1546,11 @@
     "title": "Remove Duplicates from Sorted List",
     "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-list/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "08-07-2025 17:10 UTC",
+    "title": "Partition Array into Two Equal Product Subsets",
+    "url": "https://leetcode.com/problems/partition-array-into-two-equal-product-subsets/description",
+    "difficulty": "MEDIUM"
   }
 ]
