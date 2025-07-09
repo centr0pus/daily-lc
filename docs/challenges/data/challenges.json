@@ -1552,5 +1552,11 @@
     "title": "Partition Array into Two Equal Product Subsets",
     "url": "https://leetcode.com/problems/partition-array-into-two-equal-product-subsets/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "09-07-2025 17:11 UTC",
+    "title": "Number of Excellent Pairs",
+    "url": "https://leetcode.com/problems/number-of-excellent-pairs/description",
+    "difficulty": "HARD"
   }
 ]
