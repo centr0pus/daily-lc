@@ -1558,5 +1558,11 @@
     "title": "Number of Excellent Pairs",
     "url": "https://leetcode.com/problems/number-of-excellent-pairs/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "10-07-2025 17:12 UTC",
+    "title": "Beautiful Arrangement II",
+    "url": "https://leetcode.com/problems/beautiful-arrangement-ii/description",
+    "difficulty": "MEDIUM"
   }
 ]
