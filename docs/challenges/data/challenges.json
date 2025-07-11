@@ -1564,5 +1564,11 @@
     "title": "Beautiful Arrangement II",
     "url": "https://leetcode.com/problems/beautiful-arrangement-ii/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "11-07-2025 17:10 UTC",
+    "title": "Maximum Score From Grid Operations",
+    "url": "https://leetcode.com/problems/maximum-score-from-grid-operations/description",
+    "difficulty": "HARD"
   }
 ]
