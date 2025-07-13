@@ -1576,5 +1576,11 @@
     "title": "Sentence Similarity",
     "url": "https://leetcode.com/problems/sentence-similarity/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "13-07-2025 17:08 UTC",
+    "title": "Decode the Message",
+    "url": "https://leetcode.com/problems/decode-the-message/description",
+    "difficulty": "EASY"
   }
 ]
