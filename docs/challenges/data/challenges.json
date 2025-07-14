@@ -1582,5 +1582,11 @@
     "title": "Decode the Message",
     "url": "https://leetcode.com/problems/decode-the-message/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "14-07-2025 17:11 UTC",
+    "title": "Time Based Key-Value Store",
+    "url": "https://leetcode.com/problems/time-based-key-value-store/description",
+    "difficulty": "MEDIUM"
   }
 ]
