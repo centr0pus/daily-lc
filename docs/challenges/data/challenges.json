@@ -1588,5 +1588,11 @@
     "title": "Time Based Key-Value Store",
     "url": "https://leetcode.com/problems/time-based-key-value-store/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "15-07-2025 17:09 UTC",
+    "title": "Count Common Words With One Occurrence",
+    "url": "https://leetcode.com/problems/count-common-words-with-one-occurrence/description",
+    "difficulty": "EASY"
   }
 ]
