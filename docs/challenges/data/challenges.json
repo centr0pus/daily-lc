@@ -1594,5 +1594,11 @@
     "title": "Count Common Words With One Occurrence",
     "url": "https://leetcode.com/problems/count-common-words-with-one-occurrence/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "16-07-2025 17:12 UTC",
+    "title": "Count Number of Pairs With Absolute Difference K",
+    "url": "https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/description",
+    "difficulty": "EASY"
   }
 ]
