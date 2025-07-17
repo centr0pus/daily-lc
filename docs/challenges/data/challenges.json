@@ -1600,5 +1600,11 @@
     "title": "Count Number of Pairs With Absolute Difference K",
     "url": "https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "17-07-2025 17:11 UTC",
+    "title": "Reverse Integer",
+    "url": "https://leetcode.com/problems/reverse-integer/description",
+    "difficulty": "MEDIUM"
   }
 ]
