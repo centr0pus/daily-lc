@@ -1606,5 +1606,11 @@
     "title": "Reverse Integer",
     "url": "https://leetcode.com/problems/reverse-integer/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "18-07-2025 17:13 UTC",
+    "title": "Strobogrammatic Number II",
+    "url": "https://leetcode.com/problems/strobogrammatic-number-ii/description",
+    "difficulty": "MEDIUM"
   }
 ]
