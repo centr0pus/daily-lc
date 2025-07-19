@@ -1612,5 +1612,11 @@
     "title": "Strobogrammatic Number II",
     "url": "https://leetcode.com/problems/strobogrammatic-number-ii/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "19-07-2025 17:10 UTC",
+    "title": "Interval List Intersections",
+    "url": "https://leetcode.com/problems/interval-list-intersections/description",
+    "difficulty": "MEDIUM"
   }
 ]
