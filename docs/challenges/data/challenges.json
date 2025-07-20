@@ -1618,5 +1618,11 @@
     "title": "Interval List Intersections",
     "url": "https://leetcode.com/problems/interval-list-intersections/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "20-07-2025 17:08 UTC",
+    "title": "Rectangle Overlap",
+    "url": "https://leetcode.com/problems/rectangle-overlap/description",
+    "difficulty": "EASY"
   }
 ]
