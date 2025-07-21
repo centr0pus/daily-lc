@@ -1624,5 +1624,11 @@
     "title": "Rectangle Overlap",
     "url": "https://leetcode.com/problems/rectangle-overlap/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "21-07-2025 17:13 UTC",
+    "title": "Two Sum III - Data structure design",
+    "url": "https://leetcode.com/problems/two-sum-iii-data-structure-design/description",
+    "difficulty": "EASY"
   }
 ]
