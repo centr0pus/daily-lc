@@ -1630,5 +1630,11 @@
     "title": "Two Sum III - Data structure design",
     "url": "https://leetcode.com/problems/two-sum-iii-data-structure-design/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "22-07-2025 17:13 UTC",
+    "title": "Target Sum",
+    "url": "https://leetcode.com/problems/target-sum/description",
+    "difficulty": "MEDIUM"
   }
 ]
