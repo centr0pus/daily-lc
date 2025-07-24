@@ -1642,5 +1642,11 @@
     "title": "Count Pairs Of Similar Strings",
     "url": "https://leetcode.com/problems/count-pairs-of-similar-strings/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "24-07-2025 17:13 UTC",
+    "title": "Minimum Sum of Four Digit Number After Splitting Digits",
+    "url": "https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/description",
+    "difficulty": "EASY"
   }
 ]
