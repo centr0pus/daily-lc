@@ -1648,5 +1648,11 @@
     "title": "Minimum Sum of Four Digit Number After Splitting Digits",
     "url": "https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "25-07-2025 17:12 UTC",
+    "title": "Three Divisors",
+    "url": "https://leetcode.com/problems/three-divisors/description",
+    "difficulty": "EASY"
   }
 ]
