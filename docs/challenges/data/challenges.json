@@ -1654,5 +1654,11 @@
     "title": "Three Divisors",
     "url": "https://leetcode.com/problems/three-divisors/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "26-07-2025 17:08 UTC",
+    "title": "Substring XOR Queries",
+    "url": "https://leetcode.com/problems/substring-xor-queries/description",
+    "difficulty": "MEDIUM"
   }
 ]
