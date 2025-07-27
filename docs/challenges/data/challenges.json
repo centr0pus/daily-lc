@@ -1660,5 +1660,11 @@
     "title": "Substring XOR Queries",
     "url": "https://leetcode.com/problems/substring-xor-queries/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "27-07-2025 17:09 UTC",
+    "title": "Replace Elements with Greatest Element on Right Side",
+    "url": "https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/description",
+    "difficulty": "EASY"
   }
 ]
