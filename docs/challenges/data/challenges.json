@@ -1672,5 +1672,11 @@
     "title": "Swim in Rising Water",
     "url": "https://leetcode.com/problems/swim-in-rising-water/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "29-07-2025 17:15 UTC",
+    "title": "Find Products of Elements of Big Array",
+    "url": "https://leetcode.com/problems/find-products-of-elements-of-big-array/description",
+    "difficulty": "HARD"
   }
 ]
