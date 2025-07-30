@@ -1678,5 +1678,11 @@
     "title": "Find Products of Elements of Big Array",
     "url": "https://leetcode.com/problems/find-products-of-elements-of-big-array/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "30-07-2025 17:12 UTC",
+    "title": "Minimum Numbers of Function Calls to Make Target Array",
+    "url": "https://leetcode.com/problems/minimum-numbers-of-function-calls-to-make-target-array/description",
+    "difficulty": "MEDIUM"
   }
 ]
