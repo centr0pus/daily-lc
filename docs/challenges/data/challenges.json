@@ -1684,5 +1684,11 @@
     "title": "Minimum Numbers of Function Calls to Make Target Array",
     "url": "https://leetcode.com/problems/minimum-numbers-of-function-calls-to-make-target-array/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "31-07-2025 17:13 UTC",
+    "title": "Shortest Distance After Road Addition Queries I",
+    "url": "https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i/description",
+    "difficulty": "MEDIUM"
   }
 ]
