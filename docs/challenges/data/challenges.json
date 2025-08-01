@@ -1690,5 +1690,11 @@
     "title": "Shortest Distance After Road Addition Queries I",
     "url": "https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "01-08-2025 17:13 UTC",
+    "title": "Design Cancellable Function",
+    "url": "https://leetcode.com/problems/design-cancellable-function/description",
+    "difficulty": "HARD"
   }
 ]
