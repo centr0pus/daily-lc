@@ -1696,5 +1696,11 @@
     "title": "Design Cancellable Function",
     "url": "https://leetcode.com/problems/design-cancellable-function/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "02-08-2025 17:09 UTC",
+    "title": "Check if Strings Can be Made Equal With Operations II",
+    "url": "https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/description",
+    "difficulty": "MEDIUM"
   }
 ]
