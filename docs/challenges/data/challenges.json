@@ -1702,5 +1702,11 @@
     "title": "Check if Strings Can be Made Equal With Operations II",
     "url": "https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "03-08-2025 17:09 UTC",
+    "title": "Zero Array Transformation IV",
+    "url": "https://leetcode.com/problems/zero-array-transformation-iv/description",
+    "difficulty": "MEDIUM"
   }
 ]
