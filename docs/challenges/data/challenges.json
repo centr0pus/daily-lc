@@ -1708,5 +1708,11 @@
     "title": "Zero Array Transformation IV",
     "url": "https://leetcode.com/problems/zero-array-transformation-iv/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "04-08-2025 17:16 UTC",
+    "title": "Count Days Spent Together",
+    "url": "https://leetcode.com/problems/count-days-spent-together/description",
+    "difficulty": "EASY"
   }
 ]
