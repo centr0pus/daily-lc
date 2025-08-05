@@ -1714,5 +1714,11 @@
     "title": "Count Days Spent Together",
     "url": "https://leetcode.com/problems/count-days-spent-together/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "05-08-2025 17:10 UTC",
+    "title": "Customers Who Never Order",
+    "url": "https://leetcode.com/problems/customers-who-never-order/description",
+    "difficulty": "EASY"
   }
 ]
