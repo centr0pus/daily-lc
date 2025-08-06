@@ -1720,5 +1720,11 @@
     "title": "Customers Who Never Order",
     "url": "https://leetcode.com/problems/customers-who-never-order/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "06-08-2025 17:14 UTC",
+    "title": "Drop Missing Data",
+    "url": "https://leetcode.com/problems/drop-missing-data/description",
+    "difficulty": "EASY"
   }
 ]
