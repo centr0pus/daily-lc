@@ -1732,5 +1732,11 @@
     "title": "Find the Number of Subsequences With Equal GCD",
     "url": "https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "08-08-2025 17:09 UTC",
+    "title": "Most Expensive Item That Can Not Be Bought",
+    "url": "https://leetcode.com/problems/most-expensive-item-that-can-not-be-bought/description",
+    "difficulty": "MEDIUM"
   }
 ]
