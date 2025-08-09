@@ -1738,5 +1738,11 @@
     "title": "Most Expensive Item That Can Not Be Bought",
     "url": "https://leetcode.com/problems/most-expensive-item-that-can-not-be-bought/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "09-08-2025 17:08 UTC",
+    "title": "Number of Ways to Reach Destination in the Grid",
+    "url": "https://leetcode.com/problems/number-of-ways-to-reach-destination-in-the-grid/description",
+    "difficulty": "HARD"
   }
 ]
