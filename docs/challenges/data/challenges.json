@@ -1744,5 +1744,11 @@
     "title": "Number of Ways to Reach Destination in the Grid",
     "url": "https://leetcode.com/problems/number-of-ways-to-reach-destination-in-the-grid/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "10-08-2025 17:08 UTC",
+    "title": "XOR Operation in an Array",
+    "url": "https://leetcode.com/problems/xor-operation-in-an-array/description",
+    "difficulty": "EASY"
   }
 ]
