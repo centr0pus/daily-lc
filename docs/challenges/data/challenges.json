@@ -1750,5 +1750,11 @@
     "title": "XOR Operation in an Array",
     "url": "https://leetcode.com/problems/xor-operation-in-an-array/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "11-08-2025 17:12 UTC",
+    "title": "Minimum Cost to Reach Every Position",
+    "url": "https://leetcode.com/problems/minimum-cost-to-reach-every-position/description",
+    "difficulty": "EASY"
   }
 ]
