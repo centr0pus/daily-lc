@@ -1756,5 +1756,11 @@
     "title": "Minimum Cost to Reach Every Position",
     "url": "https://leetcode.com/problems/minimum-cost-to-reach-every-position/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "12-08-2025 17:11 UTC",
+    "title": "Minimum Weighted Subgraph With the Required Paths",
+    "url": "https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/description",
+    "difficulty": "HARD"
   }
 ]
