@@ -1762,5 +1762,11 @@
     "title": "Minimum Weighted Subgraph With the Required Paths",
     "url": "https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "13-08-2025 17:08 UTC",
+    "title": "Find Numbers with Even Number of Digits",
+    "url": "https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description",
+    "difficulty": "EASY"
   }
 ]
