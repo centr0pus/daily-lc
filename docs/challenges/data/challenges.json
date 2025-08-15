@@ -1774,5 +1774,11 @@
     "title": "Cousins in Binary Tree",
     "url": "https://leetcode.com/problems/cousins-in-binary-tree/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "15-08-2025 17:09 UTC",
+    "title": "A Number After a Double Reversal",
+    "url": "https://leetcode.com/problems/a-number-after-a-double-reversal/description",
+    "difficulty": "EASY"
   }
 ]
