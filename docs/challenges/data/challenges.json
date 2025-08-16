@@ -1780,5 +1780,11 @@
     "title": "A Number After a Double Reversal",
     "url": "https://leetcode.com/problems/a-number-after-a-double-reversal/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "16-08-2025 17:08 UTC",
+    "title": "Rings and Rods",
+    "url": "https://leetcode.com/problems/rings-and-rods/description",
+    "difficulty": "EASY"
   }
 ]
