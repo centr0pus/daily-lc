@@ -1786,5 +1786,11 @@
     "title": "Rings and Rods",
     "url": "https://leetcode.com/problems/rings-and-rods/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "17-08-2025 17:08 UTC",
+    "title": "Sum of Numbers With Units Digit K",
+    "url": "https://leetcode.com/problems/sum-of-numbers-with-units-digit-k/description",
+    "difficulty": "MEDIUM"
   }
 ]
