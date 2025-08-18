@@ -1792,5 +1792,11 @@
     "title": "Sum of Numbers With Units Digit K",
     "url": "https://leetcode.com/problems/sum-of-numbers-with-units-digit-k/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "18-08-2025 17:11 UTC",
+    "title": "Minimum Number of Flips to Make Binary Grid Palindromic II",
+    "url": "https://leetcode.com/problems/minimum-number-of-flips-to-make-binary-grid-palindromic-ii/description",
+    "difficulty": "MEDIUM"
   }
 ]
