@@ -1798,5 +1798,11 @@
     "title": "Minimum Number of Flips to Make Binary Grid Palindromic II",
     "url": "https://leetcode.com/problems/minimum-number-of-flips-to-make-binary-grid-palindromic-ii/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "19-08-2025 17:09 UTC",
+    "title": "Maximum Value of K Coins From Piles",
+    "url": "https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/description",
+    "difficulty": "HARD"
   }
 ]
