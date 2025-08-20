@@ -1804,5 +1804,11 @@
     "title": "Maximum Value of K Coins From Piles",
     "url": "https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "20-08-2025 17:08 UTC",
+    "title": "Sort Vowels in a String",
+    "url": "https://leetcode.com/problems/sort-vowels-in-a-string/description",
+    "difficulty": "MEDIUM"
   }
 ]
