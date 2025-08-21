@@ -1810,5 +1810,11 @@
     "title": "Sort Vowels in a String",
     "url": "https://leetcode.com/problems/sort-vowels-in-a-string/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "21-08-2025 17:08 UTC",
+    "title": "Maximum Sum of 3 Non-Overlapping Subarrays",
+    "url": "https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/description",
+    "difficulty": "HARD"
   }
 ]
