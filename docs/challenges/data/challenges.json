@@ -1816,5 +1816,11 @@
     "title": "Maximum Sum of 3 Non-Overlapping Subarrays",
     "url": "https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "22-08-2025 17:08 UTC",
+    "title": "Minimum Moves to Equal Array Elements",
+    "url": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements/description",
+    "difficulty": "MEDIUM"
   }
 ]
