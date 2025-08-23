@@ -1822,5 +1822,11 @@
     "title": "Minimum Moves to Equal Array Elements",
     "url": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "23-08-2025 17:07 UTC",
+    "title": "Maximum Twin Sum of a Linked List",
+    "url": "https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description",
+    "difficulty": "MEDIUM"
   }
 ]
