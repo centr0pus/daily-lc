@@ -1828,5 +1828,11 @@
     "title": "Maximum Twin Sum of a Linked List",
     "url": "https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "24-08-2025 17:08 UTC",
+    "title": "Popularity Percentage",
+    "url": "https://leetcode.com/problems/popularity-percentage/description",
+    "difficulty": "HARD"
   }
 ]
