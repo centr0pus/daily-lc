@@ -1834,5 +1834,11 @@
     "title": "Popularity Percentage",
     "url": "https://leetcode.com/problems/popularity-percentage/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "25-08-2025 17:07 UTC",
+    "title": "Max Consecutive Ones",
+    "url": "https://leetcode.com/problems/max-consecutive-ones/description",
+    "difficulty": "EASY"
   }
 ]
