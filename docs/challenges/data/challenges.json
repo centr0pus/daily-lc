@@ -1840,5 +1840,11 @@
     "title": "Max Consecutive Ones",
     "url": "https://leetcode.com/problems/max-consecutive-ones/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "26-08-2025 17:08 UTC",
+    "title": "Resulting String After Adjacent Removals",
+    "url": "https://leetcode.com/problems/resulting-string-after-adjacent-removals/description",
+    "difficulty": "MEDIUM"
   }
 ]
