@@ -1846,5 +1846,11 @@
     "title": "Resulting String After Adjacent Removals",
     "url": "https://leetcode.com/problems/resulting-string-after-adjacent-removals/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "27-08-2025 17:08 UTC",
+    "title": "Binary Watch",
+    "url": "https://leetcode.com/problems/binary-watch/description",
+    "difficulty": "EASY"
   }
 ]
