@@ -1852,5 +1852,11 @@
     "title": "Binary Watch",
     "url": "https://leetcode.com/problems/binary-watch/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "28-08-2025 17:08 UTC",
+    "title": "Count Complete Substrings",
+    "url": "https://leetcode.com/problems/count-complete-substrings/description",
+    "difficulty": "HARD"
   }
 ]
