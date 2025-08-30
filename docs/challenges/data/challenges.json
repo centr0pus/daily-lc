@@ -1864,5 +1864,11 @@
     "title": "Convert the Temperature",
     "url": "https://leetcode.com/problems/convert-the-temperature/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "30-08-2025 17:07 UTC",
+    "title": "Phone Number Prefix",
+    "url": "https://leetcode.com/problems/phone-number-prefix/description",
+    "difficulty": "EASY"
   }
 ]
