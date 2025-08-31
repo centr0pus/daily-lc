@@ -1870,5 +1870,11 @@
     "title": "Phone Number Prefix",
     "url": "https://leetcode.com/problems/phone-number-prefix/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "31-08-2025 17:07 UTC",
+    "title": "Data Stream as Disjoint Intervals",
+    "url": "https://leetcode.com/problems/data-stream-as-disjoint-intervals/description",
+    "difficulty": "HARD"
   }
 ]
