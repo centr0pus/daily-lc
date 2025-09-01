@@ -1876,5 +1876,11 @@
     "title": "Data Stream as Disjoint Intervals",
     "url": "https://leetcode.com/problems/data-stream-as-disjoint-intervals/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "01-09-2025 17:08 UTC",
+    "title": "Minimum Swaps To Make Sequences Increasing",
+    "url": "https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/description",
+    "difficulty": "HARD"
   }
 ]
