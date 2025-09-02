@@ -1882,5 +1882,11 @@
     "title": "Minimum Swaps To Make Sequences Increasing",
     "url": "https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "02-09-2025 17:08 UTC",
+    "title": "The Latest Login in 2020",
+    "url": "https://leetcode.com/problems/the-latest-login-in-2020/description",
+    "difficulty": "EASY"
   }
 ]
