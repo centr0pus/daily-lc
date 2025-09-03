@@ -1888,5 +1888,11 @@
     "title": "The Latest Login in 2020",
     "url": "https://leetcode.com/problems/the-latest-login-in-2020/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "03-09-2025 17:08 UTC",
+    "title": "Apply Operations to Maximize Frequency Score",
+    "url": "https://leetcode.com/problems/apply-operations-to-maximize-frequency-score/description",
+    "difficulty": "HARD"
   }
 ]
