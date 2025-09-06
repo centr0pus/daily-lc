@@ -1906,5 +1906,11 @@
     "title": "Find Loyal Customers",
     "url": "https://leetcode.com/problems/find-loyal-customers/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "06-09-2025 17:07 UTC",
+    "title": "Hand of Straights",
+    "url": "https://leetcode.com/problems/hand-of-straights/description",
+    "difficulty": "MEDIUM"
   }
 ]
