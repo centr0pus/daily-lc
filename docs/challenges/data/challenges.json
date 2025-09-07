@@ -1912,5 +1912,11 @@
     "title": "Hand of Straights",
     "url": "https://leetcode.com/problems/hand-of-straights/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "07-09-2025 17:07 UTC",
+    "title": "Maximum XOR Score Subarray Queries",
+    "url": "https://leetcode.com/problems/maximum-xor-score-subarray-queries/description",
+    "difficulty": "HARD"
   }
 ]
