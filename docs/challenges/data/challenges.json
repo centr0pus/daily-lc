@@ -1918,5 +1918,11 @@
     "title": "Maximum XOR Score Subarray Queries",
     "url": "https://leetcode.com/problems/maximum-xor-score-subarray-queries/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "08-09-2025 17:08 UTC",
+    "title": "Moving Stones Until Consecutive II",
+    "url": "https://leetcode.com/problems/moving-stones-until-consecutive-ii/description",
+    "difficulty": "MEDIUM"
   }
 ]
