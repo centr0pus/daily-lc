@@ -1924,5 +1924,11 @@
     "title": "Moving Stones Until Consecutive II",
     "url": "https://leetcode.com/problems/moving-stones-until-consecutive-ii/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "09-09-2025 17:08 UTC",
+    "title": "Circular Permutation in Binary Representation",
+    "url": "https://leetcode.com/problems/circular-permutation-in-binary-representation/description",
+    "difficulty": "MEDIUM"
   }
 ]
