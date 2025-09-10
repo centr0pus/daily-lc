@@ -1930,5 +1930,11 @@
     "title": "Circular Permutation in Binary Representation",
     "url": "https://leetcode.com/problems/circular-permutation-in-binary-representation/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "10-09-2025 17:08 UTC",
+    "title": "Widest Pair of Indices With Equal Range Sum",
+    "url": "https://leetcode.com/problems/widest-pair-of-indices-with-equal-range-sum/description",
+    "difficulty": "MEDIUM"
   }
 ]
