@@ -1942,5 +1942,11 @@
     "title": "Calculate Amount Paid in Taxes",
     "url": "https://leetcode.com/problems/calculate-amount-paid-in-taxes/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "12-09-2025 17:07 UTC",
+    "title": "Lexicographically Smallest Generated String",
+    "url": "https://leetcode.com/problems/lexicographically-smallest-generated-string/description",
+    "difficulty": "HARD"
   }
 ]
