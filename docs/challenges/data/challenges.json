@@ -1948,5 +1948,11 @@
     "title": "Lexicographically Smallest Generated String",
     "url": "https://leetcode.com/problems/lexicographically-smallest-generated-string/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "13-09-2025 17:06 UTC",
+    "title": "Distribute Candies",
+    "url": "https://leetcode.com/problems/distribute-candies/description",
+    "difficulty": "EASY"
   }
 ]
