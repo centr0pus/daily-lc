@@ -1954,5 +1954,11 @@
     "title": "Distribute Candies",
     "url": "https://leetcode.com/problems/distribute-candies/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "14-09-2025 17:06 UTC",
+    "title": "Distinct Echo Substrings",
+    "url": "https://leetcode.com/problems/distinct-echo-substrings/description",
+    "difficulty": "HARD"
   }
 ]
