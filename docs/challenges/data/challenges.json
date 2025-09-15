@@ -1960,5 +1960,11 @@
     "title": "Distinct Echo Substrings",
     "url": "https://leetcode.com/problems/distinct-echo-substrings/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "15-09-2025 17:08 UTC",
+    "title": "Contains Duplicate II",
+    "url": "https://leetcode.com/problems/contains-duplicate-ii/description",
+    "difficulty": "EASY"
   }
 ]
