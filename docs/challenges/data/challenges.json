@@ -1966,5 +1966,11 @@
     "title": "Contains Duplicate II",
     "url": "https://leetcode.com/problems/contains-duplicate-ii/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "16-09-2025 17:08 UTC",
+    "title": "Valid Palindrome III",
+    "url": "https://leetcode.com/problems/valid-palindrome-iii/description",
+    "difficulty": "HARD"
   }
 ]
