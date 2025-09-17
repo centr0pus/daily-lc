@@ -1972,5 +1972,11 @@
     "title": "Valid Palindrome III",
     "url": "https://leetcode.com/problems/valid-palindrome-iii/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "17-09-2025 17:08 UTC",
+    "title": "Maximum Number of Vowels in a Substring of Given Length",
+    "url": "https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description",
+    "difficulty": "MEDIUM"
   }
 ]
