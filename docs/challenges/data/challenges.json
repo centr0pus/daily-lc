@@ -1978,5 +1978,11 @@
     "title": "Maximum Number of Vowels in a Substring of Given Length",
     "url": "https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "18-09-2025 17:09 UTC",
+    "title": "Find Indices With Index and Value Difference II",
+    "url": "https://leetcode.com/problems/find-indices-with-index-and-value-difference-ii/description",
+    "difficulty": "MEDIUM"
   }
 ]
