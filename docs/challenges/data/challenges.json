@@ -1984,5 +1984,11 @@
     "title": "Find Indices With Index and Value Difference II",
     "url": "https://leetcode.com/problems/find-indices-with-index-and-value-difference-ii/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "19-09-2025 17:08 UTC",
+    "title": "Cells with Odd Values in a Matrix",
+    "url": "https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/description",
+    "difficulty": "EASY"
   }
 ]
