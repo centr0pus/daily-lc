@@ -1996,5 +1996,11 @@
     "title": "Minimize Length of Array Using Operations",
     "url": "https://leetcode.com/problems/minimize-length-of-array-using-operations/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "21-09-2025 17:07 UTC",
+    "title": "Find Sum of Array Product of Magical Sequences",
+    "url": "https://leetcode.com/problems/find-sum-of-array-product-of-magical-sequences/description",
+    "difficulty": "HARD"
   }
 ]
