@@ -2008,5 +2008,11 @@
     "title": "Find the Occurrence of First Almost Equal Substring",
     "url": "https://leetcode.com/problems/find-the-occurrence-of-first-almost-equal-substring/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "23-09-2025 17:07 UTC",
+    "title": "Find Pivot Index",
+    "url": "https://leetcode.com/problems/find-pivot-index/description",
+    "difficulty": "EASY"
   }
 ]
