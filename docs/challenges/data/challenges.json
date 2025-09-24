@@ -2014,5 +2014,11 @@
     "title": "Find Pivot Index",
     "url": "https://leetcode.com/problems/find-pivot-index/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "24-09-2025 17:09 UTC",
+    "title": "Make Two Arrays Equal by Reversing Subarrays",
+    "url": "https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/description",
+    "difficulty": "EASY"
   }
 ]
