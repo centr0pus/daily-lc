@@ -2020,5 +2020,11 @@
     "title": "Make Two Arrays Equal by Reversing Subarrays",
     "url": "https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "25-09-2025 17:08 UTC",
+    "title": "Maximize Sum of Weights after Edge Removals",
+    "url": "https://leetcode.com/problems/maximize-sum-of-weights-after-edge-removals/description",
+    "difficulty": "HARD"
   }
 ]
