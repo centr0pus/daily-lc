@@ -2026,5 +2026,11 @@
     "title": "Maximize Sum of Weights after Edge Removals",
     "url": "https://leetcode.com/problems/maximize-sum-of-weights-after-edge-removals/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "26-09-2025 17:08 UTC",
+    "title": "Longest Uncommon Subsequence I",
+    "url": "https://leetcode.com/problems/longest-uncommon-subsequence-i/description",
+    "difficulty": "EASY"
   }
 ]
