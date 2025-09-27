@@ -2032,5 +2032,11 @@
     "title": "Longest Uncommon Subsequence I",
     "url": "https://leetcode.com/problems/longest-uncommon-subsequence-i/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "27-09-2025 17:07 UTC",
+    "title": "Nth Magical Number",
+    "url": "https://leetcode.com/problems/nth-magical-number/description",
+    "difficulty": "HARD"
   }
 ]
