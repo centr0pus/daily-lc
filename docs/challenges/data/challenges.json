@@ -2038,5 +2038,11 @@
     "title": "Nth Magical Number",
     "url": "https://leetcode.com/problems/nth-magical-number/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "28-09-2025 17:07 UTC",
+    "title": "Allocate Mailboxes",
+    "url": "https://leetcode.com/problems/allocate-mailboxes/description",
+    "difficulty": "HARD"
   }
 ]
