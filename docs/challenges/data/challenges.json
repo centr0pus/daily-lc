@@ -2044,5 +2044,11 @@
     "title": "Allocate Mailboxes",
     "url": "https://leetcode.com/problems/allocate-mailboxes/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "29-09-2025 17:09 UTC",
+    "title": "Design Tic-Tac-Toe",
+    "url": "https://leetcode.com/problems/design-tic-tac-toe/description",
+    "difficulty": "MEDIUM"
   }
 ]
