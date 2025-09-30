@@ -2050,5 +2050,11 @@
     "title": "Design Tic-Tac-Toe",
     "url": "https://leetcode.com/problems/design-tic-tac-toe/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "30-09-2025 17:09 UTC",
+    "title": "Longest Winning Streak",
+    "url": "https://leetcode.com/problems/longest-winning-streak/description",
+    "difficulty": "HARD"
   }
 ]
