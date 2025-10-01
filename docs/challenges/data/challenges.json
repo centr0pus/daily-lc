@@ -2056,5 +2056,11 @@
     "title": "Longest Winning Streak",
     "url": "https://leetcode.com/problems/longest-winning-streak/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "01-10-2025 17:09 UTC",
+    "title": "Maximum Score of Non-overlapping Intervals",
+    "url": "https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/description",
+    "difficulty": "HARD"
   }
 ]
