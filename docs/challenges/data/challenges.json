@@ -2062,5 +2062,11 @@
     "title": "Maximum Score of Non-overlapping Intervals",
     "url": "https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "02-10-2025 17:07 UTC",
+    "title": "Distribute Candies",
+    "url": "https://leetcode.com/problems/distribute-candies/description",
+    "difficulty": "EASY"
   }
 ]
