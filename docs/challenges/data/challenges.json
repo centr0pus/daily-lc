@@ -2068,5 +2068,11 @@
     "title": "Distribute Candies",
     "url": "https://leetcode.com/problems/distribute-candies/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "03-10-2025 17:08 UTC",
+    "title": "Find Maximum Non-decreasing Array Length",
+    "url": "https://leetcode.com/problems/find-maximum-non-decreasing-array-length/description",
+    "difficulty": "HARD"
   }
 ]
