@@ -2074,5 +2074,11 @@
     "title": "Find Maximum Non-decreasing Array Length",
     "url": "https://leetcode.com/problems/find-maximum-non-decreasing-array-length/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "04-10-2025 17:07 UTC",
+    "title": "Maximum Product of the Length of Two Palindromic Subsequences",
+    "url": "https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/description",
+    "difficulty": "MEDIUM"
   }
 ]
