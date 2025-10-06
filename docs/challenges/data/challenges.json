@@ -2086,5 +2086,11 @@
     "title": "Longest Team Pass Streak",
     "url": "https://leetcode.com/problems/longest-team-pass-streak/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "06-10-2025 17:09 UTC",
+    "title": "Matrix Block Sum",
+    "url": "https://leetcode.com/problems/matrix-block-sum/description",
+    "difficulty": "MEDIUM"
   }
 ]
