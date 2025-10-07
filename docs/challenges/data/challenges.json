@@ -2092,5 +2092,11 @@
     "title": "Matrix Block Sum",
     "url": "https://leetcode.com/problems/matrix-block-sum/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "07-10-2025 17:08 UTC",
+    "title": "Self Dividing Numbers",
+    "url": "https://leetcode.com/problems/self-dividing-numbers/description",
+    "difficulty": "EASY"
   }
 ]
