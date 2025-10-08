@@ -2098,5 +2098,11 @@
     "title": "Self Dividing Numbers",
     "url": "https://leetcode.com/problems/self-dividing-numbers/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "08-10-2025 17:08 UTC",
+    "title": "Sentence Similarity II",
+    "url": "https://leetcode.com/problems/sentence-similarity-ii/description",
+    "difficulty": "MEDIUM"
   }
 ]
