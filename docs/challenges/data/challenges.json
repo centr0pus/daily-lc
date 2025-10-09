@@ -2104,5 +2104,11 @@
     "title": "Sentence Similarity II",
     "url": "https://leetcode.com/problems/sentence-similarity-ii/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "09-10-2025 17:09 UTC",
+    "title": "Squirrel Simulation",
+    "url": "https://leetcode.com/problems/squirrel-simulation/description",
+    "difficulty": "MEDIUM"
   }
 ]
