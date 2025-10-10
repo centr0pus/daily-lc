@@ -2110,5 +2110,11 @@
     "title": "Squirrel Simulation",
     "url": "https://leetcode.com/problems/squirrel-simulation/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "10-10-2025 17:09 UTC",
+    "title": "Number of Ways to Assign Edge Weights I",
+    "url": "https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-i/description",
+    "difficulty": "MEDIUM"
   }
 ]
