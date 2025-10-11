@@ -2116,5 +2116,11 @@
     "title": "Number of Ways to Assign Edge Weights I",
     "url": "https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-i/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "11-10-2025 17:07 UTC",
+    "title": "Employees Whose Manager Left the Company",
+    "url": "https://leetcode.com/problems/employees-whose-manager-left-the-company/description",
+    "difficulty": "EASY"
   }
 ]
