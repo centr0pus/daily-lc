@@ -2122,5 +2122,11 @@
     "title": "Employees Whose Manager Left the Company",
     "url": "https://leetcode.com/problems/employees-whose-manager-left-the-company/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "12-10-2025 17:07 UTC",
+    "title": "Replace Non-Coprime Numbers in Array",
+    "url": "https://leetcode.com/problems/replace-non-coprime-numbers-in-array/description",
+    "difficulty": "HARD"
   }
 ]
