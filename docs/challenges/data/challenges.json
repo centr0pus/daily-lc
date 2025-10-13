@@ -2128,5 +2128,11 @@
     "title": "Replace Non-Coprime Numbers in Array",
     "url": "https://leetcode.com/problems/replace-non-coprime-numbers-in-array/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "13-10-2025 17:09 UTC",
+    "title": "First Unique Number",
+    "url": "https://leetcode.com/problems/first-unique-number/description",
+    "difficulty": "MEDIUM"
   }
 ]
