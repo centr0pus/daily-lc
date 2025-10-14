@@ -2134,5 +2134,11 @@
     "title": "First Unique Number",
     "url": "https://leetcode.com/problems/first-unique-number/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "14-10-2025 17:09 UTC",
+    "title": "Prime Number of Set Bits in Binary Representation",
+    "url": "https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/description",
+    "difficulty": "EASY"
   }
 ]
