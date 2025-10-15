@@ -2140,5 +2140,11 @@
     "title": "Prime Number of Set Bits in Binary Representation",
     "url": "https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "15-10-2025 17:09 UTC",
+    "title": "Flip Equivalent Binary Trees",
+    "url": "https://leetcode.com/problems/flip-equivalent-binary-trees/description",
+    "difficulty": "MEDIUM"
   }
 ]
