@@ -2152,5 +2152,11 @@
     "title": "RLE Iterator",
     "url": "https://leetcode.com/problems/rle-iterator/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "17-10-2025 17:08 UTC",
+    "title": "Number of Transactions per Visit",
+    "url": "https://leetcode.com/problems/number-of-transactions-per-visit/description",
+    "difficulty": "HARD"
   }
 ]
