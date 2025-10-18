@@ -2158,5 +2158,11 @@
     "title": "Number of Transactions per Visit",
     "url": "https://leetcode.com/problems/number-of-transactions-per-visit/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "18-10-2025 17:07 UTC",
+    "title": "Friends Of Appropriate Ages",
+    "url": "https://leetcode.com/problems/friends-of-appropriate-ages/description",
+    "difficulty": "MEDIUM"
   }
 ]
