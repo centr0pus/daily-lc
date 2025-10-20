@@ -2170,5 +2170,11 @@
     "title": "Split the Array",
     "url": "https://leetcode.com/problems/split-the-array/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "20-10-2025 17:08 UTC",
+    "title": "Count Number of Trapezoids II",
+    "url": "https://leetcode.com/problems/count-number-of-trapezoids-ii/description",
+    "difficulty": "HARD"
   }
 ]
