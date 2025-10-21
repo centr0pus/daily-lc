@@ -2176,5 +2176,11 @@
     "title": "Count Number of Trapezoids II",
     "url": "https://leetcode.com/problems/count-number-of-trapezoids-ii/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "21-10-2025 17:10 UTC",
+    "title": "Maximum Value of an Ordered Triplet I",
+    "url": "https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i/description",
+    "difficulty": "EASY"
   }
 ]
