@@ -2182,5 +2182,11 @@
     "title": "Maximum Value of an Ordered Triplet I",
     "url": "https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "22-10-2025 17:10 UTC",
+    "title": "Count Ways to Build Rooms in an Ant Colony",
+    "url": "https://leetcode.com/problems/count-ways-to-build-rooms-in-an-ant-colony/description",
+    "difficulty": "HARD"
   }
 ]
