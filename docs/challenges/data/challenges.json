@@ -2188,5 +2188,11 @@
     "title": "Count Ways to Build Rooms in an Ant Colony",
     "url": "https://leetcode.com/problems/count-ways-to-build-rooms-in-an-ant-colony/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "23-10-2025 17:09 UTC",
+    "title": "Rotate Function",
+    "url": "https://leetcode.com/problems/rotate-function/description",
+    "difficulty": "MEDIUM"
   }
 ]
