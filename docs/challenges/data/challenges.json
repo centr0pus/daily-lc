@@ -2194,5 +2194,11 @@
     "title": "Rotate Function",
     "url": "https://leetcode.com/problems/rotate-function/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "24-10-2025 17:09 UTC",
+    "title": "Maximum Total Beauty of the Gardens",
+    "url": "https://leetcode.com/problems/maximum-total-beauty-of-the-gardens/description",
+    "difficulty": "HARD"
   }
 ]
