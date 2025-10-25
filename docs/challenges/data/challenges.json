@@ -2200,5 +2200,11 @@
     "title": "Maximum Total Beauty of the Gardens",
     "url": "https://leetcode.com/problems/maximum-total-beauty-of-the-gardens/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "25-10-2025 17:07 UTC",
+    "title": "Check If Two String Arrays are Equivalent",
+    "url": "https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/description",
+    "difficulty": "EASY"
   }
 ]
