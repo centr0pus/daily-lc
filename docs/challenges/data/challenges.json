@@ -2230,5 +2230,11 @@
     "title": "Minimum Penalty for a Shop",
     "url": "https://leetcode.com/problems/minimum-penalty-for-a-shop/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "30-10-2025 17:09 UTC",
+    "title": "Difference Between Element Sum and Digit Sum of an Array",
+    "url": "https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/description",
+    "difficulty": "EASY"
   }
 ]
