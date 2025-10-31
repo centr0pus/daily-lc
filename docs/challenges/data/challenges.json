@@ -2236,5 +2236,11 @@
     "title": "Difference Between Element Sum and Digit Sum of an Array",
     "url": "https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "31-10-2025 17:10 UTC",
+    "title": "Number of Possible Sets of Closing Branches",
+    "url": "https://leetcode.com/problems/number-of-possible-sets-of-closing-branches/description",
+    "difficulty": "HARD"
   }
 ]
