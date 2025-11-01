@@ -2242,5 +2242,11 @@
     "title": "Number of Possible Sets of Closing Branches",
     "url": "https://leetcode.com/problems/number-of-possible-sets-of-closing-branches/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "01-11-2025 17:07 UTC",
+    "title": "Number of Atoms",
+    "url": "https://leetcode.com/problems/number-of-atoms/description",
+    "difficulty": "HARD"
   }
 ]
