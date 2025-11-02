@@ -2248,5 +2248,11 @@
     "title": "Number of Atoms",
     "url": "https://leetcode.com/problems/number-of-atoms/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "02-11-2025 17:07 UTC",
+    "title": "Couples Holding Hands",
+    "url": "https://leetcode.com/problems/couples-holding-hands/description",
+    "difficulty": "HARD"
   }
 ]
