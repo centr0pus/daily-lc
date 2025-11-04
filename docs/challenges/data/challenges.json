@@ -2260,5 +2260,11 @@
     "title": "The Wording Game",
     "url": "https://leetcode.com/problems/the-wording-game/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "04-11-2025 17:08 UTC",
+    "title": "Maximize Items",
+    "url": "https://leetcode.com/problems/maximize-items/description",
+    "difficulty": "HARD"
   }
 ]
