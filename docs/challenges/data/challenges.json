@@ -2266,5 +2266,11 @@
     "title": "Maximize Items",
     "url": "https://leetcode.com/problems/maximize-items/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "05-11-2025 17:10 UTC",
+    "title": "Make Array Zero by Subtracting Equal Amounts",
+    "url": "https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/description",
+    "difficulty": "EASY"
   }
 ]
