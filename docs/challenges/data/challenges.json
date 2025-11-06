@@ -2272,5 +2272,11 @@
     "title": "Make Array Zero by Subtracting Equal Amounts",
     "url": "https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "06-11-2025 17:11 UTC",
+    "title": "Score After Flipping Matrix",
+    "url": "https://leetcode.com/problems/score-after-flipping-matrix/description",
+    "difficulty": "MEDIUM"
   }
 ]
