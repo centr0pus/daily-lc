@@ -2278,5 +2278,11 @@
     "title": "Score After Flipping Matrix",
     "url": "https://leetcode.com/problems/score-after-flipping-matrix/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "07-11-2025 17:09 UTC",
+    "title": "Shortest Path with Alternating Colors",
+    "url": "https://leetcode.com/problems/shortest-path-with-alternating-colors/description",
+    "difficulty": "MEDIUM"
   }
 ]
