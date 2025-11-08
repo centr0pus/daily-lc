@@ -2284,5 +2284,11 @@
     "title": "Shortest Path with Alternating Colors",
     "url": "https://leetcode.com/problems/shortest-path-with-alternating-colors/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "08-11-2025 17:07 UTC",
+    "title": "Divide Array Into Equal Pairs",
+    "url": "https://leetcode.com/problems/divide-array-into-equal-pairs/description",
+    "difficulty": "EASY"
   }
 ]
