@@ -2290,5 +2290,11 @@
     "title": "Divide Array Into Equal Pairs",
     "url": "https://leetcode.com/problems/divide-array-into-equal-pairs/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "09-11-2025 17:08 UTC",
+    "title": "Maximum Number of Ones",
+    "url": "https://leetcode.com/problems/maximum-number-of-ones/description",
+    "difficulty": "HARD"
   }
 ]
