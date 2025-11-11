@@ -2302,5 +2302,11 @@
     "title": "Split a String in Balanced Strings",
     "url": "https://leetcode.com/problems/split-a-string-in-balanced-strings/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "11-11-2025 17:09 UTC",
+    "title": "Find Zombie Sessions",
+    "url": "https://leetcode.com/problems/find-zombie-sessions/description",
+    "difficulty": "HARD"
   }
 ]
