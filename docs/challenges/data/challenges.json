@@ -2308,5 +2308,11 @@
     "title": "Find Zombie Sessions",
     "url": "https://leetcode.com/problems/find-zombie-sessions/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "12-11-2025 17:10 UTC",
+    "title": "Prime Subtraction Operation",
+    "url": "https://leetcode.com/problems/prime-subtraction-operation/description",
+    "difficulty": "MEDIUM"
   }
 ]
