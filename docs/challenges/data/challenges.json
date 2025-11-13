@@ -2314,5 +2314,11 @@
     "title": "Prime Subtraction Operation",
     "url": "https://leetcode.com/problems/prime-subtraction-operation/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "13-11-2025 17:11 UTC",
+    "title": "Check if Word Equals Summation of Two Words",
+    "url": "https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/description",
+    "difficulty": "EASY"
   }
 ]
