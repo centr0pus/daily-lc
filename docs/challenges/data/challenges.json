@@ -2320,5 +2320,11 @@
     "title": "Check if Word Equals Summation of Two Words",
     "url": "https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "14-11-2025 17:09 UTC",
+    "title": "Max Dot Product of Two Subsequences",
+    "url": "https://leetcode.com/problems/max-dot-product-of-two-subsequences/description",
+    "difficulty": "HARD"
   }
 ]
