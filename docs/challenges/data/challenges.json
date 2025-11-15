@@ -2326,5 +2326,11 @@
     "title": "Max Dot Product of Two Subsequences",
     "url": "https://leetcode.com/problems/max-dot-product-of-two-subsequences/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "15-11-2025 17:08 UTC",
+    "title": "Distribute Repeating Integers",
+    "url": "https://leetcode.com/problems/distribute-repeating-integers/description",
+    "difficulty": "HARD"
   }
 ]
