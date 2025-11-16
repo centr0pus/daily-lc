@@ -2332,5 +2332,11 @@
     "title": "Distribute Repeating Integers",
     "url": "https://leetcode.com/problems/distribute-repeating-integers/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "16-11-2025 17:08 UTC",
+    "title": "Find Missing Elements",
+    "url": "https://leetcode.com/problems/find-missing-elements/description",
+    "difficulty": "EASY"
   }
 ]
