@@ -2344,5 +2344,11 @@
     "title": "Alert Using Same Key-Card Three or More Times in a One Hour Period",
     "url": "https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "18-11-2025 17:11 UTC",
+    "title": "Painting a Grid With Three Different Colors",
+    "url": "https://leetcode.com/problems/painting-a-grid-with-three-different-colors/description",
+    "difficulty": "HARD"
   }
 ]
