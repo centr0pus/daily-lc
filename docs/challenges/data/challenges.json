@@ -2350,5 +2350,11 @@
     "title": "Painting a Grid With Three Different Colors",
     "url": "https://leetcode.com/problems/painting-a-grid-with-three-different-colors/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "19-11-2025 17:10 UTC",
+    "title": "Push Dominoes",
+    "url": "https://leetcode.com/problems/push-dominoes/description",
+    "difficulty": "MEDIUM"
   }
 ]
