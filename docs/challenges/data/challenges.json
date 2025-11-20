@@ -2356,5 +2356,11 @@
     "title": "Push Dominoes",
     "url": "https://leetcode.com/problems/push-dominoes/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "20-11-2025 17:09 UTC",
+    "title": "Find Subarray With Bitwise OR Closest to K",
+    "url": "https://leetcode.com/problems/find-subarray-with-bitwise-or-closest-to-k/description",
+    "difficulty": "HARD"
   }
 ]
