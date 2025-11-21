@@ -2362,5 +2362,11 @@
     "title": "Find Subarray With Bitwise OR Closest to K",
     "url": "https://leetcode.com/problems/find-subarray-with-bitwise-or-closest-to-k/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "21-11-2025 17:09 UTC",
+    "title": "Department Top Three Salaries",
+    "url": "https://leetcode.com/problems/department-top-three-salaries/description",
+    "difficulty": "HARD"
   }
 ]
