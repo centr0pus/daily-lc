@@ -2374,5 +2374,11 @@
     "title": "My Calendar III",
     "url": "https://leetcode.com/problems/my-calendar-iii/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "23-11-2025 17:08 UTC",
+    "title": "Merge Intervals",
+    "url": "https://leetcode.com/problems/merge-intervals/description",
+    "difficulty": "MEDIUM"
   }
 ]
