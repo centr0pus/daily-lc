@@ -2386,5 +2386,11 @@
     "title": "Check If a Number Is Majority Element in a Sorted Array",
     "url": "https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "25-11-2025 17:12 UTC",
+    "title": "Number of Distinct Substrings in a String",
+    "url": "https://leetcode.com/problems/number-of-distinct-substrings-in-a-string/description",
+    "difficulty": "MEDIUM"
   }
 ]
