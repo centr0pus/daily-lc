@@ -2392,5 +2392,11 @@
     "title": "Number of Distinct Substrings in a String",
     "url": "https://leetcode.com/problems/number-of-distinct-substrings-in-a-string/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "26-11-2025 17:10 UTC",
+    "title": "Calculate Delayed Arrival Time",
+    "url": "https://leetcode.com/problems/calculate-delayed-arrival-time/description",
+    "difficulty": "EASY"
   }
 ]
