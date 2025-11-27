@@ -2398,5 +2398,11 @@
     "title": "Calculate Delayed Arrival Time",
     "url": "https://leetcode.com/problems/calculate-delayed-arrival-time/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "27-11-2025 17:08 UTC",
+    "title": "Users With Two Purchases Within Seven Days",
+    "url": "https://leetcode.com/problems/users-with-two-purchases-within-seven-days/description",
+    "difficulty": "MEDIUM"
   }
 ]
