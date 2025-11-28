@@ -2404,5 +2404,11 @@
     "title": "Users With Two Purchases Within Seven Days",
     "url": "https://leetcode.com/problems/users-with-two-purchases-within-seven-days/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "28-11-2025 17:08 UTC",
+    "title": "Minimum Health to Beat Game",
+    "url": "https://leetcode.com/problems/minimum-health-to-beat-game/description",
+    "difficulty": "MEDIUM"
   }
 ]
