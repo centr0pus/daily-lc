@@ -2416,5 +2416,11 @@
     "title": "Longest Unequal Adjacent Groups Subsequence I",
     "url": "https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "30-11-2025 17:08 UTC",
+    "title": "Similar RGB Color",
+    "url": "https://leetcode.com/problems/similar-rgb-color/description",
+    "difficulty": "EASY"
   }
 ]
