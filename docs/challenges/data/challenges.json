@@ -2422,5 +2422,11 @@
     "title": "Similar RGB Color",
     "url": "https://leetcode.com/problems/similar-rgb-color/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "01-12-2025 17:12 UTC",
+    "title": "Minimize the Maximum Edge Weight of Graph",
+    "url": "https://leetcode.com/problems/minimize-the-maximum-edge-weight-of-graph/description",
+    "difficulty": "MEDIUM"
   }
 ]
