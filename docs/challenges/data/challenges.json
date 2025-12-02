@@ -2428,5 +2428,11 @@
     "title": "Minimize the Maximum Edge Weight of Graph",
     "url": "https://leetcode.com/problems/minimize-the-maximum-edge-weight-of-graph/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "02-12-2025 17:14 UTC",
+    "title": "Basic Calculator IV",
+    "url": "https://leetcode.com/problems/basic-calculator-iv/description",
+    "difficulty": "HARD"
   }
 ]
