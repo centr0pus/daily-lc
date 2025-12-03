@@ -2434,5 +2434,11 @@
     "title": "Basic Calculator IV",
     "url": "https://leetcode.com/problems/basic-calculator-iv/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "03-12-2025 17:14 UTC",
+    "title": "Check If N and Its Double Exist",
+    "url": "https://leetcode.com/problems/check-if-n-and-its-double-exist/description",
+    "difficulty": "EASY"
   }
 ]
