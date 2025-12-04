@@ -2440,5 +2440,11 @@
     "title": "Check If N and Its Double Exist",
     "url": "https://leetcode.com/problems/check-if-n-and-its-double-exist/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "04-12-2025 17:14 UTC",
+    "title": "Sum of Root To Leaf Binary Numbers",
+    "url": "https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/description",
+    "difficulty": "EASY"
   }
 ]
