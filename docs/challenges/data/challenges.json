@@ -2446,5 +2446,11 @@
     "title": "Sum of Root To Leaf Binary Numbers",
     "url": "https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "05-12-2025 17:10 UTC",
+    "title": "Primary Department for Each Employee",
+    "url": "https://leetcode.com/problems/primary-department-for-each-employee/description",
+    "difficulty": "EASY"
   }
 ]
