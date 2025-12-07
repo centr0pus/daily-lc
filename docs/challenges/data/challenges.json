@@ -2458,5 +2458,11 @@
     "title": "Get Maximum in Generated Array",
     "url": "https://leetcode.com/problems/get-maximum-in-generated-array/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "07-12-2025 17:08 UTC",
+    "title": "Minimum Cost to Reach Every Position",
+    "url": "https://leetcode.com/problems/minimum-cost-to-reach-every-position/description",
+    "difficulty": "EASY"
   }
 ]
