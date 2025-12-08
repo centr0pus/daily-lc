@@ -2464,5 +2464,11 @@
     "title": "Minimum Cost to Reach Every Position",
     "url": "https://leetcode.com/problems/minimum-cost-to-reach-every-position/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "08-12-2025 17:12 UTC",
+    "title": "Smallest Divisible Digit Product II",
+    "url": "https://leetcode.com/problems/smallest-divisible-digit-product-ii/description",
+    "difficulty": "HARD"
   }
 ]
