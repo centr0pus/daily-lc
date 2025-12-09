@@ -2470,5 +2470,11 @@
     "title": "Smallest Divisible Digit Product II",
     "url": "https://leetcode.com/problems/smallest-divisible-digit-product-ii/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "09-12-2025 17:12 UTC",
+    "title": "Delete Characters to Make Fancy String",
+    "url": "https://leetcode.com/problems/delete-characters-to-make-fancy-string/description",
+    "difficulty": "EASY"
   }
 ]
