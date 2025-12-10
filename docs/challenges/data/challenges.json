@@ -2476,5 +2476,11 @@
     "title": "Delete Characters to Make Fancy String",
     "url": "https://leetcode.com/problems/delete-characters-to-make-fancy-string/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "10-12-2025 17:14 UTC",
+    "title": "Group By",
+    "url": "https://leetcode.com/problems/group-by/description",
+    "difficulty": "MEDIUM"
   }
 ]
