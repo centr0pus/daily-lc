@@ -2482,5 +2482,11 @@
     "title": "Group By",
     "url": "https://leetcode.com/problems/group-by/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "11-12-2025 17:18 UTC",
+    "title": "Count Prime-Gap Balanced Subarrays",
+    "url": "https://leetcode.com/problems/count-prime-gap-balanced-subarrays/description",
+    "difficulty": "MEDIUM"
   }
 ]
