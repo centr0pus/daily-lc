@@ -2488,5 +2488,11 @@
     "title": "Count Prime-Gap Balanced Subarrays",
     "url": "https://leetcode.com/problems/count-prime-gap-balanced-subarrays/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "12-12-2025 17:10 UTC",
+    "title": "Couples Holding Hands",
+    "url": "https://leetcode.com/problems/couples-holding-hands/description",
+    "difficulty": "HARD"
   }
 ]
