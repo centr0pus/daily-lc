@@ -2506,5 +2506,11 @@
     "title": "Delete Columns to Make Sorted",
     "url": "https://leetcode.com/problems/delete-columns-to-make-sorted/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "15-12-2025 17:16 UTC",
+    "title": "Sort the Jumbled Numbers",
+    "url": "https://leetcode.com/problems/sort-the-jumbled-numbers/description",
+    "difficulty": "MEDIUM"
   }
 ]
