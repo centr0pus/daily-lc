@@ -2518,5 +2518,11 @@
     "title": "Kth Smallest Instructions",
     "url": "https://leetcode.com/problems/kth-smallest-instructions/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "17-12-2025 17:15 UTC",
+    "title": "Shortest Path in a Hidden Grid",
+    "url": "https://leetcode.com/problems/shortest-path-in-a-hidden-grid/description",
+    "difficulty": "MEDIUM"
   }
 ]
