@@ -2524,5 +2524,11 @@
     "title": "Shortest Path in a Hidden Grid",
     "url": "https://leetcode.com/problems/shortest-path-in-a-hidden-grid/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "18-12-2025 17:15 UTC",
+    "title": "Valid Palindrome III",
+    "url": "https://leetcode.com/problems/valid-palindrome-iii/description",
+    "difficulty": "HARD"
   }
 ]
