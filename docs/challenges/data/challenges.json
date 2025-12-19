@@ -2530,5 +2530,11 @@
     "title": "Valid Palindrome III",
     "url": "https://leetcode.com/problems/valid-palindrome-iii/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "19-12-2025 17:10 UTC",
+    "title": "Divisor Game",
+    "url": "https://leetcode.com/problems/divisor-game/description",
+    "difficulty": "EASY"
   }
 ]
