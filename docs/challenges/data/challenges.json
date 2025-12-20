@@ -2536,5 +2536,11 @@
     "title": "Divisor Game",
     "url": "https://leetcode.com/problems/divisor-game/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "20-12-2025 17:08 UTC",
+    "title": "Longest Common Suffix Queries",
+    "url": "https://leetcode.com/problems/longest-common-suffix-queries/description",
+    "difficulty": "HARD"
   }
 ]
