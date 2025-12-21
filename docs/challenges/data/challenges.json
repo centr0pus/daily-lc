@@ -2542,5 +2542,11 @@
     "title": "Longest Common Suffix Queries",
     "url": "https://leetcode.com/problems/longest-common-suffix-queries/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "21-12-2025 17:08 UTC",
+    "title": "Maximum Strong Pair XOR I",
+    "url": "https://leetcode.com/problems/maximum-strong-pair-xor-i/description",
+    "difficulty": "EASY"
   }
 ]
