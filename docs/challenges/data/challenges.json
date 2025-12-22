@@ -2548,5 +2548,11 @@
     "title": "Maximum Strong Pair XOR I",
     "url": "https://leetcode.com/problems/maximum-strong-pair-xor-i/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "22-12-2025 17:10 UTC",
+    "title": "Apply Operations to Make Sum of Array Greater Than or Equal to k",
+    "url": "https://leetcode.com/problems/apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k/description",
+    "difficulty": "MEDIUM"
   }
 ]
