@@ -2554,5 +2554,11 @@
     "title": "Apply Operations to Make Sum of Array Greater Than or Equal to k",
     "url": "https://leetcode.com/problems/apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "23-12-2025 17:12 UTC",
+    "title": "Zigzag Conversion",
+    "url": "https://leetcode.com/problems/zigzag-conversion/description",
+    "difficulty": "MEDIUM"
   }
 ]
