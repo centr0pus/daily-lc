@@ -2560,5 +2560,11 @@
     "title": "Zigzag Conversion",
     "url": "https://leetcode.com/problems/zigzag-conversion/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "24-12-2025 17:09 UTC",
+    "title": "Increasing Decreasing String",
+    "url": "https://leetcode.com/problems/increasing-decreasing-string/description",
+    "difficulty": "EASY"
   }
 ]
