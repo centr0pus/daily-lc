@@ -2566,5 +2566,11 @@
     "title": "Increasing Decreasing String",
     "url": "https://leetcode.com/problems/increasing-decreasing-string/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "25-12-2025 17:10 UTC",
+    "title": "Check if The Number is Fascinating",
+    "url": "https://leetcode.com/problems/check-if-the-number-is-fascinating/description",
+    "difficulty": "EASY"
   }
 ]
