@@ -2572,5 +2572,11 @@
     "title": "Check if The Number is Fascinating",
     "url": "https://leetcode.com/problems/check-if-the-number-is-fascinating/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "26-12-2025 17:09 UTC",
+    "title": "Transformed Array",
+    "url": "https://leetcode.com/problems/transformed-array/description",
+    "difficulty": "EASY"
   }
 ]
