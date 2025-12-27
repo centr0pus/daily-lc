@@ -2578,5 +2578,11 @@
     "title": "Transformed Array",
     "url": "https://leetcode.com/problems/transformed-array/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "27-12-2025 17:08 UTC",
+    "title": "Minimize Max Distance to Gas Station",
+    "url": "https://leetcode.com/problems/minimize-max-distance-to-gas-station/description",
+    "difficulty": "HARD"
   }
 ]
