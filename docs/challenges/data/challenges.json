@@ -2584,5 +2584,11 @@
     "title": "Minimize Max Distance to Gas Station",
     "url": "https://leetcode.com/problems/minimize-max-distance-to-gas-station/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "28-12-2025 17:09 UTC",
+    "title": "Count Ways to Build Rooms in an Ant Colony",
+    "url": "https://leetcode.com/problems/count-ways-to-build-rooms-in-an-ant-colony/description",
+    "difficulty": "HARD"
   }
 ]
