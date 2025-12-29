@@ -2590,5 +2590,11 @@
     "title": "Count Ways to Build Rooms in an Ant Colony",
     "url": "https://leetcode.com/problems/count-ways-to-build-rooms-in-an-ant-colony/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "29-12-2025 17:10 UTC",
+    "title": "Minimum Distance Excluding One Maximum Weighted Edge",
+    "url": "https://leetcode.com/problems/minimum-distance-excluding-one-maximum-weighted-edge/description",
+    "difficulty": "MEDIUM"
   }
 ]
