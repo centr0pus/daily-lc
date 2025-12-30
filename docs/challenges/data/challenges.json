@@ -2596,5 +2596,11 @@
     "title": "Minimum Distance Excluding One Maximum Weighted Edge",
     "url": "https://leetcode.com/problems/minimum-distance-excluding-one-maximum-weighted-edge/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "30-12-2025 17:12 UTC",
+    "title": "Find Golden Hour Customers",
+    "url": "https://leetcode.com/problems/find-golden-hour-customers/description",
+    "difficulty": "MEDIUM"
   }
 ]
