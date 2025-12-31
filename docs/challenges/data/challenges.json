@@ -2602,5 +2602,11 @@
     "title": "Find Golden Hour Customers",
     "url": "https://leetcode.com/problems/find-golden-hour-customers/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "31-12-2025 17:09 UTC",
+    "title": "Valid Arrangement of Pairs",
+    "url": "https://leetcode.com/problems/valid-arrangement-of-pairs/description",
+    "difficulty": "HARD"
   }
 ]
