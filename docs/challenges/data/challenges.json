@@ -2608,5 +2608,11 @@
     "title": "Valid Arrangement of Pairs",
     "url": "https://leetcode.com/problems/valid-arrangement-of-pairs/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "01-01-2026 17:11 UTC",
+    "title": "Minimum Falling Path Sum II",
+    "url": "https://leetcode.com/problems/minimum-falling-path-sum-ii/description",
+    "difficulty": "HARD"
   }
 ]
