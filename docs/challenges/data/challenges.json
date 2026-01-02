@@ -2614,5 +2614,11 @@
     "title": "Minimum Falling Path Sum II",
     "url": "https://leetcode.com/problems/minimum-falling-path-sum-ii/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "02-01-2026 17:09 UTC",
+    "title": "Find a Good Subset of the Matrix",
+    "url": "https://leetcode.com/problems/find-a-good-subset-of-the-matrix/description",
+    "difficulty": "HARD"
   }
 ]
