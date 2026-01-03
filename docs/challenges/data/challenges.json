@@ -2620,5 +2620,11 @@
     "title": "Find a Good Subset of the Matrix",
     "url": "https://leetcode.com/problems/find-a-good-subset-of-the-matrix/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "03-01-2026 17:08 UTC",
+    "title": "Year on Year Growth Rate",
+    "url": "https://leetcode.com/problems/year-on-year-growth-rate/description",
+    "difficulty": "HARD"
   }
 ]
