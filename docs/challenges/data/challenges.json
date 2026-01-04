@@ -2626,5 +2626,11 @@
     "title": "Year on Year Growth Rate",
     "url": "https://leetcode.com/problems/year-on-year-growth-rate/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "04-01-2026 17:09 UTC",
+    "title": "Classes With at Least 5 Students",
+    "url": "https://leetcode.com/problems/classes-with-at-least-5-students/description",
+    "difficulty": "EASY"
   }
 ]
