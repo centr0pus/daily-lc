@@ -2638,5 +2638,11 @@
     "title": "Grumpy Bookstore Owner",
     "url": "https://leetcode.com/problems/grumpy-bookstore-owner/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "06-01-2026 17:15 UTC",
+    "title": "Count Common Words With One Occurrence",
+    "url": "https://leetcode.com/problems/count-common-words-with-one-occurrence/description",
+    "difficulty": "EASY"
   }
 ]
