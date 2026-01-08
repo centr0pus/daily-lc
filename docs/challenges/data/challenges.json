@@ -2650,5 +2650,11 @@
     "title": "Employees Project Allocation",
     "url": "https://leetcode.com/problems/employees-project-allocation/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "08-01-2026 17:18 UTC",
+    "title": "NPV Queries",
+    "url": "https://leetcode.com/problems/npv-queries/description",
+    "difficulty": "EASY"
   }
 ]
