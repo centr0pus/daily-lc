@@ -2656,5 +2656,11 @@
     "title": "NPV Queries",
     "url": "https://leetcode.com/problems/npv-queries/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "09-01-2026 17:15 UTC",
+    "title": "Insert Interval",
+    "url": "https://leetcode.com/problems/insert-interval/description",
+    "difficulty": "MEDIUM"
   }
 ]
