@@ -2662,5 +2662,11 @@
     "title": "Insert Interval",
     "url": "https://leetcode.com/problems/insert-interval/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "10-01-2026 17:09 UTC",
+    "title": "Minimum Cost For Tickets",
+    "url": "https://leetcode.com/problems/minimum-cost-for-tickets/description",
+    "difficulty": "MEDIUM"
   }
 ]
