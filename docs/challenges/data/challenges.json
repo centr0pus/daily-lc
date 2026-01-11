@@ -2668,5 +2668,11 @@
     "title": "Minimum Cost For Tickets",
     "url": "https://leetcode.com/problems/minimum-cost-for-tickets/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "11-01-2026 17:09 UTC",
+    "title": "Team Scores in Football Tournament",
+    "url": "https://leetcode.com/problems/team-scores-in-football-tournament/description",
+    "difficulty": "MEDIUM"
   }
 ]
