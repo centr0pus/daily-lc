@@ -2674,5 +2674,11 @@
     "title": "Team Scores in Football Tournament",
     "url": "https://leetcode.com/problems/team-scores-in-football-tournament/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "12-01-2026 17:15 UTC",
+    "title": "Check if the Sentence Is Pangram",
+    "url": "https://leetcode.com/problems/check-if-the-sentence-is-pangram/description",
+    "difficulty": "EASY"
   }
 ]
