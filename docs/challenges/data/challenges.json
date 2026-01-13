@@ -2680,5 +2680,11 @@
     "title": "Check if the Sentence Is Pangram",
     "url": "https://leetcode.com/problems/check-if-the-sentence-is-pangram/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "13-01-2026 17:18 UTC",
+    "title": "Max Dot Product of Two Subsequences",
+    "url": "https://leetcode.com/problems/max-dot-product-of-two-subsequences/description",
+    "difficulty": "HARD"
   }
 ]
