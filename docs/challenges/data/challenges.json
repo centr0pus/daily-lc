@@ -2692,5 +2692,11 @@
     "title": "Find Kth Character in Expanded String",
     "url": "https://leetcode.com/problems/find-kth-character-in-expanded-string/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "15-01-2026 17:23 UTC",
+    "title": "Minimum Absolute Difference Queries",
+    "url": "https://leetcode.com/problems/minimum-absolute-difference-queries/description",
+    "difficulty": "MEDIUM"
   }
 ]
