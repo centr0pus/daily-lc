@@ -2698,5 +2698,11 @@
     "title": "Minimum Absolute Difference Queries",
     "url": "https://leetcode.com/problems/minimum-absolute-difference-queries/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "16-01-2026 17:16 UTC",
+    "title": "All Elements in Two Binary Search Trees",
+    "url": "https://leetcode.com/problems/all-elements-in-two-binary-search-trees/description",
+    "difficulty": "MEDIUM"
   }
 ]
