@@ -2704,5 +2704,11 @@
     "title": "All Elements in Two Binary Search Trees",
     "url": "https://leetcode.com/problems/all-elements-in-two-binary-search-trees/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "17-01-2026 17:09 UTC",
+    "title": "Find the Occurrence of First Almost Equal Substring",
+    "url": "https://leetcode.com/problems/find-the-occurrence-of-first-almost-equal-substring/description",
+    "difficulty": "HARD"
   }
 ]
