@@ -2710,5 +2710,11 @@
     "title": "Find the Occurrence of First Almost Equal Substring",
     "url": "https://leetcode.com/problems/find-the-occurrence-of-first-almost-equal-substring/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "18-01-2026 17:09 UTC",
+    "title": "Palindrome Partitioning II",
+    "url": "https://leetcode.com/problems/palindrome-partitioning-ii/description",
+    "difficulty": "HARD"
   }
 ]
