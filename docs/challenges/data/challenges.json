@@ -2716,5 +2716,11 @@
     "title": "Palindrome Partitioning II",
     "url": "https://leetcode.com/problems/palindrome-partitioning-ii/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "19-01-2026 17:15 UTC",
+    "title": "Delete Nodes From Linked List Present in Array",
+    "url": "https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/description",
+    "difficulty": "MEDIUM"
   }
 ]
