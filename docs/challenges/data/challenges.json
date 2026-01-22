@@ -2734,5 +2734,11 @@
     "title": "NPV Queries",
     "url": "https://leetcode.com/problems/npv-queries/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "22-01-2026 17:20 UTC",
+    "title": "Score of a String",
+    "url": "https://leetcode.com/problems/score-of-a-string/description",
+    "difficulty": "EASY"
   }
 ]
