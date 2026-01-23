@@ -2740,5 +2740,11 @@
     "title": "Score of a String",
     "url": "https://leetcode.com/problems/score-of-a-string/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "23-01-2026 17:18 UTC",
+    "title": "Find the Minimum Amount of Time to Brew Potions",
+    "url": "https://leetcode.com/problems/find-the-minimum-amount-of-time-to-brew-potions/description",
+    "difficulty": "MEDIUM"
   }
 ]
