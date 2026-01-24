@@ -2746,5 +2746,11 @@
     "title": "Find the Minimum Amount of Time to Brew Potions",
     "url": "https://leetcode.com/problems/find-the-minimum-amount-of-time-to-brew-potions/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "24-01-2026 17:09 UTC",
+    "title": "Number of Subsequences with Odd Sum",
+    "url": "https://leetcode.com/problems/number-of-subsequences-with-odd-sum/description",
+    "difficulty": "MEDIUM"
   }
 ]
