@@ -2752,5 +2752,11 @@
     "title": "Number of Subsequences with Odd Sum",
     "url": "https://leetcode.com/problems/number-of-subsequences-with-odd-sum/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "25-01-2026 17:09 UTC",
+    "title": "Maximum Frequency Score of a Subarray",
+    "url": "https://leetcode.com/problems/maximum-frequency-score-of-a-subarray/description",
+    "difficulty": "HARD"
   }
 ]
