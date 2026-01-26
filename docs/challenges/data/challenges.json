@@ -2758,5 +2758,11 @@
     "title": "Maximum Frequency Score of a Subarray",
     "url": "https://leetcode.com/problems/maximum-frequency-score-of-a-subarray/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "26-01-2026 17:21 UTC",
+    "title": "Contains Duplicate III",
+    "url": "https://leetcode.com/problems/contains-duplicate-iii/description",
+    "difficulty": "HARD"
   }
 ]
