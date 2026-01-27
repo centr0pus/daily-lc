@@ -2764,5 +2764,11 @@
     "title": "Contains Duplicate III",
     "url": "https://leetcode.com/problems/contains-duplicate-iii/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "27-01-2026 17:19 UTC",
+    "title": "Redundant Connection",
+    "url": "https://leetcode.com/problems/redundant-connection/description",
+    "difficulty": "MEDIUM"
   }
 ]
