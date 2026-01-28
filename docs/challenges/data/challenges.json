@@ -2770,5 +2770,11 @@
     "title": "Redundant Connection",
     "url": "https://leetcode.com/problems/redundant-connection/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "28-01-2026 17:24 UTC",
+    "title": "Unique 3-Digit Even Numbers",
+    "url": "https://leetcode.com/problems/unique-3-digit-even-numbers/description",
+    "difficulty": "EASY"
   }
 ]
