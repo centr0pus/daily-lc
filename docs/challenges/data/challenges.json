@@ -2776,5 +2776,11 @@
     "title": "Unique 3-Digit Even Numbers",
     "url": "https://leetcode.com/problems/unique-3-digit-even-numbers/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "29-01-2026 17:28 UTC",
+    "title": "Array of Objects to Matrix",
+    "url": "https://leetcode.com/problems/array-of-objects-to-matrix/description",
+    "difficulty": "HARD"
   }
 ]
