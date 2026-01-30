@@ -2782,5 +2782,11 @@
     "title": "Array of Objects to Matrix",
     "url": "https://leetcode.com/problems/array-of-objects-to-matrix/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "30-01-2026 17:24 UTC",
+    "title": "Number of Ways to Assign Edge Weights II",
+    "url": "https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-ii/description",
+    "difficulty": "HARD"
   }
 ]
