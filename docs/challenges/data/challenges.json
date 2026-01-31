@@ -2788,5 +2788,11 @@
     "title": "Number of Ways to Assign Edge Weights II",
     "url": "https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-ii/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "31-01-2026 17:15 UTC",
+    "title": "Minimum Number of Operations to Make Elements in Array Distinct",
+    "url": "https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/description",
+    "difficulty": "EASY"
   }
 ]
