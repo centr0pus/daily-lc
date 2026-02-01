@@ -2794,5 +2794,11 @@
     "title": "Minimum Number of Operations to Make Elements in Array Distinct",
     "url": "https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "01-02-2026 17:15 UTC",
+    "title": "Unique Paths II",
+    "url": "https://leetcode.com/problems/unique-paths-ii/description",
+    "difficulty": "MEDIUM"
   }
 ]
