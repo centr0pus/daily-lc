@@ -2800,5 +2800,11 @@
     "title": "Unique Paths II",
     "url": "https://leetcode.com/problems/unique-paths-ii/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "02-02-2026 17:29 UTC",
+    "title": "Jump Game VIII",
+    "url": "https://leetcode.com/problems/jump-game-viii/description",
+    "difficulty": "MEDIUM"
   }
 ]
