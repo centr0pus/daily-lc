@@ -2806,5 +2806,11 @@
     "title": "Jump Game VIII",
     "url": "https://leetcode.com/problems/jump-game-viii/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "03-02-2026 17:43 UTC",
+    "title": "Make Lexicographically Smallest Array by Swapping Elements",
+    "url": "https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/description",
+    "difficulty": "MEDIUM"
   }
 ]
