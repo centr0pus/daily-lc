@@ -2812,5 +2812,11 @@
     "title": "Make Lexicographically Smallest Array by Swapping Elements",
     "url": "https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "04-02-2026 17:36 UTC",
+    "title": "Can Make Arithmetic Progression From Sequence",
+    "url": "https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/description",
+    "difficulty": "EASY"
   }
 ]
