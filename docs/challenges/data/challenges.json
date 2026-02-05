@@ -2818,5 +2818,11 @@
     "title": "Can Make Arithmetic Progression From Sequence",
     "url": "https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "05-02-2026 17:38 UTC",
+    "title": "Baseball Game",
+    "url": "https://leetcode.com/problems/baseball-game/description",
+    "difficulty": "EASY"
   }
 ]
