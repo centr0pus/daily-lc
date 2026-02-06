@@ -2824,5 +2824,11 @@
     "title": "Baseball Game",
     "url": "https://leetcode.com/problems/baseball-game/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "06-02-2026 17:33 UTC",
+    "title": "Zuma Game",
+    "url": "https://leetcode.com/problems/zuma-game/description",
+    "difficulty": "HARD"
   }
 ]
