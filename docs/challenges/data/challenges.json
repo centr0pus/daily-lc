@@ -2830,5 +2830,11 @@
     "title": "Zuma Game",
     "url": "https://leetcode.com/problems/zuma-game/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "07-02-2026 17:17 UTC",
+    "title": "Sum of Number and Its Reverse",
+    "url": "https://leetcode.com/problems/sum-of-number-and-its-reverse/description",
+    "difficulty": "MEDIUM"
   }
 ]
