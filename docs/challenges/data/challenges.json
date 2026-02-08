@@ -2836,5 +2836,11 @@
     "title": "Sum of Number and Its Reverse",
     "url": "https://leetcode.com/problems/sum-of-number-and-its-reverse/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "08-02-2026 17:17 UTC",
+    "title": "Longest Team Pass Streak",
+    "url": "https://leetcode.com/problems/longest-team-pass-streak/description",
+    "difficulty": "HARD"
   }
 ]
