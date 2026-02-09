@@ -2842,5 +2842,11 @@
     "title": "Longest Team Pass Streak",
     "url": "https://leetcode.com/problems/longest-team-pass-streak/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "09-02-2026 17:41 UTC",
+    "title": "Projection Area of 3D Shapes",
+    "url": "https://leetcode.com/problems/projection-area-of-3d-shapes/description",
+    "difficulty": "EASY"
   }
 ]
