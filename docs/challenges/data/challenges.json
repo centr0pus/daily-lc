@@ -2848,5 +2848,11 @@
     "title": "Projection Area of 3D Shapes",
     "url": "https://leetcode.com/problems/projection-area-of-3d-shapes/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "10-02-2026 17:53 UTC",
+    "title": "Maximum Difference Between Adjacent Elements in a Circular Array",
+    "url": "https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/description",
+    "difficulty": "EASY"
   }
 ]
