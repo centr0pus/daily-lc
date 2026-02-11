@@ -2854,5 +2854,11 @@
     "title": "Maximum Difference Between Adjacent Elements in a Circular Array",
     "url": "https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "11-02-2026 17:49 UTC",
+    "title": "Count the Number of Ideal Arrays",
+    "url": "https://leetcode.com/problems/count-the-number-of-ideal-arrays/description",
+    "difficulty": "HARD"
   }
 ]
