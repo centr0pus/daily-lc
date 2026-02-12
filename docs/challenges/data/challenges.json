@@ -2860,5 +2860,11 @@
     "title": "Count the Number of Ideal Arrays",
     "url": "https://leetcode.com/problems/count-the-number-of-ideal-arrays/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "12-02-2026 17:49 UTC",
+    "title": "Maximum Difference by Remapping a Digit",
+    "url": "https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/description",
+    "difficulty": "EASY"
   }
 ]
