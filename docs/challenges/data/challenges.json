@@ -2872,5 +2872,11 @@
     "title": "Combine Two Tables",
     "url": "https://leetcode.com/problems/combine-two-tables/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "14-02-2026 17:16 UTC",
+    "title": "Shortest Path in Binary Matrix",
+    "url": "https://leetcode.com/problems/shortest-path-in-binary-matrix/description",
+    "difficulty": "MEDIUM"
   }
 ]
