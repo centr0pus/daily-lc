@@ -2878,5 +2878,11 @@
     "title": "Shortest Path in Binary Matrix",
     "url": "https://leetcode.com/problems/shortest-path-in-binary-matrix/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "15-02-2026 17:16 UTC",
+    "title": "Unique Paths III",
+    "url": "https://leetcode.com/problems/unique-paths-iii/description",
+    "difficulty": "HARD"
   }
 ]
