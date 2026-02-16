@@ -2884,5 +2884,11 @@
     "title": "Unique Paths III",
     "url": "https://leetcode.com/problems/unique-paths-iii/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "16-02-2026 17:30 UTC",
+    "title": "Count Prime-Gap Balanced Subarrays",
+    "url": "https://leetcode.com/problems/count-prime-gap-balanced-subarrays/description",
+    "difficulty": "MEDIUM"
   }
 ]
