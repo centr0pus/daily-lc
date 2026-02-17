@@ -2890,5 +2890,11 @@
     "title": "Count Prime-Gap Balanced Subarrays",
     "url": "https://leetcode.com/problems/count-prime-gap-balanced-subarrays/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "17-02-2026 17:46 UTC",
+    "title": "Maximum Distance Between Unequal Words in Array I",
+    "url": "https://leetcode.com/problems/maximum-distance-between-unequal-words-in-array-i/description",
+    "difficulty": "EASY"
   }
 ]
