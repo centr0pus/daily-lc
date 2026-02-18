@@ -2896,5 +2896,11 @@
     "title": "Maximum Distance Between Unequal Words in Array I",
     "url": "https://leetcode.com/problems/maximum-distance-between-unequal-words-in-array-i/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "18-02-2026 17:45 UTC",
+    "title": "Minimum Distance to Type a Word Using Two Fingers",
+    "url": "https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/description",
+    "difficulty": "HARD"
   }
 ]
