@@ -2908,5 +2908,11 @@
     "title": "Earliest Finish Time for Land and Water Rides I",
     "url": "https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "20-02-2026 17:28 UTC",
+    "title": "Grid Illumination",
+    "url": "https://leetcode.com/problems/grid-illumination/description",
+    "difficulty": "HARD"
   }
 ]
