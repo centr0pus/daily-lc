@@ -2914,5 +2914,11 @@
     "title": "Grid Illumination",
     "url": "https://leetcode.com/problems/grid-illumination/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "21-02-2026 17:16 UTC",
+    "title": "3Sum Closest",
+    "url": "https://leetcode.com/problems/3sum-closest/description",
+    "difficulty": "MEDIUM"
   }
 ]
