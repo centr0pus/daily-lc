@@ -2920,5 +2920,11 @@
     "title": "3Sum Closest",
     "url": "https://leetcode.com/problems/3sum-closest/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "22-02-2026 17:17 UTC",
+    "title": "Unique Number of Occurrences",
+    "url": "https://leetcode.com/problems/unique-number-of-occurrences/description",
+    "difficulty": "EASY"
   }
 ]
