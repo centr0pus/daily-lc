@@ -2926,5 +2926,11 @@
     "title": "Unique Number of Occurrences",
     "url": "https://leetcode.com/problems/unique-number-of-occurrences/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "23-02-2026 17:53 UTC",
+    "title": "Memoize II",
+    "url": "https://leetcode.com/problems/memoize-ii/description",
+    "difficulty": "HARD"
   }
 ]
