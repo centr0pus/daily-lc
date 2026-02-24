@@ -2932,5 +2932,11 @@
     "title": "Memoize II",
     "url": "https://leetcode.com/problems/memoize-ii/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "24-02-2026 17:49 UTC",
+    "title": "Minimum Operations to Collect Elements",
+    "url": "https://leetcode.com/problems/minimum-operations-to-collect-elements/description",
+    "difficulty": "EASY"
   }
 ]
