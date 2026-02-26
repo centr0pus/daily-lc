@@ -2938,5 +2938,11 @@
     "title": "Minimum Operations to Collect Elements",
     "url": "https://leetcode.com/problems/minimum-operations-to-collect-elements/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "26-02-2026 17:50 UTC",
+    "title": "Minimum Unique Word Abbreviation",
+    "url": "https://leetcode.com/problems/minimum-unique-word-abbreviation/description",
+    "difficulty": "HARD"
   }
 ]
