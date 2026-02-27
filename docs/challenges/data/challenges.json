@@ -2944,5 +2944,11 @@
     "title": "Minimum Unique Word Abbreviation",
     "url": "https://leetcode.com/problems/minimum-unique-word-abbreviation/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "27-02-2026 17:25 UTC",
+    "title": "Serialize and Deserialize Binary Tree",
+    "url": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description",
+    "difficulty": "HARD"
   }
 ]
