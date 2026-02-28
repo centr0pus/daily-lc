@@ -2950,5 +2950,11 @@
     "title": "Serialize and Deserialize Binary Tree",
     "url": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "28-02-2026 17:11 UTC",
+    "title": "Minimum Deletions to Make Array Beautiful",
+    "url": "https://leetcode.com/problems/minimum-deletions-to-make-array-beautiful/description",
+    "difficulty": "MEDIUM"
   }
 ]
