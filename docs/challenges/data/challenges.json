@@ -2956,5 +2956,11 @@
     "title": "Minimum Deletions to Make Array Beautiful",
     "url": "https://leetcode.com/problems/minimum-deletions-to-make-array-beautiful/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "01-03-2026 17:14 UTC",
+    "title": "Product of the Last K Numbers",
+    "url": "https://leetcode.com/problems/product-of-the-last-k-numbers/description",
+    "difficulty": "MEDIUM"
   }
 ]
