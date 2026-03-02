@@ -2962,5 +2962,11 @@
     "title": "Product of the Last K Numbers",
     "url": "https://leetcode.com/problems/product-of-the-last-k-numbers/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "02-03-2026 17:35 UTC",
+    "title": "Sequential Digits",
+    "url": "https://leetcode.com/problems/sequential-digits/description",
+    "difficulty": "MEDIUM"
   }
 ]
