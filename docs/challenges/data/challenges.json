@@ -2968,5 +2968,11 @@
     "title": "Sequential Digits",
     "url": "https://leetcode.com/problems/sequential-digits/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "03-03-2026 17:37 UTC",
+    "title": "Page Recommendations II",
+    "url": "https://leetcode.com/problems/page-recommendations-ii/description",
+    "difficulty": "HARD"
   }
 ]
