@@ -2974,5 +2974,11 @@
     "title": "Page Recommendations II",
     "url": "https://leetcode.com/problems/page-recommendations-ii/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "04-03-2026 17:30 UTC",
+    "title": "Minimum Unlocked Indices to Sort Nums",
+    "url": "https://leetcode.com/problems/minimum-unlocked-indices-to-sort-nums/description",
+    "difficulty": "MEDIUM"
   }
 ]
