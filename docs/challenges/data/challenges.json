@@ -2980,5 +2980,11 @@
     "title": "Minimum Unlocked Indices to Sort Nums",
     "url": "https://leetcode.com/problems/minimum-unlocked-indices-to-sort-nums/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "05-03-2026 18:45 UTC",
+    "title": "Minimum Average of Smallest and Largest Elements",
+    "url": "https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/description",
+    "difficulty": "EASY"
   }
 ]
