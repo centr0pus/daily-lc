@@ -2986,5 +2986,11 @@
     "title": "Minimum Average of Smallest and Largest Elements",
     "url": "https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "06-03-2026 17:25 UTC",
+    "title": "Find Cutoff Score for Each School",
+    "url": "https://leetcode.com/problems/find-cutoff-score-for-each-school/description",
+    "difficulty": "MEDIUM"
   }
 ]
