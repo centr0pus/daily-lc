@@ -2998,5 +2998,11 @@
     "title": "Find a Value of a Mysterious Function Closest to Target",
     "url": "https://leetcode.com/problems/find-a-value-of-a-mysterious-function-closest-to-target/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "08-03-2026 17:14 UTC",
+    "title": "Dinner Plate Stacks",
+    "url": "https://leetcode.com/problems/dinner-plate-stacks/description",
+    "difficulty": "HARD"
   }
 ]
