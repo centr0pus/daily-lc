@@ -3004,5 +3004,11 @@
     "title": "Dinner Plate Stacks",
     "url": "https://leetcode.com/problems/dinner-plate-stacks/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "09-03-2026 17:38 UTC",
+    "title": "Linked List Cycle II",
+    "url": "https://leetcode.com/problems/linked-list-cycle-ii/description",
+    "difficulty": "MEDIUM"
   }
 ]
