@@ -3010,5 +3010,11 @@
     "title": "Linked List Cycle II",
     "url": "https://leetcode.com/problems/linked-list-cycle-ii/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "10-03-2026 17:37 UTC",
+    "title": "Count Subarrays With Score Less Than K",
+    "url": "https://leetcode.com/problems/count-subarrays-with-score-less-than-k/description",
+    "difficulty": "HARD"
   }
 ]
