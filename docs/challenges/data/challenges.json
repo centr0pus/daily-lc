@@ -3022,5 +3022,11 @@
     "title": "Vowels Game in a String",
     "url": "https://leetcode.com/problems/vowels-game-in-a-string/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "12-03-2026 17:40 UTC",
+    "title": "Ways to Split Array Into Good Subarrays",
+    "url": "https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/description",
+    "difficulty": "MEDIUM"
   }
 ]
