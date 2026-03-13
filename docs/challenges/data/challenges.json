@@ -3028,5 +3028,11 @@
     "title": "Ways to Split Array Into Good Subarrays",
     "url": "https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "13-03-2026 17:26 UTC",
+    "title": "Count the Number of Inversions",
+    "url": "https://leetcode.com/problems/count-the-number-of-inversions/description",
+    "difficulty": "HARD"
   }
 ]
