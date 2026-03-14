@@ -3034,5 +3034,11 @@
     "title": "Count the Number of Inversions",
     "url": "https://leetcode.com/problems/count-the-number-of-inversions/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "14-03-2026 17:17 UTC",
+    "title": "Investments in 2016",
+    "url": "https://leetcode.com/problems/investments-in-2016/description",
+    "difficulty": "MEDIUM"
   }
 ]
