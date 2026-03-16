@@ -3046,5 +3046,11 @@
     "title": "Customer Who Visited but Did Not Make Any Transactions",
     "url": "https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "16-03-2026 17:52 UTC",
+    "title": "Complement of Base 10 Integer",
+    "url": "https://leetcode.com/problems/complement-of-base-10-integer/description",
+    "difficulty": "EASY"
   }
 ]
