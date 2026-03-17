@@ -3052,5 +3052,11 @@
     "title": "Complement of Base 10 Integer",
     "url": "https://leetcode.com/problems/complement-of-base-10-integer/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "17-03-2026 17:53 UTC",
+    "title": "Longest Word in Dictionary through Deleting",
+    "url": "https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/description",
+    "difficulty": "MEDIUM"
   }
 ]
