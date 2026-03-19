@@ -3064,5 +3064,11 @@
     "title": "Find the Minimum Cost Array Permutation",
     "url": "https://leetcode.com/problems/find-the-minimum-cost-array-permutation/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "19-03-2026 17:46 UTC",
+    "title": "Maximal Rectangle",
+    "url": "https://leetcode.com/problems/maximal-rectangle/description",
+    "difficulty": "HARD"
   }
 ]
