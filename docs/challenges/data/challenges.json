@@ -3070,5 +3070,11 @@
     "title": "Maximal Rectangle",
     "url": "https://leetcode.com/problems/maximal-rectangle/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "20-03-2026 17:28 UTC",
+    "title": "Reverse Subarray To Maximize Array Value",
+    "url": "https://leetcode.com/problems/reverse-subarray-to-maximize-array-value/description",
+    "difficulty": "HARD"
   }
 ]
