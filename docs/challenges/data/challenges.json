@@ -3076,5 +3076,11 @@
     "title": "Reverse Subarray To Maximize Array Value",
     "url": "https://leetcode.com/problems/reverse-subarray-to-maximize-array-value/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "21-03-2026 17:16 UTC",
+    "title": "Minimum Obstacle Removal to Reach Corner",
+    "url": "https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/description",
+    "difficulty": "HARD"
   }
 ]
