@@ -3082,5 +3082,11 @@
     "title": "Minimum Obstacle Removal to Reach Corner",
     "url": "https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "22-03-2026 17:16 UTC",
+    "title": "Linked List in Binary Tree",
+    "url": "https://leetcode.com/problems/linked-list-in-binary-tree/description",
+    "difficulty": "MEDIUM"
   }
 ]
