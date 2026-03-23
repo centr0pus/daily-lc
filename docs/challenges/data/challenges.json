@@ -3088,5 +3088,11 @@
     "title": "Linked List in Binary Tree",
     "url": "https://leetcode.com/problems/linked-list-in-binary-tree/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "23-03-2026 17:42 UTC",
+    "title": "Find Users With Valid E-Mails",
+    "url": "https://leetcode.com/problems/find-users-with-valid-e-mails/description",
+    "difficulty": "EASY"
   }
 ]
