@@ -3100,5 +3100,11 @@
     "title": "Find X-Sum of All K-Long Subarrays II",
     "url": "https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-ii/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "25-03-2026 17:48 UTC",
+    "title": "Find Leaves of Binary Tree",
+    "url": "https://leetcode.com/problems/find-leaves-of-binary-tree/description",
+    "difficulty": "MEDIUM"
   }
 ]
