@@ -3112,5 +3112,11 @@
     "title": "Largest Positive Integer That Exists With Its Negative",
     "url": "https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "27-03-2026 17:40 UTC",
+    "title": "Largest BST Subtree",
+    "url": "https://leetcode.com/problems/largest-bst-subtree/description",
+    "difficulty": "MEDIUM"
   }
 ]
