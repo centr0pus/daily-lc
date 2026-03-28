@@ -3118,5 +3118,11 @@
     "title": "Largest BST Subtree",
     "url": "https://leetcode.com/problems/largest-bst-subtree/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "28-03-2026 17:19 UTC",
+    "title": "Reformat The String",
+    "url": "https://leetcode.com/problems/reformat-the-string/description",
+    "difficulty": "EASY"
   }
 ]
