@@ -3124,5 +3124,11 @@
     "title": "Reformat The String",
     "url": "https://leetcode.com/problems/reformat-the-string/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "29-03-2026 17:20 UTC",
+    "title": "Reducing Dishes",
+    "url": "https://leetcode.com/problems/reducing-dishes/description",
+    "difficulty": "HARD"
   }
 ]
