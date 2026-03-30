@@ -3130,5 +3130,11 @@
     "title": "Reducing Dishes",
     "url": "https://leetcode.com/problems/reducing-dishes/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "30-03-2026 17:43 UTC",
+    "title": "Replace Words",
+    "url": "https://leetcode.com/problems/replace-words/description",
+    "difficulty": "MEDIUM"
   }
 ]
