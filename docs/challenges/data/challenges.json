@@ -3136,5 +3136,11 @@
     "title": "Replace Words",
     "url": "https://leetcode.com/problems/replace-words/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "31-03-2026 17:46 UTC",
+    "title": "Divide Array Into Increasing Sequences",
+    "url": "https://leetcode.com/problems/divide-array-into-increasing-sequences/description",
+    "difficulty": "HARD"
   }
 ]
