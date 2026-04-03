@@ -3154,5 +3154,11 @@
     "title": "Find the Minimum Cost Array Permutation",
     "url": "https://leetcode.com/problems/find-the-minimum-cost-array-permutation/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "03-04-2026 17:24 UTC",
+    "title": "Smallest Divisible Digit Product II",
+    "url": "https://leetcode.com/problems/smallest-divisible-digit-product-ii/description",
+    "difficulty": "HARD"
   }
 ]
