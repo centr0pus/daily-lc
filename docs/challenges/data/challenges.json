@@ -3160,5 +3160,11 @@
     "title": "Smallest Divisible Digit Product II",
     "url": "https://leetcode.com/problems/smallest-divisible-digit-product-ii/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "04-04-2026 17:20 UTC",
+    "title": "Minimum Moves to Equal Array Elements III",
+    "url": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/description",
+    "difficulty": "EASY"
   }
 ]
