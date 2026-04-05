@@ -3166,5 +3166,11 @@
     "title": "Minimum Moves to Equal Array Elements III",
     "url": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "05-04-2026 17:21 UTC",
+    "title": "Maximum Product of Two Digits",
+    "url": "https://leetcode.com/problems/maximum-product-of-two-digits/description",
+    "difficulty": "EASY"
   }
 ]
