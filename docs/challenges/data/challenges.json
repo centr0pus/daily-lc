@@ -3178,5 +3178,11 @@
     "title": "Most Visited Sector in  a Circular Track",
     "url": "https://leetcode.com/problems/most-visited-sector-in-a-circular-track/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "07-04-2026 17:47 UTC",
+    "title": "Find the Minimum Number of Fibonacci Numbers Whose Sum Is K",
+    "url": "https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/description",
+    "difficulty": "MEDIUM"
   }
 ]
