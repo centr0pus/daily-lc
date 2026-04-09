@@ -3190,5 +3190,11 @@
     "title": "Sum of Beauty in the Array",
     "url": "https://leetcode.com/problems/sum-of-beauty-in-the-array/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "09-04-2026 17:52 UTC",
+    "title": "Invalid Tweets",
+    "url": "https://leetcode.com/problems/invalid-tweets/description",
+    "difficulty": "EASY"
   }
 ]
