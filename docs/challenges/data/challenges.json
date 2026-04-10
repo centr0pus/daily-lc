@@ -3196,5 +3196,11 @@
     "title": "Invalid Tweets",
     "url": "https://leetcode.com/problems/invalid-tweets/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "10-04-2026 17:39 UTC",
+    "title": "Maximum Number of Books You Can Take",
+    "url": "https://leetcode.com/problems/maximum-number-of-books-you-can-take/description",
+    "difficulty": "HARD"
   }
 ]
