@@ -3202,5 +3202,11 @@
     "title": "Maximum Number of Books You Can Take",
     "url": "https://leetcode.com/problems/maximum-number-of-books-you-can-take/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "11-04-2026 17:22 UTC",
+    "title": "Primary Department for Each Employee",
+    "url": "https://leetcode.com/problems/primary-department-for-each-employee/description",
+    "difficulty": "EASY"
   }
 ]
