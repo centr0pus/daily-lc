@@ -3208,5 +3208,11 @@
     "title": "Primary Department for Each Employee",
     "url": "https://leetcode.com/problems/primary-department-for-each-employee/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "12-04-2026 17:25 UTC",
+    "title": "Minimum Cost Tree From Leaf Values",
+    "url": "https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/description",
+    "difficulty": "MEDIUM"
   }
 ]
