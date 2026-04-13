@@ -3214,5 +3214,11 @@
     "title": "Minimum Cost Tree From Leaf Values",
     "url": "https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "13-04-2026 17:50 UTC",
+    "title": "Serialize and Deserialize Binary Tree",
+    "url": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description",
+    "difficulty": "HARD"
   }
 ]
