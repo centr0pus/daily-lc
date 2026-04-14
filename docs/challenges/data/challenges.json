@@ -3220,5 +3220,11 @@
     "title": "Serialize and Deserialize Binary Tree",
     "url": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "14-04-2026 17:56 UTC",
+    "title": "Count Caesar Cipher Pairs",
+    "url": "https://leetcode.com/problems/count-caesar-cipher-pairs/description",
+    "difficulty": "MEDIUM"
   }
 ]
