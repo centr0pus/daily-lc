@@ -3226,5 +3226,11 @@
     "title": "Count Caesar Cipher Pairs",
     "url": "https://leetcode.com/problems/count-caesar-cipher-pairs/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "15-04-2026 17:57 UTC",
+    "title": "Promise Pool",
+    "url": "https://leetcode.com/problems/promise-pool/description",
+    "difficulty": "MEDIUM"
   }
 ]
