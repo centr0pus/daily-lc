@@ -3232,5 +3232,11 @@
     "title": "Promise Pool",
     "url": "https://leetcode.com/problems/promise-pool/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "16-04-2026 18:01 UTC",
+    "title": "Nested List Weight Sum",
+    "url": "https://leetcode.com/problems/nested-list-weight-sum/description",
+    "difficulty": "MEDIUM"
   }
 ]
