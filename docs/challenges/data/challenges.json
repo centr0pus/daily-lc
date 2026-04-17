@@ -3238,5 +3238,11 @@
     "title": "Nested List Weight Sum",
     "url": "https://leetcode.com/problems/nested-list-weight-sum/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "17-04-2026 17:39 UTC",
+    "title": "Numbers At Most N Given Digit Set",
+    "url": "https://leetcode.com/problems/numbers-at-most-n-given-digit-set/description",
+    "difficulty": "HARD"
   }
 ]
