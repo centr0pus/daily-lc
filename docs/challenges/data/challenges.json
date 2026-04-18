@@ -3244,5 +3244,11 @@
     "title": "Numbers At Most N Given Digit Set",
     "url": "https://leetcode.com/problems/numbers-at-most-n-given-digit-set/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "18-04-2026 17:28 UTC",
+    "title": "Count Covered Buildings",
+    "url": "https://leetcode.com/problems/count-covered-buildings/description",
+    "difficulty": "MEDIUM"
   }
 ]
