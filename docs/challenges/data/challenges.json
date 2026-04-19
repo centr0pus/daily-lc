@@ -3250,5 +3250,11 @@
     "title": "Count Covered Buildings",
     "url": "https://leetcode.com/problems/count-covered-buildings/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "19-04-2026 17:26 UTC",
+    "title": "Reverse Integer",
+    "url": "https://leetcode.com/problems/reverse-integer/description",
+    "difficulty": "MEDIUM"
   }
 ]
