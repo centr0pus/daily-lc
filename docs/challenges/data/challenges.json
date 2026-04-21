@@ -3262,5 +3262,11 @@
     "title": "Finding the Users Active Minutes",
     "url": "https://leetcode.com/problems/finding-the-users-active-minutes/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "21-04-2026 17:50 UTC",
+    "title": "Minimum Time For K Virus Variants to Spread",
+    "url": "https://leetcode.com/problems/minimum-time-for-k-virus-variants-to-spread/description",
+    "difficulty": "HARD"
   }
 ]
