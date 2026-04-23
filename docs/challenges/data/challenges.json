@@ -3274,5 +3274,11 @@
     "title": "Sort the Matrix Diagonally",
     "url": "https://leetcode.com/problems/sort-the-matrix-diagonally/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "23-04-2026 18:01 UTC",
+    "title": "Binary Tree Vertical Order Traversal",
+    "url": "https://leetcode.com/problems/binary-tree-vertical-order-traversal/description",
+    "difficulty": "MEDIUM"
   }
 ]
