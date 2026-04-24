@@ -3280,5 +3280,11 @@
     "title": "Binary Tree Vertical Order Traversal",
     "url": "https://leetcode.com/problems/binary-tree-vertical-order-traversal/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "24-04-2026 17:42 UTC",
+    "title": "Books with NULL Ratings",
+    "url": "https://leetcode.com/problems/books-with-null-ratings/description",
+    "difficulty": "EASY"
   }
 ]
