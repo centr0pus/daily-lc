@@ -3286,5 +3286,11 @@
     "title": "Books with NULL Ratings",
     "url": "https://leetcode.com/problems/books-with-null-ratings/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "25-04-2026 17:29 UTC",
+    "title": "24 Game",
+    "url": "https://leetcode.com/problems/24-game/description",
+    "difficulty": "HARD"
   }
 ]
