@@ -3292,5 +3292,11 @@
     "title": "24 Game",
     "url": "https://leetcode.com/problems/24-game/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "26-04-2026 17:29 UTC",
+    "title": "Minimum Seconds to Equalize a Circular Array",
+    "url": "https://leetcode.com/problems/minimum-seconds-to-equalize-a-circular-array/description",
+    "difficulty": "MEDIUM"
   }
 ]
