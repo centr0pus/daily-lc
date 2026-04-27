@@ -3298,5 +3298,11 @@
     "title": "Minimum Seconds to Equalize a Circular Array",
     "url": "https://leetcode.com/problems/minimum-seconds-to-equalize-a-circular-array/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "27-04-2026 17:58 UTC",
+    "title": "Perfect Rectangle",
+    "url": "https://leetcode.com/problems/perfect-rectangle/description",
+    "difficulty": "HARD"
   }
 ]
