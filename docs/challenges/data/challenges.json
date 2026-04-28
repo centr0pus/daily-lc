@@ -3304,5 +3304,11 @@
     "title": "Perfect Rectangle",
     "url": "https://leetcode.com/problems/perfect-rectangle/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "28-04-2026 18:11 UTC",
+    "title": "Design Skiplist",
+    "url": "https://leetcode.com/problems/design-skiplist/description",
+    "difficulty": "HARD"
   }
 ]
