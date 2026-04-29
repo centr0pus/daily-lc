@@ -3310,5 +3310,11 @@
     "title": "Design Skiplist",
     "url": "https://leetcode.com/problems/design-skiplist/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "29-04-2026 18:06 UTC",
+    "title": "Lexicographically Smallest Beautiful String",
+    "url": "https://leetcode.com/problems/lexicographically-smallest-beautiful-string/description",
+    "difficulty": "HARD"
   }
 ]
