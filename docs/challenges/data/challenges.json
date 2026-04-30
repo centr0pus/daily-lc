@@ -3316,5 +3316,11 @@
     "title": "Lexicographically Smallest Beautiful String",
     "url": "https://leetcode.com/problems/lexicographically-smallest-beautiful-string/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "30-04-2026 18:02 UTC",
+    "title": "Count the Number of Substrings With Dominant Ones",
+    "url": "https://leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones/description",
+    "difficulty": "MEDIUM"
   }
 ]
