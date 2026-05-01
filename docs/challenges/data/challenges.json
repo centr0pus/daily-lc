@@ -3322,5 +3322,11 @@
     "title": "Count the Number of Substrings With Dominant Ones",
     "url": "https://leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "01-05-2026 17:48 UTC",
+    "title": "Walls and Gates",
+    "url": "https://leetcode.com/problems/walls-and-gates/description",
+    "difficulty": "MEDIUM"
   }
 ]
