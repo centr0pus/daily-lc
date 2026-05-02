@@ -3328,5 +3328,11 @@
     "title": "Walls and Gates",
     "url": "https://leetcode.com/problems/walls-and-gates/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "02-05-2026 17:35 UTC",
+    "title": "Smallest Number With All Set Bits",
+    "url": "https://leetcode.com/problems/smallest-number-with-all-set-bits/description",
+    "difficulty": "EASY"
   }
 ]
