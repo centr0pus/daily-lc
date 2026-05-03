@@ -3334,5 +3334,11 @@
     "title": "Smallest Number With All Set Bits",
     "url": "https://leetcode.com/problems/smallest-number-with-all-set-bits/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "03-05-2026 17:37 UTC",
+    "title": "First Letter Capitalization II",
+    "url": "https://leetcode.com/problems/first-letter-capitalization-ii/description",
+    "difficulty": "HARD"
   }
 ]
