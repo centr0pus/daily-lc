@@ -3340,5 +3340,11 @@
     "title": "First Letter Capitalization II",
     "url": "https://leetcode.com/problems/first-letter-capitalization-ii/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "04-05-2026 18:08 UTC",
+    "title": "Find All Numbers Disappeared in an Array",
+    "url": "https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description",
+    "difficulty": "EASY"
   }
 ]
