@@ -3346,5 +3346,11 @@
     "title": "Find All Numbers Disappeared in an Array",
     "url": "https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "05-05-2026 18:05 UTC",
+    "title": "Reverse Integer",
+    "url": "https://leetcode.com/problems/reverse-integer/description",
+    "difficulty": "MEDIUM"
   }
 ]
