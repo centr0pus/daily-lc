@@ -3352,5 +3352,11 @@
     "title": "Reverse Integer",
     "url": "https://leetcode.com/problems/reverse-integer/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "06-05-2026 18:10 UTC",
+    "title": "Linked List Frequency",
+    "url": "https://leetcode.com/problems/linked-list-frequency/description",
+    "difficulty": "EASY"
   }
 ]
