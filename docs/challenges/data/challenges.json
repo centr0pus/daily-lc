@@ -3358,5 +3358,11 @@
     "title": "Linked List Frequency",
     "url": "https://leetcode.com/problems/linked-list-frequency/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "07-05-2026 18:16 UTC",
+    "title": "Find Subarrays With Equal Sum",
+    "url": "https://leetcode.com/problems/find-subarrays-with-equal-sum/description",
+    "difficulty": "EASY"
   }
 ]
