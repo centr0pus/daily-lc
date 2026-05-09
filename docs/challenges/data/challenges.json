@@ -3370,5 +3370,11 @@
     "title": "Number of Valid Clock Times",
     "url": "https://leetcode.com/problems/number-of-valid-clock-times/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "09-05-2026 17:40 UTC",
+    "title": "Apply Operations to Maximize Score",
+    "url": "https://leetcode.com/problems/apply-operations-to-maximize-score/description",
+    "difficulty": "HARD"
   }
 ]
