@@ -3376,5 +3376,11 @@
     "title": "Apply Operations to Maximize Score",
     "url": "https://leetcode.com/problems/apply-operations-to-maximize-score/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "10-05-2026 17:41 UTC",
+    "title": "Minimum Time to Build Blocks",
+    "url": "https://leetcode.com/problems/minimum-time-to-build-blocks/description",
+    "difficulty": "HARD"
   }
 ]
