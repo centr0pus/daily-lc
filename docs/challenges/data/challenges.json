@@ -3382,5 +3382,11 @@
     "title": "Minimum Time to Build Blocks",
     "url": "https://leetcode.com/problems/minimum-time-to-build-blocks/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "11-05-2026 18:30 UTC",
+    "title": "Friends With No Mutual Friends",
+    "url": "https://leetcode.com/problems/friends-with-no-mutual-friends/description",
+    "difficulty": "MEDIUM"
   }
 ]
