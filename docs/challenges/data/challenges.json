@@ -3388,5 +3388,11 @@
     "title": "Friends With No Mutual Friends",
     "url": "https://leetcode.com/problems/friends-with-no-mutual-friends/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "12-05-2026 18:29 UTC",
+    "title": "Repeated DNA Sequences",
+    "url": "https://leetcode.com/problems/repeated-dna-sequences/description",
+    "difficulty": "MEDIUM"
   }
 ]
