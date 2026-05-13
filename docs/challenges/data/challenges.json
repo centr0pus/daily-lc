@@ -3394,5 +3394,11 @@
     "title": "Repeated DNA Sequences",
     "url": "https://leetcode.com/problems/repeated-dna-sequences/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "13-05-2026 18:51 UTC",
+    "title": "Create a Session Bar Chart",
+    "url": "https://leetcode.com/problems/create-a-session-bar-chart/description",
+    "difficulty": "EASY"
   }
 ]
