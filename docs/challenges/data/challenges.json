@@ -3400,5 +3400,11 @@
     "title": "Create a Session Bar Chart",
     "url": "https://leetcode.com/problems/create-a-session-bar-chart/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "14-05-2026 18:27 UTC",
+    "title": "Minimum Flips to Make a OR b Equal to c",
+    "url": "https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/description",
+    "difficulty": "MEDIUM"
   }
 ]
