@@ -3406,5 +3406,11 @@
     "title": "Minimum Flips to Make a OR b Equal to c",
     "url": "https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "15-05-2026 18:15 UTC",
+    "title": "Transform Array to All Equal Elements",
+    "url": "https://leetcode.com/problems/transform-array-to-all-equal-elements/description",
+    "difficulty": "MEDIUM"
   }
 ]
