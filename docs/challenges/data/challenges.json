@@ -3418,5 +3418,11 @@
     "title": "Minimum Knight Moves",
     "url": "https://leetcode.com/problems/minimum-knight-moves/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "17-05-2026 17:46 UTC",
+    "title": "Longest Harmonious Subsequence",
+    "url": "https://leetcode.com/problems/longest-harmonious-subsequence/description",
+    "difficulty": "EASY"
   }
 ]
