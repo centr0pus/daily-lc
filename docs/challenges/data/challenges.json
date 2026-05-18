@@ -3424,5 +3424,11 @@
     "title": "Longest Harmonious Subsequence",
     "url": "https://leetcode.com/problems/longest-harmonious-subsequence/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "18-05-2026 18:25 UTC",
+    "title": "Maximize the Total Height of Unique Towers",
+    "url": "https://leetcode.com/problems/maximize-the-total-height-of-unique-towers/description",
+    "difficulty": "MEDIUM"
   }
 ]
