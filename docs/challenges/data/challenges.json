@@ -3430,5 +3430,11 @@
     "title": "Maximize the Total Height of Unique Towers",
     "url": "https://leetcode.com/problems/maximize-the-total-height-of-unique-towers/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "19-05-2026 18:51 UTC",
+    "title": "Find Candidates for Data Scientist Position II",
+    "url": "https://leetcode.com/problems/find-candidates-for-data-scientist-position-ii/description",
+    "difficulty": "MEDIUM"
   }
 ]
