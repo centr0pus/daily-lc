@@ -3436,5 +3436,11 @@
     "title": "Find Candidates for Data Scientist Position II",
     "url": "https://leetcode.com/problems/find-candidates-for-data-scientist-position-ii/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "20-05-2026 19:12 UTC",
+    "title": "Longest Nice Substring",
+    "url": "https://leetcode.com/problems/longest-nice-substring/description",
+    "difficulty": "EASY"
   }
 ]
