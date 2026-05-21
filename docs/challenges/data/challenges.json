@@ -3442,5 +3442,11 @@
     "title": "Longest Nice Substring",
     "url": "https://leetcode.com/problems/longest-nice-substring/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "21-05-2026 18:50 UTC",
+    "title": "Find the Maximum Factor Score of Array",
+    "url": "https://leetcode.com/problems/find-the-maximum-factor-score-of-array/description",
+    "difficulty": "MEDIUM"
   }
 ]
