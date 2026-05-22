@@ -3448,5 +3448,11 @@
     "title": "Find the Maximum Factor Score of Array",
     "url": "https://leetcode.com/problems/find-the-maximum-factor-score-of-array/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "22-05-2026 18:26 UTC",
+    "title": "Monthly Transactions I",
+    "url": "https://leetcode.com/problems/monthly-transactions-i/description",
+    "difficulty": "MEDIUM"
   }
 ]
