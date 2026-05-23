@@ -3454,5 +3454,11 @@
     "title": "Monthly Transactions I",
     "url": "https://leetcode.com/problems/monthly-transactions-i/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "23-05-2026 17:52 UTC",
+    "title": "Insert Delete GetRandom O(1) - Duplicates allowed",
+    "url": "https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/description",
+    "difficulty": "HARD"
   }
 ]
