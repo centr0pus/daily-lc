@@ -3460,5 +3460,11 @@
     "title": "Insert Delete GetRandom O(1) - Duplicates allowed",
     "url": "https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "24-05-2026 17:50 UTC",
+    "title": "Minimum Rounds to Complete All Tasks",
+    "url": "https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/description",
+    "difficulty": "MEDIUM"
   }
 ]
