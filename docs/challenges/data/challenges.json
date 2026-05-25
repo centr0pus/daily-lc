@@ -3466,5 +3466,11 @@
     "title": "Minimum Rounds to Complete All Tasks",
     "url": "https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "25-05-2026 18:19 UTC",
+    "title": "Delete Characters to Make Fancy String",
+    "url": "https://leetcode.com/problems/delete-characters-to-make-fancy-string/description",
+    "difficulty": "EASY"
   }
 ]
