@@ -3478,5 +3478,11 @@
     "title": "Count Substrings That Satisfy K-Constraint II",
     "url": "https://leetcode.com/problems/count-substrings-that-satisfy-k-constraint-ii/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "27-05-2026 19:11 UTC",
+    "title": "Longest Alternating Subarray",
+    "url": "https://leetcode.com/problems/longest-alternating-subarray/description",
+    "difficulty": "EASY"
   }
 ]
