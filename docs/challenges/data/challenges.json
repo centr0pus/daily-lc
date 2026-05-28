@@ -3484,5 +3484,11 @@
     "title": "Longest Alternating Subarray",
     "url": "https://leetcode.com/problems/longest-alternating-subarray/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "28-05-2026 19:31 UTC",
+    "title": "Rectangle Overlap",
+    "url": "https://leetcode.com/problems/rectangle-overlap/description",
+    "difficulty": "EASY"
   }
 ]
