@@ -3496,5 +3496,11 @@
     "title": "K Divisible Elements Subarrays",
     "url": "https://leetcode.com/problems/k-divisible-elements-subarrays/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "30-05-2026 17:55 UTC",
+    "title": "Extra Characters in a String",
+    "url": "https://leetcode.com/problems/extra-characters-in-a-string/description",
+    "difficulty": "MEDIUM"
   }
 ]
