@@ -3508,5 +3508,11 @@
     "title": "Sum of Digits of String After Convert",
     "url": "https://leetcode.com/problems/sum-of-digits-of-string-after-convert/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "01-06-2026 20:48 UTC",
+    "title": "Prime Subtraction Operation",
+    "url": "https://leetcode.com/problems/prime-subtraction-operation/description",
+    "difficulty": "MEDIUM"
   }
 ]
