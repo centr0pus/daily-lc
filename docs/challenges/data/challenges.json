@@ -3514,5 +3514,11 @@
     "title": "Prime Subtraction Operation",
     "url": "https://leetcode.com/problems/prime-subtraction-operation/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "02-06-2026 19:58 UTC",
+    "title": "Unique 3-Digit Even Numbers",
+    "url": "https://leetcode.com/problems/unique-3-digit-even-numbers/description",
+    "difficulty": "EASY"
   }
 ]
