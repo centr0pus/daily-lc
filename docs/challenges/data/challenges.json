@@ -3520,5 +3520,11 @@
     "title": "Unique 3-Digit Even Numbers",
     "url": "https://leetcode.com/problems/unique-3-digit-even-numbers/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "03-06-2026 20:11 UTC",
+    "title": "Minimum Operations to Make a Subsequence",
+    "url": "https://leetcode.com/problems/minimum-operations-to-make-a-subsequence/description",
+    "difficulty": "HARD"
   }
 ]
