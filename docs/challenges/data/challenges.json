@@ -3526,5 +3526,11 @@
     "title": "Minimum Operations to Make a Subsequence",
     "url": "https://leetcode.com/problems/minimum-operations-to-make-a-subsequence/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "04-06-2026 19:11 UTC",
+    "title": "Valid Word",
+    "url": "https://leetcode.com/problems/valid-word/description",
+    "difficulty": "EASY"
   }
 ]
