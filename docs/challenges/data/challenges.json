@@ -3532,5 +3532,11 @@
     "title": "Valid Word",
     "url": "https://leetcode.com/problems/valid-word/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "05-06-2026 18:52 UTC",
+    "title": "Find the Original Typed String I",
+    "url": "https://leetcode.com/problems/find-the-original-typed-string-i/description",
+    "difficulty": "EASY"
   }
 ]
