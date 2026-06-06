@@ -3538,5 +3538,11 @@
     "title": "Find the Original Typed String I",
     "url": "https://leetcode.com/problems/find-the-original-typed-string-i/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "06-06-2026 17:59 UTC",
+    "title": "Find All K-Distant Indices in an Array",
+    "url": "https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/description",
+    "difficulty": "EASY"
   }
 ]
