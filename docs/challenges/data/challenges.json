@@ -3544,5 +3544,11 @@
     "title": "Find All K-Distant Indices in an Array",
     "url": "https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "07-06-2026 17:57 UTC",
+    "title": "Maximum Sum of M Non-Overlapping Subarrays II",
+    "url": "https://leetcode.com/problems/maximum-sum-of-m-non-overlapping-subarrays-ii/description",
+    "difficulty": "HARD"
   }
 ]
