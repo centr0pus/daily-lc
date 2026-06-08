@@ -3550,5 +3550,11 @@
     "title": "Maximum Sum of M Non-Overlapping Subarrays II",
     "url": "https://leetcode.com/problems/maximum-sum-of-m-non-overlapping-subarrays-ii/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "08-06-2026 19:13 UTC",
+    "title": "Drop Missing Data",
+    "url": "https://leetcode.com/problems/drop-missing-data/description",
+    "difficulty": "EASY"
   }
 ]
