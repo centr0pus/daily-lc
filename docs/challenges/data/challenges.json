@@ -3556,5 +3556,11 @@
     "title": "Drop Missing Data",
     "url": "https://leetcode.com/problems/drop-missing-data/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "09-06-2026 19:05 UTC",
+    "title": "Maximum Number of Darts Inside of a Circular Dartboard",
+    "url": "https://leetcode.com/problems/maximum-number-of-darts-inside-of-a-circular-dartboard/description",
+    "difficulty": "HARD"
   }
 ]
