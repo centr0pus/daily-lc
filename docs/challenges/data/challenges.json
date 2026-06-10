@@ -3562,5 +3562,11 @@
     "title": "Maximum Number of Darts Inside of a Circular Dartboard",
     "url": "https://leetcode.com/problems/maximum-number-of-darts-inside-of-a-circular-dartboard/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "10-06-2026 19:27 UTC",
+    "title": "Minimize the Maximum Adjacent Element Difference",
+    "url": "https://leetcode.com/problems/minimize-the-maximum-adjacent-element-difference/description",
+    "difficulty": "HARD"
   }
 ]
