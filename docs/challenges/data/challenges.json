@@ -3574,5 +3574,11 @@
     "title": "Delete Nodes From Linked List Present in Array",
     "url": "https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "12-06-2026 18:57 UTC",
+    "title": "Patching Array",
+    "url": "https://leetcode.com/problems/patching-array/description",
+    "difficulty": "HARD"
   }
 ]
