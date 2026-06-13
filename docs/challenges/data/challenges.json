@@ -3580,5 +3580,11 @@
     "title": "Patching Array",
     "url": "https://leetcode.com/problems/patching-array/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "13-06-2026 18:01 UTC",
+    "title": "The kth Factor of n",
+    "url": "https://leetcode.com/problems/the-kth-factor-of-n/description",
+    "difficulty": "MEDIUM"
   }
 ]
