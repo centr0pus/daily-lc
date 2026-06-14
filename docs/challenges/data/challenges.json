@@ -3586,5 +3586,11 @@
     "title": "The kth Factor of n",
     "url": "https://leetcode.com/problems/the-kth-factor-of-n/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "14-06-2026 18:06 UTC",
+    "title": "Remove Letter To Equalize Frequency",
+    "url": "https://leetcode.com/problems/remove-letter-to-equalize-frequency/description",
+    "difficulty": "EASY"
   }
 ]
