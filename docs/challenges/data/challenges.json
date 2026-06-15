@@ -3592,5 +3592,11 @@
     "title": "Remove Letter To Equalize Frequency",
     "url": "https://leetcode.com/problems/remove-letter-to-equalize-frequency/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "15-06-2026 20:19 UTC",
+    "title": "Smallest Divisible Digit Product I",
+    "url": "https://leetcode.com/problems/smallest-divisible-digit-product-i/description",
+    "difficulty": "EASY"
   }
 ]
