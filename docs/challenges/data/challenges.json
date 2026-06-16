@@ -3598,5 +3598,11 @@
     "title": "Smallest Divisible Digit Product I",
     "url": "https://leetcode.com/problems/smallest-divisible-digit-product-i/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "16-06-2026 20:00 UTC",
+    "title": "Flipping an Image",
+    "url": "https://leetcode.com/problems/flipping-an-image/description",
+    "difficulty": "EASY"
   }
 ]
