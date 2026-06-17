@@ -3604,5 +3604,11 @@
     "title": "Flipping an Image",
     "url": "https://leetcode.com/problems/flipping-an-image/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "17-06-2026 19:15 UTC",
+    "title": "Apply Operations to Make Two Strings Equal",
+    "url": "https://leetcode.com/problems/apply-operations-to-make-two-strings-equal/description",
+    "difficulty": "MEDIUM"
   }
 ]
