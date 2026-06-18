@@ -3610,5 +3610,11 @@
     "title": "Apply Operations to Make Two Strings Equal",
     "url": "https://leetcode.com/problems/apply-operations-to-make-two-strings-equal/description",
     "difficulty": "MEDIUM"
+  },
+  {
+    "day": "18-06-2026 19:14 UTC",
+    "title": "Subtree of Another Tree",
+    "url": "https://leetcode.com/problems/subtree-of-another-tree/description",
+    "difficulty": "EASY"
   }
 ]
