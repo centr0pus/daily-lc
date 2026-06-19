@@ -3616,5 +3616,11 @@
     "title": "Subtree of Another Tree",
     "url": "https://leetcode.com/problems/subtree-of-another-tree/description",
     "difficulty": "EASY"
+  },
+  {
+    "day": "19-06-2026 18:26 UTC",
+    "title": "Maximize Spanning Tree Stability with Upgrades",
+    "url": "https://leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades/description",
+    "difficulty": "HARD"
   }
 ]
