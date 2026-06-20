@@ -23,7 +23,7 @@ jobs:
         id: random_difficulty
         run: |
           # Create an array with the possible difficulty levels
-          difficulties=("EASY" "MEDIUM" "HARD")
+          difficulties=("HARD")
           
           # Get a random index from the array
           random_index=$((RANDOM % 3))
