@@ -3628,5 +3628,11 @@
     "title": "null",
     "url": "https://leetcode.com/problems/null/description",
     "difficulty": "NULL"
+  },
+  {
+    "day": "21-06-2026 18:13 UTC",
+    "title": "Minimum White Tiles After Covering With Carpets",
+    "url": "https://leetcode.com/problems/minimum-white-tiles-after-covering-with-carpets/description",
+    "difficulty": "HARD"
   }
 ]
