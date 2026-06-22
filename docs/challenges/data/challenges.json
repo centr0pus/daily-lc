@@ -3634,5 +3634,11 @@
     "title": "Minimum White Tiles After Covering With Carpets",
     "url": "https://leetcode.com/problems/minimum-white-tiles-after-covering-with-carpets/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "22-06-2026 19:58 UTC",
+    "title": "Maximum Strong Pair XOR II",
+    "url": "https://leetcode.com/problems/maximum-strong-pair-xor-ii/description",
+    "difficulty": "HARD"
   }
 ]
