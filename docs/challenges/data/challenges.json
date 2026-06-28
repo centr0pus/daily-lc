@@ -3670,5 +3670,11 @@
     "title": "null",
     "url": "https://leetcode.com/problems/null/description",
     "difficulty": "NULL"
+  },
+  {
+    "day": "28-06-2026 17:57 UTC",
+    "title": "Second Minimum Time to Reach Destination",
+    "url": "https://leetcode.com/problems/second-minimum-time-to-reach-destination/description",
+    "difficulty": "HARD"
   }
 ]
