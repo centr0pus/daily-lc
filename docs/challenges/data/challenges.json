@@ -3718,5 +3718,11 @@
     "title": "null",
     "url": "https://leetcode.com/problems/null/description",
     "difficulty": "NULL"
+  },
+  {
+    "day": "06-07-2026 18:48 UTC",
+    "title": "Minimum Cost to Buy Apples II",
+    "url": "https://leetcode.com/problems/minimum-cost-to-buy-apples-ii/description",
+    "difficulty": "HARD"
   }
 ]
