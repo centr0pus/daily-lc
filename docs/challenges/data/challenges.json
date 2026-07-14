@@ -3766,5 +3766,11 @@
     "title": "null",
     "url": "https://leetcode.com/problems/null/description",
     "difficulty": "NULL"
+  },
+  {
+    "day": "14-07-2026 17:55 UTC",
+    "title": "Fancy Sequence",
+    "url": "https://leetcode.com/problems/fancy-sequence/description",
+    "difficulty": "HARD"
   }
 ]
