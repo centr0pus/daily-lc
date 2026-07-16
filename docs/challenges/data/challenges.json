@@ -3778,5 +3778,11 @@
     "title": "null",
     "url": "https://leetcode.com/problems/null/description",
     "difficulty": "NULL"
+  },
+  {
+    "day": "16-07-2026 17:57 UTC",
+    "title": "Median Employee Salary",
+    "url": "https://leetcode.com/problems/median-employee-salary/description",
+    "difficulty": "HARD"
   }
 ]
