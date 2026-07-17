@@ -3784,5 +3784,11 @@
     "title": "Median Employee Salary",
     "url": "https://leetcode.com/problems/median-employee-salary/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "17-07-2026 17:56 UTC",
+    "title": "Maximum Spending After Buying Items",
+    "url": "https://leetcode.com/problems/maximum-spending-after-buying-items/description",
+    "difficulty": "HARD"
   }
 ]
