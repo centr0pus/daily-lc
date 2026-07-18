@@ -3790,5 +3790,11 @@
     "title": "Maximum Spending After Buying Items",
     "url": "https://leetcode.com/problems/maximum-spending-after-buying-items/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "18-07-2026 17:44 UTC",
+    "title": "Sorted GCD Pair Queries",
+    "url": "https://leetcode.com/problems/sorted-gcd-pair-queries/description",
+    "difficulty": "HARD"
   }
 ]
