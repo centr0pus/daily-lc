@@ -3814,5 +3814,11 @@
     "title": "null",
     "url": "https://leetcode.com/problems/null/description",
     "difficulty": "NULL"
+  },
+  {
+    "day": "22-07-2026 17:59 UTC",
+    "title": "Longest Common Prefix of K Strings After Removal",
+    "url": "https://leetcode.com/problems/longest-common-prefix-of-k-strings-after-removal/description",
+    "difficulty": "HARD"
   }
 ]
