@@ -3820,5 +3820,11 @@
     "title": "Longest Common Prefix of K Strings After Removal",
     "url": "https://leetcode.com/problems/longest-common-prefix-of-k-strings-after-removal/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "23-07-2026 18:06 UTC",
+    "title": "Minimum Obstacle Removal to Reach Corner",
+    "url": "https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/description",
+    "difficulty": "HARD"
   }
 ]
