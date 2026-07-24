@@ -3826,5 +3826,11 @@
     "title": "Minimum Obstacle Removal to Reach Corner",
     "url": "https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "24-07-2026 18:09 UTC",
+    "title": "Minimum Cost to Merge Stones",
+    "url": "https://leetcode.com/problems/minimum-cost-to-merge-stones/description",
+    "difficulty": "HARD"
   }
 ]
