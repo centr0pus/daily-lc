@@ -3868,5 +3868,11 @@
     "title": "null",
     "url": "https://leetcode.com/problems/null/description",
     "difficulty": "NULL"
+  },
+  {
+    "day": "31-07-2026 18:13 UTC",
+    "title": "Maximum Employees to Be Invited to a Meeting",
+    "url": "https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/description",
+    "difficulty": "HARD"
   }
 ]
