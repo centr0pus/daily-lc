@@ -3892,5 +3892,11 @@
     "title": "null",
     "url": "https://leetcode.com/problems/null/description",
     "difficulty": "NULL"
+  },
+  {
+    "day": "04-08-2026 18:20 UTC",
+    "title": "Escape the Spreading Fire",
+    "url": "https://leetcode.com/problems/escape-the-spreading-fire/description",
+    "difficulty": "HARD"
   }
 ]
