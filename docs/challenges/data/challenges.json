@@ -3904,5 +3904,11 @@
     "title": "null",
     "url": "https://leetcode.com/problems/null/description",
     "difficulty": "NULL"
+  },
+  {
+    "day": "07-08-2026 17:38 UTC",
+    "title": "Maximum Number of Groups Getting Fresh Donuts",
+    "url": "https://leetcode.com/problems/maximum-number-of-groups-getting-fresh-donuts/description",
+    "difficulty": "HARD"
   }
 ]
