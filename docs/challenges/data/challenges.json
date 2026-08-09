@@ -3916,5 +3916,11 @@
     "title": "Stone Game V",
     "url": "https://leetcode.com/problems/stone-game-v/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "09-08-2026 17:20 UTC",
+    "title": "Find Array Given Subset Sums",
+    "url": "https://leetcode.com/problems/find-array-given-subset-sums/description",
+    "difficulty": "HARD"
   }
 ]
