@@ -3928,5 +3928,11 @@
     "title": "null",
     "url": "https://leetcode.com/problems/null/description",
     "difficulty": "NULL"
+  },
+  {
+    "day": "12-08-2026 17:48 UTC",
+    "title": "Tournament Winners",
+    "url": "https://leetcode.com/problems/tournament-winners/description",
+    "difficulty": "HARD"
   }
 ]
