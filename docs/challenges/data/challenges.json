@@ -3940,5 +3940,11 @@
     "title": "null",
     "url": "https://leetcode.com/problems/null/description",
     "difficulty": "NULL"
+  },
+  {
+    "day": "14-08-2026 17:42 UTC",
+    "title": "Strong Password Checker",
+    "url": "https://leetcode.com/problems/strong-password-checker/description",
+    "difficulty": "HARD"
   }
 ]
