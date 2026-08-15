@@ -3946,5 +3946,11 @@
     "title": "Strong Password Checker",
     "url": "https://leetcode.com/problems/strong-password-checker/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "15-08-2026 17:10 UTC",
+    "title": "Maximum Path Quality of a Graph",
+    "url": "https://leetcode.com/problems/maximum-path-quality-of-a-graph/description",
+    "difficulty": "HARD"
   }
 ]
