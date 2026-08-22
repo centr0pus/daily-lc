@@ -3982,5 +3982,11 @@
     "title": "null",
     "url": "https://leetcode.com/problems/null/description",
     "difficulty": "NULL"
+  },
+  {
+    "day": "22-08-2026 17:10 UTC",
+    "title": "Length of Longest V-Shaped Diagonal Segment",
+    "url": "https://leetcode.com/problems/length-of-longest-v-shaped-diagonal-segment/description",
+    "difficulty": "HARD"
   }
 ]
