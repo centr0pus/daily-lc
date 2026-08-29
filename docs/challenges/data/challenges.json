@@ -4024,5 +4024,11 @@
     "title": "null",
     "url": "https://leetcode.com/problems/null/description",
     "difficulty": "NULL"
+  },
+  {
+    "day": "29-08-2026 19:33 UTC",
+    "title": "Threshold Majority Queries",
+    "url": "https://leetcode.com/problems/threshold-majority-queries/description",
+    "difficulty": "HARD"
   }
 ]
