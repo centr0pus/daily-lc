@@ -4030,5 +4030,11 @@
     "title": "Threshold Majority Queries",
     "url": "https://leetcode.com/problems/threshold-majority-queries/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "30-08-2026 19:33 UTC",
+    "title": "Maximize Grid Happiness",
+    "url": "https://leetcode.com/problems/maximize-grid-happiness/description",
+    "difficulty": "HARD"
   }
 ]
