@@ -4054,5 +4054,11 @@
     "title": "null",
     "url": "https://leetcode.com/problems/null/description",
     "difficulty": "NULL"
+  },
+  {
+    "day": "03-09-2026 19:29 UTC",
+    "title": "Longest Duplicate Substring",
+    "url": "https://leetcode.com/problems/longest-duplicate-substring/description",
+    "difficulty": "HARD"
   }
 ]
