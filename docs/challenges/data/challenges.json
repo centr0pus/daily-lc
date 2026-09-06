@@ -4072,5 +4072,11 @@
     "title": "null",
     "url": "https://leetcode.com/problems/null/description",
     "difficulty": "NULL"
+  },
+  {
+    "day": "06-09-2026 18:43 UTC",
+    "title": "Maximize Score After N Operations",
+    "url": "https://leetcode.com/problems/maximize-score-after-n-operations/description",
+    "difficulty": "HARD"
   }
 ]
