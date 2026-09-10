@@ -4096,5 +4096,11 @@
     "title": "null",
     "url": "https://leetcode.com/problems/null/description",
     "difficulty": "NULL"
+  },
+  {
+    "day": "10-09-2026 19:19 UTC",
+    "title": "Good Subsequence Queries",
+    "url": "https://leetcode.com/problems/good-subsequence-queries/description",
+    "difficulty": "HARD"
   }
 ]
