@@ -4114,5 +4114,11 @@
     "title": "null",
     "url": "https://leetcode.com/problems/null/description",
     "difficulty": "NULL"
+  },
+  {
+    "day": "13-09-2026 19:03 UTC",
+    "title": "Count Subarrays With Even Odd Ratio II",
+    "url": "https://leetcode.com/problems/count-subarrays-with-even-odd-ratio-ii/description",
+    "difficulty": "HARD"
   }
 ]
