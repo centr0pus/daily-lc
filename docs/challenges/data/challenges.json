@@ -4120,5 +4120,11 @@
     "title": "Count Subarrays With Even Odd Ratio II",
     "url": "https://leetcode.com/problems/count-subarrays-with-even-odd-ratio-ii/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "14-09-2026 20:40 UTC",
+    "title": "Redundant Connection II",
+    "url": "https://leetcode.com/problems/redundant-connection-ii/description",
+    "difficulty": "HARD"
   }
 ]
