@@ -4126,5 +4126,11 @@
     "title": "Redundant Connection II",
     "url": "https://leetcode.com/problems/redundant-connection-ii/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "15-09-2026 19:54 UTC",
+    "title": "Partition Array Into Two Arrays to Minimize Sum Difference",
+    "url": "https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/description",
+    "difficulty": "HARD"
   }
 ]
