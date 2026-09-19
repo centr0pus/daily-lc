@@ -4150,5 +4150,11 @@
     "title": "Remove Invalid Parentheses",
     "url": "https://leetcode.com/problems/remove-invalid-parentheses/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "19-09-2026 19:02 UTC",
+    "title": "null",
+    "url": "https://leetcode.com/problems/null/description",
+    "difficulty": "NULL"
   }
 ]
