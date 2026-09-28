@@ -4204,5 +4204,11 @@
     "title": "null",
     "url": "https://leetcode.com/problems/null/description",
     "difficulty": "NULL"
+  },
+  {
+    "day": "28-09-2026 22:18 UTC",
+    "title": "Numbers At Most N Given Digit Set",
+    "url": "https://leetcode.com/problems/numbers-at-most-n-given-digit-set/description",
+    "difficulty": "HARD"
   }
 ]
