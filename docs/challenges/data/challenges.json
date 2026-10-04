@@ -4240,5 +4240,11 @@
     "title": "null",
     "url": "https://leetcode.com/problems/null/description",
     "difficulty": "NULL"
+  },
+  {
+    "day": "04-10-2026 19:50 UTC",
+    "title": "Maximum Frequency of an Element After Performing Operations II",
+    "url": "https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-ii/description",
+    "difficulty": "HARD"
   }
 ]
