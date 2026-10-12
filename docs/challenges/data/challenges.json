@@ -4288,5 +4288,11 @@
     "title": "null",
     "url": "https://leetcode.com/problems/null/description",
     "difficulty": "NULL"
+  },
+  {
+    "day": "12-10-2026 23:19 UTC",
+    "title": "Maximum Value Sum by Placing Three Rooks II",
+    "url": "https://leetcode.com/problems/maximum-value-sum-by-placing-three-rooks-ii/description",
+    "difficulty": "HARD"
   }
 ]
