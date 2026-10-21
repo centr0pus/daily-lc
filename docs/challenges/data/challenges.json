@@ -4342,5 +4342,11 @@
     "title": "null",
     "url": "https://leetcode.com/problems/null/description",
     "difficulty": "NULL"
+  },
+  {
+    "day": "21-10-2026 20:23 UTC",
+    "title": "Palindrome Pairs",
+    "url": "https://leetcode.com/problems/palindrome-pairs/description",
+    "difficulty": "HARD"
   }
 ]
