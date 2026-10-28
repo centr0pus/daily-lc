@@ -4384,5 +4384,11 @@
     "title": "null",
     "url": "https://leetcode.com/problems/null/description",
     "difficulty": "NULL"
+  },
+  {
+    "day": "28-10-2026 21:23 UTC",
+    "title": "Couples Holding Hands",
+    "url": "https://leetcode.com/problems/couples-holding-hands/description",
+    "difficulty": "HARD"
   }
 ]
