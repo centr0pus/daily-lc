@@ -4408,5 +4408,11 @@
     "title": "null",
     "url": "https://leetcode.com/problems/null/description",
     "difficulty": "NULL"
+  },
+  {
+    "day": "01-11-2026 20:53 UTC",
+    "title": "The Score of Students Solving Math Expression",
+    "url": "https://leetcode.com/problems/the-score-of-students-solving-math-expression/description",
+    "difficulty": "HARD"
   }
 ]
