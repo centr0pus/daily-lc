@@ -4414,5 +4414,11 @@
     "title": "The Score of Students Solving Math Expression",
     "url": "https://leetcode.com/problems/the-score-of-students-solving-math-expression/description",
     "difficulty": "HARD"
+  },
+  {
+    "day": "02-11-2026 23:43 UTC",
+    "title": "Number of Pairs After Increment",
+    "url": "https://leetcode.com/problems/number-of-pairs-after-increment/description",
+    "difficulty": "HARD"
   }
 ]
