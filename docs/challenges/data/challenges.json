@@ -4438,5 +4438,11 @@
     "title": "null",
     "url": "https://leetcode.com/problems/null/description",
     "difficulty": "NULL"
+  },
+  {
+    "day": "06-11-2026 21:50 UTC",
+    "title": "Finding MK Average",
+    "url": "https://leetcode.com/problems/finding-mk-average/description",
+    "difficulty": "HARD"
   }
 ]
