@@ -4498,5 +4498,11 @@
     "title": "null",
     "url": "https://leetcode.com/problems/null/description",
     "difficulty": "NULL"
+  },
+  {
+    "day": "17-11-2026 00:32 UTC",
+    "title": "Number of Effective Subsequences",
+    "url": "https://leetcode.com/problems/number-of-effective-subsequences/description",
+    "difficulty": "HARD"
   }
 ]
